@@ -73,7 +73,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048913915,Boston,2195,apartment,700,1,1,1,0,1,0,0,0,laundry on site,attached garage,42.3177,-71.1766,MA
 7044648604,Portland,1875,townhouse,1608,3,2.5,1,1,0,0,0,0,w/d in unit,attached garage,45.6668,-122.566,OR
 7041770488,Muskegon,745,apartment,780,2,1,1,1,0,1,0,0,laundry in bldg,carport,43.1968,-86.2682,MI
-7045914977,"Quad Cities, Ia/Il",800,apartment,1000,3,2,1,1,1,0,0,0,Unknown,off-street parking,41.5745,-90.5809,IL
+7045914977,Quad Cities  Ia/Il,800,apartment,1000,3,2,1,1,1,0,0,0,Unknown,off-street parking,41.5745,-90.5809,IL
 7030754806,Wilmington,864,apartment,438,1,1,1,1,1,0,0,0,Unknown,off-street parking,34.1572,-77.9141,NC
 7043108917,Denver,3099,apartment,1318,2,2,1,1,0,0,0,0,w/d in unit,attached garage,39.7575,-105.012,CO
 7044565020,Oklahoma City,625,apartment,1081,2,2,0,0,1,0,0,0,Unknown,Unknown,35.4856,-97.6174,OK
@@ -110,7 +110,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7027774849,Abilene,935,apartment,1070,2,2,1,1,1,0,0,0,w/d hookups,Unknown,32.432,-99.7724,TX
 7045766783,Phoenix,1395,apartment,930,2,1,1,1,1,0,0,0,w/d in unit,carport,33.3781,-111.929,AZ
 7036515050,Jackson,715,apartment,960,2,2,0,0,1,0,0,0,laundry on site,off-street parking,32.3055,-90.2309,MS
-7050005202,"Washington, Dc",1550,condo,448,0,1,1,1,1,0,0,1,laundry in bldg,off-street parking,38.9081,-77.0449,DC
+7050005202,Washington  Dc,1550,condo,448,0,1,1,1,1,0,0,1,laundry in bldg,off-street parking,38.9081,-77.0449,DC
 7031489095,College Station,669,apartment,600,1,1,1,1,1,0,0,0,Unknown,Unknown,30.619,-96.3185,TX
 7017388284,Kenosha-Racine,725,apartment,950,2,1,0,0,1,0,0,0,Unknown,off-street parking,42.5617,-87.8301,WI
 7044464580,Albany,910,manufactured,720,2,1,1,1,0,0,0,0,w/d hookups,off-street parking,42.855,-74.0119,NY
@@ -128,7 +128,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048697378,New Hampshire,2050,condo,1500,2,1.5,0,0,0,0,0,0,w/d in unit,off-street parking,42.7291,-71.4952,NH
 7046855262,Dayton / Springfield,639,apartment,986,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,39.8053,-84.0198,OH
 7035201336,Pittsburgh,1250,apartment,580,1,1,0,0,1,0,0,0,Unknown,Unknown,40.439,-80.0052,PA
-7049626103,"St Louis, Mo",895,apartment,850,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.4305,-90.387,IL
+7049626103,St Louis  Mo,895,apartment,850,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.4305,-90.387,IL
 7030659017,Grand Rapids,909,manufactured,1216,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,42.6715,-85.5417,MI
 7031462110,Rochester,725,apartment,875,2,1,1,1,1,0,0,0,laundry on site,Unknown,44.0558,-92.4572,MN
 7019913817,Fredericksburg,1259,townhouse,1353,3,2,1,1,1,0,0,0,w/d hookups,street parking,38.4586,-77.4306,VA
@@ -159,7 +159,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7047971569,Albuquerque,950,condo,755,1,1,0,0,0,0,0,0,laundry on site,off-street parking,35.1419,-106.635,NM
 7046925497,Rhode Island,1185,apartment,734,1,1,1,1,1,0,0,0,Unknown,Unknown,41.7877,-71.3569,RI
 7038576294,Wichita,650,apartment,930,2,1.5,1,1,1,0,0,0,laundry in bldg,off-street parking,37.6194,-97.3557,KS
-7050846069,"St Louis, Mo",1150,apartment,800,2,1,1,1,0,0,0,0,w/d in unit,off-street parking,38.6616,-90.2819,IL
+7050846069,St Louis  Mo,1150,apartment,800,2,1,1,1,0,0,0,0,w/d in unit,off-street parking,38.6616,-90.2819,IL
 7036078835,Champaign Urbana,935,house,957,2,1,1,1,0,0,0,0,w/d hookups,detached garage,40.1155,-88.2686,IL
 7044478790,Rochester,963,apartment,688,1,1,1,1,0,1,1,0,laundry in bldg,Unknown,43.1579,-77.6055,NY
 7025946408,Fort Collins / North Co,1322,apartment,550,1,1,0,0,1,0,0,1,laundry on site,off-street parking,40.5688,-105.093,CO
@@ -209,7 +209,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7039657639,Topeka,535,apartment,270,0,1,0,0,1,0,0,0,Unknown,Unknown,39.0119,-95.7151,KS
 7051078344,Columbus,795,apartment,830,2,1,1,1,1,0,0,0,laundry on site,street parking,39.923,-82.8664,OH
 7013080022,Binghamton,850,house,1200,3,1,1,1,1,1,0,0,w/d in unit,attached garage,42.3384,-75.9522,NY
-7036425684,"Kansas City, Mo",905,apartment,1069,2,2,0,0,1,0,0,0,Unknown,Unknown,39.2383,-94.6576,KS
+7036425684,Kansas City  Mo,905,apartment,1069,2,2,0,0,1,0,0,0,Unknown,Unknown,39.2383,-94.6576,KS
 7044791015,Columbia,750,apartment,685,1,1,0,0,1,0,0,0,Unknown,Unknown,33.9506,-80.9171,SC
 7027707173,Baton Rouge,904,apartment,1055,2,2,1,1,1,0,0,0,w/d in unit,carport,30.4352,-91.0567,LA
 7050903245,Columbia,1049,apartment,1131,2,2,0,0,1,0,0,0,Unknown,Unknown,34.1103,-81.1966,SC
@@ -346,7 +346,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7035390487,Northwest Ct,1908,apartment,764,1,0,1,1,1,0,0,0,Unknown,Unknown,41.0567,-73.5428,CT
 7040683809,Okaloosa / Walton,1305,apartment,1083,2,2,1,1,1,0,0,0,w/d hookups,Unknown,30.3659,-86.2458,FL
 7046935605,Amarillo,950,manufactured,1178,3,2,0,0,1,0,0,0,w/d hookups,off-street parking,35.2766,-101.819,TX
-7043661763,"Kansas City, Mo",729,apartment,647,1,1,1,1,1,1,0,0,w/d in unit,detached garage,39.2383,-94.6576,KS
+7043661763,Kansas City  Mo,729,apartment,647,1,1,1,1,1,1,0,0,w/d in unit,detached garage,39.2383,-94.6576,KS
 7019893871,Delaware,930,apartment,675,2,1,1,1,1,0,0,0,laundry on site,off-street parking,39.1332,-75.5306,DE
 7050585686,Kalamazoo,810,apartment,800,1,1,0,0,0,0,0,0,w/d in unit,off-street parking,42.2856,-85.583,MI
 7040106755,Space Coast,899,apartment,593,1,0,0,0,1,0,0,0,Unknown,Unknown,28.1384,-80.6524,FL
@@ -355,7 +355,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7038750865,Spokane / Coeur D'Alene,850,duplex,800,2,1,0,0,0,0,0,0,laundry in bldg,street parking,47.6455,-117.428,ID
 7048549118,Charlotte,955,apartment,1010,3,0,1,1,1,0,0,0,laundry in bldg,off-street parking,35.232,-81.1805,NC
 7032083727,Flint,1235,apartment,1125,2,2,1,1,1,0,0,0,w/d in unit,carport,42.8009,-83.734,MI
-7049943871,"Kansas City, Mo",897,apartment,877,1,1,1,1,1,0,0,0,Unknown,Unknown,38.9568,-94.6832,KS
+7049943871,Kansas City  Mo,897,apartment,877,1,1,1,1,1,0,0,0,Unknown,Unknown,38.9568,-94.6832,KS
 7006135881,Jonesboro,705,apartment,857,3,1,0,0,1,0,0,0,Unknown,Unknown,35.8452,-90.6834,AR
 7033485356,Amarillo,409,apartment,1125,4,2,1,1,1,1,0,1,w/d in unit,off-street parking,34.9829,-101.902,TX
 7031957812,Dayton / Springfield,500,apartment,735,1,1,0,0,1,0,0,0,laundry on site,off-street parking,39.76,-84.1321,OH
@@ -487,7 +487,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048494420,Denver,1725,apartment,669,1,1,0,0,1,0,0,0,Unknown,Unknown,39.7596,-105.002,CO
 7048248675,Macon / Warner Robins,650,apartment,790,1,1,1,1,1,0,0,0,Unknown,Unknown,32.891,-83.6788,GA
 7043343331,Gainesville,499,apartment,1388,4,4,0,0,1,0,0,0,Unknown,Unknown,29.6954,-82.4023,FL
-7042061077,"Quad Cities, Ia/Il",875,apartment,500,1,1,0,0,0,1,0,0,w/d in unit,off-street parking,41.5362,-90.574,IL
+7042061077,Quad Cities  Ia/Il,875,apartment,500,1,1,0,0,0,1,0,0,w/d in unit,off-street parking,41.5362,-90.574,IL
 7020205029,Pueblo,850,apartment,888,2,1,0,0,0,0,0,0,laundry on site,off-street parking,38.3043,-104.594,CO
 7045662247,Minneapolis / St Paul,1600,apartment,1200,2,2,0,0,0,0,0,0,w/d in unit,attached garage,44.7129,-92.8637,MN
 7019156563,South Bend / Michiana,850,apartment,1000,2,1.5,1,1,1,0,0,0,w/d hookups,attached garage,41.7025,-85.9433,IN
@@ -500,7 +500,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7028183992,Athens,1030,apartment,1368,3,2,1,1,0,0,0,0,w/d hookups,off-street parking,33.9616,-83.434,GA
 7037067998,Frederick,1486,apartment,965,3,1.5,1,1,1,0,0,0,Unknown,Unknown,39.4242,-77.4597,MD
 7040928501,Cleveland,1381,apartment,1100,2,2,0,0,1,0,0,0,Unknown,Unknown,41.5012,-81.4897,OH
-7044776874,"St Louis, Mo",595,apartment,720,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
+7044776874,St Louis  Mo,595,apartment,720,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
 7028277514,Delaware,2330,apartment,1111,2,2,0,0,1,0,0,0,Unknown,Unknown,39.8188,-75.5064,DE
 7031034441,Space Coast,1065,apartment,1200,2,2,1,1,1,0,0,0,laundry on site,Unknown,28.1626,-80.6435,FL
 7012000880,St Joseph,550,house,725,2,1,1,1,1,0,0,0,Unknown,Unknown,39.7688,-94.8385,MO
@@ -518,7 +518,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048389170,Augusta,1025,apartment,1228,3,2,1,1,1,0,0,1,w/d hookups,off-street parking,33.5059,-81.6951,GA
 7040281154,Grand Rapids,925,apartment,716,1,1,1,1,0,0,0,0,laundry in bldg,carport,43.0423,-85.5874,MI
 7050227058,Reno / Tahoe,1850,house,1700,3,2,1,1,0,0,0,0,laundry on site,attached garage,39.7806,-120.611,NV
-7049761612,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049761612,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7051097440,Minneapolis / St Paul,2228,apartment,757,1,1,1,1,0,1,0,0,w/d in unit,attached garage,44.9765,-93.254,MN
 7032956537,Las Cruces,900,manufactured,1216,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,32.3161,-106.799,NM
 7051210193,Austin,900,house,1248,3,2,1,1,1,0,0,0,w/d in unit,attached garage,29.4189,-98.6895,TX
@@ -729,7 +729,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7051250564,Philadelphia,1000,apartment,600,0,1,0,0,1,0,0,0,w/d in unit,street parking,39.9662,-75.1639,PA
 7051046495,South Coast,2350,apartment,800,2,1,1,0,1,0,0,0,laundry in bldg,street parking,42.3521,-71.1251,MA
 7045772455,Jacksonville,820,apartment,800,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,34.7452,-77.3697,NC
-7049927765,"Washington, Dc",1628,apartment,745,1,1,0,0,1,0,0,0,Unknown,Unknown,39.04,-77.0444,DC
+7049927765,Washington  Dc,1628,apartment,745,1,1,0,0,1,0,0,0,Unknown,Unknown,39.04,-77.0444,DC
 7048452146,Boulder,1375,duplex,966,2,1,0,0,0,0,0,0,w/d hookups,attached garage,40.1779,-105.101,CO
 7039370444,Tri-Cities,1300,apartment,1223,2,2,1,1,0,0,0,0,Unknown,no parking,36.5539,-82.5632,TN
 7031659983,Springfield,795,apartment,837,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,37.16,-93.2805,MO
@@ -759,7 +759,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7044588897,Topeka,710,apartment,1488,2,1.5,0,0,1,0,0,0,Unknown,Unknown,39.0119,-95.7151,KS
 7041912571,Wichita Falls,885,apartment,850,2,1.5,1,1,0,0,0,0,laundry on site,Unknown,33.9675,-98.6868,TX
 7050735884,Charleston,929,apartment,834,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,32.8929,-80.0458,SC
-7049091103,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049091103,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7024506888,Dayton / Springfield,1300,condo,1222,2,2.5,0,0,0,0,0,0,w/d hookups,attached garage,39.7096,-84.1006,OH
 7033644895,Corpus Christi,819,apartment,753,2,1,1,1,0,1,0,0,laundry on site,street parking,27.677,-97.365,TX
 7043632777,College Station,619,apartment,900,2,1,1,1,1,0,0,0,w/d hookups,Unknown,30.6371,-96.3773,TX
@@ -812,12 +812,12 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7023765356,Grand Rapids,795,apartment,696,1,1,1,1,1,0,0,0,w/d hookups,Unknown,43.0416,-85.6654,MI
 7048566281,Greensboro,695,apartment,756,1,1,1,1,1,0,0,0,laundry on site,Unknown,36.022,-79.7821,NC
 7006794805,Fayetteville,975,townhouse,1200,2,2.5,0,0,0,0,0,0,w/d in unit,street parking,36.1835,-94.1762,AR
-7030722751,"Quad Cities, Ia/Il",1200,apartment,1600,2,2,1,1,0,0,0,0,w/d in unit,street parking,41.5102,-90.5751,IL
+7030722751,Quad Cities  Ia/Il,1200,apartment,1600,2,2,1,1,0,0,0,0,w/d in unit,street parking,41.5102,-90.5751,IL
 7043391109,Sarasota-Bradenton,800,apartment,720,1,1,1,1,1,0,0,0,laundry on site,Unknown,27.4629,-82.579,FL
 7033365980,Charlottesville,721,apartment,618,1,1,1,1,1,0,0,0,laundry on site,off-street parking,38.0774,-78.9035,VA
 7045847221,Hartford,1375,apartment,633,1,1,1,1,1,0,0,0,w/d in unit,Unknown,41.7703,-72.6719,CT
 7049050454,Reno / Tahoe,1249,apartment,840,2,1,1,1,1,0,0,0,laundry on site,off-street parking,39.5358,-119.746,CA
-7045259177,"Washington, Dc",1895,apartment,940,1,1,1,1,1,0,0,0,w/d in unit,detached garage,38.8276,-77.0896,DC
+7045259177,Washington  Dc,1895,apartment,940,1,1,1,1,1,0,0,0,w/d in unit,detached garage,38.8276,-77.0896,DC
 7037195365,Dayton / Springfield,800,apartment,1107,3,1,1,1,0,0,0,0,w/d hookups,detached garage,39.8015,-84.2203,OH
 7026836435,Annapolis,2366,townhouse,1751,3,2.5,1,1,1,0,0,0,w/d in unit,attached garage,39.1222,-76.591,MD
 7045381893,Fresno / Madera,1810,apartment,1355,2,2.5,0,0,0,0,0,0,w/d in unit,attached garage,36.8716,-119.77,CA
@@ -931,11 +931,11 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7039376724,Clarksville,899,apartment,1152,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,36.522,-87.349,TN
 7030988053,Kennewick-Pasco-Richland,1112,apartment,1112,3,2,1,1,0,0,0,0,w/d in unit,carport,46.3844,-118.944,WA
 7025819785,Rochester,1911,apartment,1294,2,2,1,1,0,0,0,1,w/d in unit,attached garage,43.0646,-77.6169,NY
-7049872905,"Washington, Dc",1695,apartment,1115,2,2,0,0,1,0,0,0,laundry on site,off-street parking,38.9421,-76.9261,DC
+7049872905,Washington  Dc,1695,apartment,1115,2,2,0,0,1,0,0,0,laundry on site,off-street parking,38.9421,-76.9261,DC
 7027397489,Northwest Ct,1500,house,1200,2,1,0,0,1,0,0,0,Unknown,Unknown,41.2091,-73.2086,CT
 7050344688,Philadelphia,1245,apartment,727,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,40.1748,-74.8519,PA
 7050841737,Sheboygan,750,apartment,985,2,2,1,0,0,0,0,0,laundry on site,off-street parking,,,WI
-7030815713,"Quad Cities, Ia/Il",1950,condo,2100,4,3.5,1,1,0,0,0,0,w/d hookups,off-street parking,41.5614,-90.4894,IL
+7030815713,Quad Cities  Ia/Il,1950,condo,2100,4,3.5,1,1,0,0,0,0,w/d hookups,off-street parking,41.5614,-90.4894,IL
 7040156646,Bloomington,2000,house,3000,4,2,0,0,0,0,0,0,laundry on site,attached garage,39.1401,-86.5083,IN
 7044340405,Corpus Christi,2700,house,2800,4,3,1,1,1,0,0,1,w/d in unit,attached garage,27.702,-97.386,TX
 7036753451,South Coast,1635,apartment,1045,2,1,1,1,1,0,0,0,laundry in bldg,Unknown,41.9446,-71.2928,MA
@@ -1005,7 +1005,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7044707856,Eugene,1050,apartment,850,1,1,1,1,0,0,0,0,w/d hookups,carport,44.0582,-123.057,OR
 7049261581,Orange County,2299,apartment,1100,2,2,0,0,1,0,0,0,Unknown,Unknown,33.6427,-117.699,CA
 7050153304,Flint,800,house,1050,4,1.5,0,0,0,0,0,0,w/d hookups,detached garage,43.0128,-83.6914,MI
-7049873599,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049873599,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7045894938,Orlando,1850,apartment,1582,3,2,1,1,1,0,0,0,w/d in unit,detached garage,28.4758,-81.4435,FL
 7009336251,Charlottesville,1295,apartment,831,1,1,1,1,1,1,1,0,w/d in unit,street parking,38.0692,-78.7058,VA
 7051010907,Austin,1222,apartment,779,1,1,0,0,1,0,0,0,Unknown,Unknown,30.4521,-97.7688,TX
@@ -1017,13 +1017,13 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045335196,Greenville / Upstate,889,apartment,928,2,2,1,1,1,1,0,0,w/d in unit,street parking,34.9286,-81.9883,SC
 7040035073,South Jersey,2245,apartment,1237,2,2,0,0,0,1,0,0,w/d in unit,carport,40.4085,-74.2335,NJ
 7043397034,Raleigh / Durham / Ch,559,house,1352,3,3,1,1,1,0,0,1,Unknown,Unknown,35.7076,-78.6563,NC
-7048074304,"St Louis, Mo",600,apartment,1300,2,1,0,0,1,0,0,0,laundry on site,street parking,38.5633,-90.2495,IL
+7048074304,St Louis  Mo,600,apartment,1300,2,1,0,0,1,0,0,0,laundry on site,street parking,38.5633,-90.2495,IL
 7041242067,Athens,850,apartment,960,2,2,1,1,0,0,0,0,w/d hookups,off-street parking,33.9461,-83.418,GA
-7049599572,"Kansas City, Mo",945,apartment,572,1,1,1,1,0,0,0,0,laundry in bldg,off-street parking,39.0837,-94.5868,KS
+7049599572,Kansas City  Mo,945,apartment,572,1,1,1,1,0,0,0,0,laundry in bldg,off-street parking,39.0837,-94.5868,KS
 7023881069,Tuscaloosa,748,apartment,1015,2,2,1,1,1,0,0,0,w/d in unit,street parking,33.1836,-87.5262,AL
 7032405975,Sierra Vista,855,apartment,762,2,2,1,1,1,0,0,0,w/d in unit,carport,31.5501,-110.282,AZ
 7032294790,Fayetteville,990,apartment,1456,3,2,0,0,1,0,0,0,Unknown,Unknown,35.0583,-79.008,NC
-7042870116,"Kansas City, Mo",1295,duplex,1342,3,1.5,1,1,1,0,0,0,w/d hookups,attached garage,38.9657,-94.7393,KS
+7042870116,Kansas City  Mo,1295,duplex,1342,3,1.5,1,1,1,0,0,0,w/d hookups,attached garage,38.9657,-94.7393,KS
 7033340790,Chico,900,house,913,2,1,1,1,0,1,0,0,w/d in unit,attached garage,39.7224,-121.811,CA
 7039963004,Hartford,376,house,2160,3,2,1,1,1,0,0,1,Unknown,Unknown,41.7905,-72.6964,CT
 7042220874,Albany,600,apartment,1000,1,1,0,0,0,0,0,0,no laundry on site,street parking,42.684,-74.4939,NY
@@ -1047,7 +1047,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043475710,Dallas / Fort Worth,1536,apartment,1068,2,0,0,0,1,0,0,0,Unknown,Unknown,32.7781,-96.8054,TX
 7051015006,Las Vegas,875,apartment,900,1,1,1,1,1,0,0,0,laundry on site,carport,36.1269,-115.143,NV
 7027654824,Bakersfield,1700,apartment,1560,3,2,1,1,1,0,0,0,w/d in unit,Unknown,35.4006,-119.075,CA
-7049920159,"Washington, Dc",1575,apartment,787,1,1,1,1,1,0,0,0,w/d in unit,attached garage,39.0455,-76.9242,DC
+7049920159,Washington  Dc,1575,apartment,787,1,1,1,1,1,0,0,0,w/d in unit,attached garage,39.0455,-76.9242,DC
 7031200038,Peoria,630,apartment,850,2,1,1,1,1,0,0,0,no laundry on site,off-street parking,40.6318,-89.5508,IL
 7041186123,Memphis,549,apartment,652,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.0518,-89.918,TN
 7027657140,Holland,1499,duplex,1294,2,2,1,1,1,1,0,0,w/d hookups,attached garage,42.8094,-85.99,MI
@@ -1056,11 +1056,11 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049657508,Columbia,353,house,1796,3,2,1,1,1,0,0,1,Unknown,Unknown,34.0479,-81.1101,SC
 7035264013,Western Slope,940,apartment,600,2,1,1,1,1,0,0,0,laundry on site,carport,38.5511,-106.931,CO
 7039600080,Spokane / Coeur D'Alene,1850,house,1700,3,1.5,0,1,1,0,0,0,w/d in unit,detached garage,47.6292,-117.412,ID
-7045428940,"Quad Cities, Ia/Il",1125,house,1040,3,1,1,1,1,0,0,0,Unknown,attached garage,41.4885,-90.321,IL
+7045428940,Quad Cities  Ia/Il,1125,house,1040,3,1,1,1,1,0,0,0,Unknown,attached garage,41.4885,-90.321,IL
 7040011188,Lexington,799,apartment,1200,2,1.5,1,1,1,0,0,0,w/d in unit,off-street parking,37.9889,-84.4977,KY
 7040614135,Delaware,1325,apartment,643,1,1,0,0,1,0,0,0,Unknown,Unknown,39.7449,-75.5491,DE
 7049107708,Watertown,595,apartment,600,1,1,0,0,0,0,0,0,no laundry on site,off-street parking,43.9743,-75.9122,NY
-7034465109,"St Louis, Mo",1150,apartment,2048,5,2.5,1,0,1,0,0,0,Unknown,Unknown,38.9415,-89.9644,IL
+7034465109,St Louis  Mo,1150,apartment,2048,5,2.5,1,0,1,0,0,0,Unknown,Unknown,38.9415,-89.9644,IL
 7041240269,Delaware,1340,apartment,800,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,39.7011,-75.7375,DE
 7039189103,Elmira-Corning,700,apartment,780,2,1,0,0,0,0,0,0,w/d hookups,off-street parking,42.1396,-77.0442,NY
 7049127105,Flint,941,apartment,1182,3,2,1,1,1,0,0,0,w/d in unit,street parking,42.9282,-83.6264,MI
@@ -1083,7 +1083,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033415028,Corpus Christi,795,apartment,652,1,1,1,1,1,0,0,0,w/d hookups,Unknown,27.6758,-97.3475,TX
 7049431640,Phoenix,1800,house,1481,3,2,1,1,1,0,0,0,w/d hookups,attached garage,33.6269,-111.863,AZ
 7031640418,Wilmington,1395,apartment,1356,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,34.2673,-77.8314,NC
-7050015767,"Washington, Dc",1299,apartment,730,1,1,1,1,1,0,0,0,Unknown,Unknown,39.1821,-77.5359,DC
+7050015767,Washington  Dc,1299,apartment,730,1,1,1,1,1,0,0,0,Unknown,Unknown,39.1821,-77.5359,DC
 7040690991,Bellingham,1150,apartment,528,1,1,1,1,0,1,0,0,Unknown,street parking,48.7974,-122.445,WA
 7040275625,Killeen / Temple / Ft Hood,875,apartment,1148,3,2,0,0,1,0,0,0,w/d hookups,off-street parking,31.1006,-97.7459,TX
 7050943759,Las Vegas,1256,apartment,1240,3,2,1,1,1,0,0,0,w/d in unit,carport,36.247,-115.144,NV
@@ -1105,7 +1105,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048957943,Victoria,620,house,640,2,2,1,1,1,0,0,0,Unknown,Unknown,28.809,-96.9993,TX
 7043387276,Fayetteville,860,apartment,855,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.183,-78.9786,NC
 7048310654,Tulsa,750,apartment,864,2,1.5,0,0,1,0,0,0,no laundry on site,off-street parking,36.0948,-95.9655,OK
-7051083879,"Kansas City, Mo",635,apartment,610,2,1,0,0,1,0,0,0,Unknown,Unknown,39.2436,-94.5655,KS
+7051083879,Kansas City  Mo,635,apartment,610,2,1,0,0,1,0,0,0,Unknown,Unknown,39.2436,-94.5655,KS
 7035955164,Central Nj,1085,apartment,800,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,40.0093,-75.0338,NJ
 7048908093,Charlotte,860,apartment,1055,2,2,1,1,1,0,0,1,w/d hookups,off-street parking,35.0397,-78.8882,NC
 7044867941,Birmingham,925,apartment,1133,1,1.5,1,1,1,0,0,0,laundry on site,street parking,33.4226,-86.7065,AL
@@ -1130,7 +1130,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050807232,Oklahoma City,695,apartment,700,1,1,0,0,1,0,0,0,laundry in bldg,detached garage,35.4874,-97.574,OK
 7048648316,Flagstaff / Sedona,1328,apartment,737,2,1,1,1,1,0,0,0,laundry on site,carport,35.2019,-111.633,AZ
 7027997354,St Cloud,870,apartment,771,1,1,1,1,1,0,0,0,w/d in unit,attached garage,45.568,-94.2462,MN
-7049661495,"Washington, Dc",1650,condo,780,1,1,0,0,0,0,0,1,laundry in bldg,off-street parking,39.0273,-77.0955,DC
+7049661495,Washington  Dc,1650,condo,780,1,1,0,0,0,0,0,1,laundry in bldg,off-street parking,39.0273,-77.0955,DC
 7028062991,Lincoln,950,apartment,724,1,1,1,1,0,0,0,1,w/d in unit,Unknown,40.7504,-96.6099,NE
 7026846008,Tuscaloosa,1015,apartment,1050,2,2,1,1,1,0,0,0,w/d hookups,carport,33.2165,-87.5774,AL
 7032087070,Eastern Nc,550,apartment,565,1,1,0,0,1,0,0,0,w/d hookups,off-street parking,35.206,-77.6576,NC
@@ -1160,7 +1160,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031773129,Memphis,649,apartment,875,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.0639,-89.8461,TN
 7050817445,Louisville,650,house,700,2,1,1,1,1,0,0,0,Unknown,off-street parking,38.2655,-85.8089,KY
 7043635764,Akron / Canton,700,apartment,670,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.1108,-81.4745,OH
-7009597949,"Quad Cities, Ia/Il",575,apartment,800,1,1,1,1,0,0,0,0,w/d hookups,off-street parking,41.6312,-89.9467,IL
+7009597949,Quad Cities  Ia/Il,575,apartment,800,1,1,1,1,0,0,0,0,w/d hookups,off-street parking,41.6312,-89.9467,IL
 7041291773,Rhode Island,2650,apartment,1873,3,2,1,1,1,0,0,0,w/d in unit,attached garage,41.7363,-71.2863,RI
 7039961462,Flint,695,house,700,2,1,0,0,1,0,0,0,w/d hookups,Unknown,43.116,-83.6895,MI
 7045913559,Baton Rouge,889,apartment,660,2,2,0,0,1,0,0,0,Unknown,Unknown,30.4273,-91.0356,LA
@@ -1170,7 +1170,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043365981,Colorado Springs,1880,house,1634,3,3,1,1,1,0,0,0,w/d hookups,attached garage,38.7422,-104.642,CO
 7049611915,Tampa Bay Area,1325,apartment,946,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,28.0384,-82.3949,FL
 7027187727,Ogden-Clearfield,1350,apartment,1152,3,2,1,1,0,0,0,0,w/d in unit,carport,41.0914,-111.966,UT
-7049319746,"St Louis, Mo",1970,apartment,1270,2,2,1,1,0,1,0,0,w/d in unit,attached garage,38.6491,-90.5358,IL
+7049319746,St Louis  Mo,1970,apartment,1270,2,2,1,1,0,1,0,0,w/d in unit,attached garage,38.6491,-90.5358,IL
 7046517149,Central Nj,950,apartment,1138,2,2,0,0,0,1,0,0,w/d in unit,off-street parking,40.3232,-74.6574,NJ
 7036027835,Dallas / Fort Worth,1605,apartment,1211,2,2,0,0,1,0,0,0,Unknown,Unknown,32.9503,-96.819,TX
 7043988322,Mohave County,899,apartment,976,2,2,1,1,1,0,0,0,w/d in unit,attached garage,35.107,-114.569,AZ
@@ -1301,18 +1301,18 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7034597824,Palm Springs,1150,apartment,476,0,1,1,1,1,0,0,0,laundry on site,Unknown,33.8195,-116.528,CA
 7043076003,Memphis,1201,apartment,1206,2,2,0,0,1,0,0,0,Unknown,Unknown,35.1602,-89.7816,TN
 7035397037,Orlando,1604,apartment,792,1,1,1,1,0,1,0,0,w/d in unit,Unknown,28.4547,-81.2875,FL
-7048580226,"Washington, Dc",1606,apartment,1013,2,2,0,0,1,0,0,0,Unknown,Unknown,38.6438,-77.3451,DC
+7048580226,Washington  Dc,1606,apartment,1013,2,2,0,0,1,0,0,0,Unknown,Unknown,38.6438,-77.3451,DC
 7030766251,Southwest Michigan,769,apartment,771,2,1,1,1,1,0,0,0,laundry on site,off-street parking,41.8449,-86.25,MI
 7041570246,Tallahassee,1121,apartment,915,1,1,1,0,1,0,0,0,w/d in unit,Unknown,30.415,-84.2325,FL
 7043382050,Gainesville,1249,apartment,729,1,1,1,1,1,1,0,0,w/d in unit,off-street parking,29.6774,-82.3486,FL
 7024919810,Treasure Coast,1750,house,2424,3,2,0,0,1,0,0,0,Unknown,Unknown,27.2889,-80.298,FL
-7049356952,"Kansas City, Mo",935,apartment,800,1,1,1,1,0,0,0,0,w/d hookups,carport,38.9928,-94.6771,KS
+7049356952,Kansas City  Mo,935,apartment,800,1,1,1,1,0,0,0,0,w/d hookups,carport,38.9928,-94.6771,KS
 7019873716,Southern Illinois,589,apartment,600,1,1,1,1,0,0,0,0,laundry on site,off-street parking,37.7269,-89.1943,IL
 7046895594,Pensacola,899,apartment,650,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,30.4564,-87.2104,FL
 7043517685,Knoxville,1009,apartment,1132,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.9244,-84.0015,TN
 7035257743,Columbia,1750,condo,1600,3,3,0,0,0,0,0,0,w/d in unit,Unknown,33.8709,-80.894,SC
 7037969669,New Hampshire,1149,apartment,633,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,42.9982,-71.4191,NH
-7049830177,"Washington, Dc",1735,apartment,460,1,1,1,0,1,0,0,0,laundry on site,attached garage,38.9272,-77.0412,DC
+7049830177,Washington  Dc,1735,apartment,460,1,1,1,0,1,0,0,0,laundry on site,attached garage,38.9272,-77.0412,DC
 7044547370,Killeen / Temple / Ft Hood,475,apartment,525,1,1,1,1,1,0,0,0,no laundry on site,off-street parking,31.1223,-97.7185,TX
 7031021766,Rochester,1285,apartment,1045,2,2,1,1,1,0,0,0,w/d in unit,attached garage,44.0224,-92.5078,MN
 7035385884,Worcester / Central Ma,1175,condo,1000,2,1,0,0,1,0,0,0,w/d hookups,Unknown,42.2624,-71.8003,MA
@@ -1341,7 +1341,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7026965335,Montgomery,605,apartment,1025,2,2,1,1,0,0,0,0,laundry on site,Unknown,32.3724,-86.2052,AL
 7041060204,Chico,1900,house,1800,4,2,0,0,1,0,0,0,w/d hookups,attached garage,39.7224,-121.811,CA
 7040960562,Orlando,908,apartment,528,1,1,1,1,1,0,0,0,laundry on site,Unknown,28.6523,-81.3415,FL
-7049911183,"Washington, Dc",1549,apartment,570,0,1,1,1,0,0,0,0,laundry in bldg,Unknown,38.9327,-77.0322,DC
+7049911183,Washington  Dc,1549,apartment,570,0,1,1,1,0,0,0,0,laundry in bldg,Unknown,38.9327,-77.0322,DC
 7041544780,Chattanooga,969,apartment,1162,2,2,1,1,1,1,0,0,w/d in unit,off-street parking,35.0333,-85.1446,TN
 7047103630,Des Moines,625,apartment,572,1,1,1,1,0,0,0,0,laundry in bldg,Unknown,41.5235,-93.6064,IA
 7049991390,San Diego,2398,apartment,1040,2,2,1,1,0,0,0,0,w/d in unit,attached garage,33.1289,-117.165,CA
@@ -1472,7 +1472,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7046155711,San Diego,1695,apartment,925,2,1.5,0,0,1,0,0,0,laundry on site,off-street parking,32.7417,-117.036,CA
 7040516828,Buffalo,875,apartment,900,2,1,0,0,0,0,0,0,no laundry on site,Unknown,42.9577,-78.8438,NY
 7040868858,Asheville,950,apartment,501,1,1,1,1,1,0,0,0,Unknown,off-street parking,35.5393,-82.518,NC
-7050718120,"St Louis, Mo",1295,apartment,1300,2,1,0,0,1,0,0,0,w/d hookups,Unknown,38.6459,-90.3264,IL
+7050718120,St Louis  Mo,1295,apartment,1300,2,1,0,0,1,0,0,0,w/d hookups,Unknown,38.6459,-90.3264,IL
 7032996520,Milwaukee,659,apartment,660,1,1,1,0,0,1,0,0,laundry in bldg,off-street parking,43.0058,-88.8173,WI
 7037699152,Evansville,1099,apartment,1200,3,1.5,1,1,1,0,0,1,w/d hookups,Unknown,37.9744,-87.4742,IN
 7047316444,Richmond,815,apartment,822,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,37.5122,-77.4887,VA
@@ -1509,7 +1509,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043454376,Detroit Metro,825,apartment,1100,1,1,1,1,1,0,0,0,Unknown,Unknown,42.2317,-83.2673,MI
 7048406763,Ft Myers / Sw Florida,1550,apartment,1196,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,26.0426,-81.7182,FL
 7039706363,Madison,925,apartment,785,2,1,0,0,1,0,0,0,laundry in bldg,off-street parking,43.0356,-89.4526,WI
-7044073849,"Kansas City, Mo",500,house,1000,3,1,1,1,1,0,0,0,w/d hookups,attached garage,38.9712,-94.496,KS
+7044073849,Kansas City  Mo,500,house,1000,3,1,1,1,1,0,0,0,w/d hookups,attached garage,38.9712,-94.496,KS
 7040243420,Eastern Nc,659,apartment,1502,4,4,1,1,1,0,0,1,w/d in unit,Unknown,35.602,-77.3702,NC
 7049405590,Ventura County,2431,apartment,924,2,2,1,1,0,0,0,0,w/d in unit,carport,34.2724,-118.8,CA
 7024100122,Visalia-Tulare,935,apartment,530,1,1,0,0,1,0,0,0,laundry on site,carport,36.7939,-119.727,CA
@@ -1533,7 +1533,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048248159,Norfolk / Hampton Roads,815,apartment,864,2,1,0,0,1,0,0,0,Unknown,Unknown,37.058,-76.4607,VA
 7045478572,Omaha / Council Bluffs,829,apartment,602,0,1,1,1,0,0,0,0,w/d in unit,off-street parking,41.2355,-96.1688,IA
 7041199263,Worcester / Central Ma,1250,apartment,1150,3,1,0,0,1,0,0,0,w/d hookups,off-street parking,42.245,-71.838,MA
-7043404095,"St Louis, Mo",595,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,38.6616,-90.2819,IL
+7043404095,St Louis  Mo,595,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,38.6616,-90.2819,IL
 7049256491,Rochester,1600,townhouse,1500,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,43.1451,-77.6143,NY
 7044723446,Williamsport,750,apartment,547,1,1,1,1,1,0,0,0,laundry on site,off-street parking,41.2349,-77.0612,PA
 7043484517,Dallas / Fort Worth,1903,apartment,821,1,1,1,1,1,0,0,0,w/d in unit,Unknown,,,TX
@@ -1578,7 +1578,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040881957,Rochester,1400,apartment,857,2,2,1,1,0,1,0,0,w/d in unit,detached garage,43.064,-77.6938,NY
 7032059356,College Station,389,apartment,1107,4,2,1,1,0,0,0,1,w/d in unit,carport,30.5922,-96.3276,TX
 7026455570,Winston-Salem,1215,apartment,1456,3,2,1,1,1,1,0,0,w/d hookups,off-street parking,36.1428,-80.3069,NC
-7035830676,"Kansas City, Mo",794,apartment,626,1,1,0,0,1,0,0,0,Unknown,Unknown,38.9649,-94.7209,KS
+7035830676,Kansas City  Mo,794,apartment,626,1,1,0,0,1,0,0,0,Unknown,Unknown,38.9649,-94.7209,KS
 7031109787,Lancaster,600,house,990,3,1,1,1,1,1,0,0,w/d hookups,attached garage,40.3812,-76.4368,PA
 7049695015,Dayton / Springfield,810,townhouse,1000,2,1.5,1,1,1,0,0,0,w/d hookups,off-street parking,39.7957,-84.0325,OH
 7027082883,Roanoke,899,apartment,1150,2,1.5,0,0,1,0,0,0,Unknown,Unknown,37.2867,-79.9957,VA
@@ -1592,7 +1592,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7027378159,Jackson,989,apartment,1200,3,2,1,1,1,0,0,0,w/d in unit,attached garage,35.6957,-88.8594,TN
 7050794325,Detroit Metro,1137,apartment,900,1,1,1,1,1,0,0,0,w/d in unit,detached garage,42.7031,-83.307,MI
 7049100651,Hudson Valley,1063,apartment,584,1,1,1,1,1,0,0,0,w/d hookups,Unknown,41.6241,-73.913,NY
-7048331547,"Washington, Dc",1930,apartment,1129,2,2,1,1,0,1,0,1,w/d in unit,attached garage,39.1077,-76.872,DC
+7048331547,Washington  Dc,1930,apartment,1129,2,2,1,1,0,1,0,1,w/d in unit,attached garage,39.1077,-76.872,DC
 7048305914,Boston,1950,apartment,1200,3,1,1,1,1,0,0,0,w/d in unit,off-street parking,42.6282,-71.3018,MA
 7031064326,Fayetteville,1615,apartment,1493,3,2,0,0,1,0,0,0,w/d in unit,attached garage,36.0877,-94.3093,AR
 7042548601,Baltimore,2050,apartment,1834,2,2,0,0,1,0,0,0,Unknown,Unknown,39.3764,-76.729,MD
@@ -1657,7 +1657,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043523655,Tampa Bay Area,849,apartment,700,1,1,1,1,1,1,0,0,w/d hookups,Unknown,28.2193,-82.6652,FL
 7031291953,St Cloud,910,apartment,1000,2,1.5,1,1,1,0,0,0,Unknown,Unknown,45.5457,-94.2229,MN
 7043432033,Gainesville,959,apartment,750,1,1,1,1,1,0,0,0,laundry on site,Unknown,29.6347,-82.3582,FL
-7049660330,"Washington, Dc",1470,apartment,1103,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,39.188,-77.2358,DC
+7049660330,Washington  Dc,1470,apartment,1103,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,39.188,-77.2358,DC
 7044628165,Tallahassee,982,apartment,733,1,1,1,1,1,0,0,0,w/d in unit,Unknown,30.4152,-84.232,FL
 7009341993,Hattiesburg,640,house,930,3,1,1,1,1,0,0,0,Unknown,Unknown,31.2327,-89.2672,MS
 7048664189,Tulsa,565,apartment,865,1,1,0,0,1,0,0,0,laundry on site,off-street parking,36.1448,-95.8866,OK
@@ -1671,7 +1671,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7039822214,Kennewick-Pasco-Richland,995,apartment,710,2,1,1,1,0,0,0,0,w/d in unit,carport,46.2522,-119.288,WA
 7037672231,El Paso,950,house,910,3,1,1,1,1,0,0,0,w/d hookups,attached garage,31.7978,-106.275,TX
 7044661260,Colorado Springs,1195,house,750,1,1,0,1,0,0,0,0,w/d in unit,off-street parking,38.8204,-104.825,CO
-7046923089,"St Louis, Mo",1081,apartment,367,1,1,1,1,0,1,0,0,laundry on site,off-street parking,38.6402,-90.2651,IL
+7046923089,St Louis  Mo,1081,apartment,367,1,1,1,1,0,1,0,0,laundry on site,off-street parking,38.6402,-90.2651,IL
 7043321004,Asheville,1410,apartment,1311,3,2,0,0,1,0,0,0,Unknown,Unknown,35.5808,-82.6078,NC
 7050704217,Charlotte,944,apartment,1262,3,2,1,1,1,0,0,0,w/d hookups,Unknown,35.803,-80.8522,NC
 7043955761,Savannah / Hinesville,1340,apartment,1295,3,2,1,1,1,0,0,0,w/d in unit,Unknown,32.0885,-81.1628,GA
@@ -1703,7 +1703,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031288202,Columbus,499,apartment,965,2,2,0,0,1,0,0,0,Unknown,Unknown,32.4779,-84.898,GA
 7024004199,Chattanooga,919,apartment,1054,2,1.5,1,1,1,0,0,0,Unknown,Unknown,35.081,-85.2979,TN
 7046896390,Reno / Tahoe,1496,apartment,910,2,2,1,1,1,0,0,0,w/d in unit,carport,39.4814,-119.859,CA
-7046885818,"St Louis, Mo",2020,house,2032,4,3.5,1,1,1,1,0,0,w/d in unit,attached garage,38.8014,-90.5065,IL
+7046885818,St Louis  Mo,2020,house,2032,4,3.5,1,1,1,1,0,0,w/d in unit,attached garage,38.8014,-90.5065,IL
 7043486422,Dayton / Springfield,639,apartment,986,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,39.8053,-84.0198,OH
 7026778907,Hartford,1589,apartment,950,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,41.5937,-72.6969,CT
 7047572538,Spokane / Coeur D'Alene,950,apartment,719,1,1,1,1,0,0,0,0,w/d in unit,carport,47.7005,-117.284,ID
@@ -1741,7 +1741,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7046746557,Rochester,604,apartment,630,1,1,1,1,0,1,1,0,laundry in bldg,Unknown,43.1579,-77.6055,NY
 7048953530,Roanoke,645,apartment,800,2,1,1,1,0,0,0,0,Unknown,Unknown,37.2886,-80.0041,VA
 7036693300,Gainesville,1376,apartment,1170,2,2,1,1,0,0,0,0,w/d in unit,Unknown,29.628,-82.3781,FL
-7045280545,"Kansas City, Mo",1816,apartment,2000,3,2.5,1,1,1,0,0,0,w/d hookups,off-street parking,38.9581,-94.6336,KS
+7045280545,Kansas City  Mo,1816,apartment,2000,3,2.5,1,1,1,0,0,0,w/d hookups,off-street parking,38.9581,-94.6336,KS
 7039360170,Fort Wayne,706,apartment,962,2,2,1,1,1,0,0,0,w/d hookups,Unknown,41.0494,-85.0026,IN
 7051055605,Ann Arbor,2077,townhouse,1200,2,2.5,1,1,1,0,0,0,w/d in unit,attached garage,42.2521,-83.7509,MI
 7040829054,Harrisburg,595,apartment,1150,2,2.5,0,0,1,0,0,0,w/d hookups,Unknown,40.2793,-76.8921,PA
@@ -1765,7 +1765,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7029634560,Fort Wayne,734,apartment,960,2,1,1,1,1,0,0,0,laundry on site,off-street parking,41.359,-85.0468,IN
 7040696555,Central Nj,2284,apartment,1287,2,2,1,1,1,0,0,0,Unknown,Unknown,40.5677,-74.558,NJ
 7022790591,Okaloosa / Walton,1195,house,928,3,2,1,1,1,0,0,0,Unknown,Unknown,30.4263,-86.6607,FL
-7043447399,"St Louis, Mo",605,apartment,750,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.7196,-90.27,IL
+7043447399,St Louis  Mo,605,apartment,750,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.7196,-90.27,IL
 7040922768,South Florida,1600,apartment,1066,1,2,0,0,1,0,0,0,Unknown,Unknown,25.9449,-80.1391,FL
 7024491179,Charleston,829,apartment,914,2,1,0,0,1,0,0,0,Unknown,Unknown,32.798,-80.003,SC
 7041395241,Youngstown,530,apartment,950,2,1,0,0,0,0,0,0,laundry in bldg,carport,41.0476,-80.66,OH
@@ -1853,7 +1853,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040684485,Tampa Bay Area,1328,apartment,1020,2,1,1,1,1,0,0,0,Unknown,Unknown,27.8738,-82.64,FL
 7030878758,Evansville,800,apartment,830,1,1,0,0,1,0,0,0,Unknown,Unknown,37.9863,-87.6257,IN
 7033555764,Panama City,1367,apartment,1361,3,3,1,1,0,0,0,0,w/d hookups,Unknown,30.1653,-85.5763,FL
-7049610750,"Washington, Dc",2250,apartment,578,1,1,0,0,1,0,0,0,laundry in bldg,Unknown,38.9067,-77.0312,DC
+7049610750,Washington  Dc,2250,apartment,578,1,1,0,0,1,0,0,0,laundry in bldg,Unknown,38.9067,-77.0312,DC
 7049622345,Orange County,3200,house,1500,4,2,0,0,1,0,0,0,w/d in unit,attached garage,33.721,-118.003,CA
 7046820160,Mobile,1406,apartment,1562,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,30.531,-87.8838,AL
 7045501659,Salt Lake City,1168,apartment,1017,2,1,0,0,1,0,0,0,Unknown,Unknown,40.6916,-112.001,UT
@@ -1872,7 +1872,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7027391567,Tallahassee,845,apartment,718,1,1,1,1,1,0,0,0,laundry on site,Unknown,30.4874,-84.3189,FL
 7033285115,St Cloud,1434,apartment,1056,2,2,1,1,1,0,0,0,Unknown,Unknown,45.2889,-93.7613,MN
 7043122820,Wyoming,1000,condo,1000,2,2.5,0,0,1,0,0,0,w/d in unit,Unknown,41.1701,-104.825,WY
-7049781187,"Washington, Dc",1528,apartment,728,2,1,1,1,0,0,0,1,laundry in bldg,Unknown,39.04,-77.0444,DC
+7049781187,Washington  Dc,1528,apartment,728,2,1,1,1,0,0,0,1,laundry in bldg,Unknown,39.04,-77.0444,DC
 7017692201,Jonesboro,1200,apartment,1500,3,2,1,1,1,1,0,0,w/d in unit,off-street parking,35.7792,-90.766,AR
 7044866392,Omaha / Council Bluffs,742,apartment,850,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.2955,-96.1008,IA
 7036753057,Cedar Rapids,999,apartment,960,2,1.5,1,1,1,0,0,0,w/d hookups,street parking,42.0453,-91.6387,IA
@@ -1889,7 +1889,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048344374,Reno / Tahoe,289,apartment,250,0,1,1,1,1,1,0,1,laundry on site,Unknown,39.5357,-119.805,CA
 7042739903,Myrtle Beach,1375,house,1350,3,2,0,0,0,0,0,0,w/d hookups,attached garage,33.7377,-78.9787,SC
 7040229887,New River Valley,650,apartment,990,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,36.9961,-79.8818,VA
-7046684941,"Quad Cities, Ia/Il",900,house,1241,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5164,-90.6141,IL
+7046684941,Quad Cities  Ia/Il,900,house,1241,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5164,-90.6141,IL
 7043603661,Athens,1730,apartment,960,2,2,1,1,0,0,0,1,w/d in unit,off-street parking,33.9321,-83.3525,GA
 7035971496,Salem,1380,apartment,882,2,1,1,1,1,0,0,0,w/d hookups,carport,44.8692,-123.02,OR
 7012126928,Modesto,2115,apartment,1217,2,2,1,1,1,0,0,0,w/d in unit,attached garage,37.7808,-121.234,CA
@@ -1996,7 +1996,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045269643,Lafayette,802,apartment,626,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,30.1582,-92.0236,LA
 7010162252,Beaumont / Port Arthur,1064,apartment,789,1,1,0,0,1,0,0,0,Unknown,Unknown,30.1365,-94.1905,TX
 7033281574,Corvallis/Albany,945,apartment,935,2,1,1,1,0,0,0,0,w/d hookups,carport,44.6254,-123.076,OR
-7036462181,"St Louis, Mo",675,apartment,700,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,38.6775,-90.2757,IL
+7036462181,St Louis  Mo,675,apartment,700,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,38.6775,-90.2757,IL
 7035114242,Corpus Christi,1034,apartment,789,1,1,1,1,1,0,0,0,w/d hookups,detached garage,27.6756,-97.3641,TX
 7039613442,Jackson,775,apartment,1150,2,2,0,0,1,0,0,0,Unknown,Unknown,35.6319,-88.7858,TN
 7047155862,Space Coast,1939,apartment,1409,3,2,0,0,1,0,0,0,Unknown,Unknown,28.1331,-80.7112,FL
@@ -2040,8 +2040,8 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045860901,Memphis,789,apartment,1018,2,2,1,1,1,1,0,0,Unknown,Unknown,34.8093,-90.3052,TN
 7048610791,Champaign Urbana,790,apartment,700,2,1,1,1,0,0,0,1,laundry in bldg,off-street parking,40.1115,-88.2161,IL
 7035762981,Hilton Head,875,apartment,660,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,32.4316,-80.6698,SC
-7049831569,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
-7048323977,"Kansas City, Mo",935,apartment,975,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.0725,-94.5829,KS
+7049831569,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7048323977,Kansas City  Mo,935,apartment,975,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.0725,-94.5829,KS
 7046030790,Tulsa,750,apartment,864,2,1.5,0,0,1,0,0,0,no laundry on site,off-street parking,36.1259,-95.8654,OK
 7036017366,Deep East Texas,579,apartment,630,2,1,1,1,1,0,0,0,laundry on site,off-street parking,31.7195,-94.6168,TX
 7043319313,Knoxville,575,apartment,650,1,1,1,1,1,0,0,0,Unknown,Unknown,36.0376,-83.939,TN
@@ -2063,7 +2063,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7041820832,Eastern Ct,1525,apartment,917,1,1,1,1,1,1,0,0,w/d in unit,Unknown,41.3572,-72.0579,CT
 7023718495,Ocala,817,apartment,923,2,2,1,1,1,0,0,0,w/d hookups,Unknown,28.8998,-81.9096,FL
 7044598577,Boulder,1475,apartment,656,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,39.961,-105.147,CO
-7042110470,"Kansas City, Mo",975,apartment,1030,3,2,1,1,1,0,0,0,laundry in bldg,off-street parking,39.1256,-94.7541,KS
+7042110470,Kansas City  Mo,975,apartment,1030,3,2,1,1,1,0,0,0,laundry in bldg,off-street parking,39.1256,-94.7541,KS
 7050034219,Inland Empire,2005,apartment,1050,2,2,1,1,0,1,0,0,w/d in unit,carport,34.0773,-117.564,CA
 7024575594,Ann Arbor,829,apartment,570,1,1,1,1,0,0,0,0,laundry in bldg,off-street parking,42.243,-83.6732,MI
 7043629912,Tallahassee,1170,apartment,1695,3,3,0,0,1,0,0,0,Unknown,Unknown,30.4937,-84.3293,FL
@@ -2158,7 +2158,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033406320,Fayetteville,550,apartment,660,1,1,1,1,1,0,0,0,laundry on site,Unknown,35.05,-78.9666,NC
 7045423909,Hawaii,2700,apartment,900,0,1,1,1,1,0,0,1,w/d in unit,Unknown,20.8628,-156.517,HI
 7044631144,Delaware,1269,apartment,1221,2,2,1,1,1,0,0,0,Unknown,Unknown,39.796,-75.4852,DE
-7051035170,"St Louis, Mo",500,apartment,975,1,1,1,0,0,0,0,0,w/d hookups,street parking,38.5943,-90.2309,IL
+7051035170,St Louis  Mo,500,apartment,975,1,1,1,0,0,0,0,0,w/d hookups,street parking,38.5943,-90.2309,IL
 7038443421,Eastern Panhandle,1389,apartment,1048,2,2,1,1,1,0,0,0,w/d in unit,Unknown,39.3012,-77.8425,WV
 7034146734,Minneapolis / St Paul,1199,apartment,650,1,1,1,1,0,0,0,0,laundry in bldg,off-street parking,44.9465,-93.283,MN
 7044516774,Space Coast,962,apartment,989,2,0,0,0,1,0,0,0,Unknown,Unknown,28.1384,-80.6524,FL
@@ -2181,7 +2181,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045336394,San Marcos,860,apartment,446,1,1,1,1,1,0,0,0,w/d in unit,Unknown,29.8754,-97.9404,TX
 7043652729,Des Moines,2450,house,2068,3,3,1,1,0,0,0,0,w/d hookups,attached garage,41.5577,-93.6552,IA
 7028913474,Lawrence,740,apartment,880,2,1.5,1,1,1,0,0,0,laundry on site,off-street parking,38.9675,-95.2506,KS
-7049735678,"Washington, Dc",1750,apartment,997,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,39.0832,-76.9377,DC
+7049735678,Washington  Dc,1750,apartment,997,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,39.0832,-76.9377,DC
 7037483875,Anchorage / Mat-Su,1095,apartment,780,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,61.2234,-149.748,AK
 7020829049,St Joseph,810,apartment,960,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,39.734,-94.8171,MO
 7026360712,Southern Maryland,1755,apartment,723,2,1,1,1,1,0,0,0,w/d in unit,Unknown,38.8059,-76.9781,MD
@@ -2224,7 +2224,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7051108781,Portland,1583,apartment,679,1,1,1,1,0,0,1,0,w/d in unit,attached garage,45.5348,-122.697,OR
 7037667532,Peoria,475,apartment,600,1,1,0,0,1,0,0,0,laundry in bldg,off-street parking,40.7234,-89.6347,IL
 7037931005,Kennewick-Pasco-Richland,995,apartment,710,2,1,1,1,0,0,0,0,w/d in unit,carport,46.2522,-119.288,WA
-7049320215,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049320215,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7040975839,Lubbock,349,apartment,275,0,1,0,0,0,0,0,0,laundry on site,street parking,33.5865,-101.861,TX
 7043963975,Cleveland,1200,house,1248,3,1,0,0,1,0,0,0,w/d in unit,attached garage,41.5019,-82.0111,OH
 7048983950,Wichita,628,apartment,750,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,37.7048,-97.3638,KS
@@ -2245,7 +2245,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7023701815,Grand Forks,595,apartment,645,2,1,0,0,1,0,0,0,laundry in bldg,off-street parking,47.9318,-97.0213,ND
 7037031857,Austin,920,apartment,768,1,1,1,1,1,0,0,0,laundry on site,Unknown,30.5145,-97.668,TX
 7037712703,Fredericksburg,1925,apartment,2036,3,2,0,0,1,0,0,0,Unknown,Unknown,38.4718,-77.5102,VA
-7049177994,"Kansas City, Mo",800,apartment,1850,3,2,0,0,1,0,0,0,Unknown,Unknown,39.116,-94.764,KS
+7049177994,Kansas City  Mo,800,apartment,1850,3,2,0,0,1,0,0,0,Unknown,Unknown,39.116,-94.764,KS
 7046585040,Lubbock,970,apartment,1095,2,2,1,1,0,0,0,0,w/d hookups,carport,33.5924,-101.937,TX
 7037368392,Redding,1400,townhouse,1199,2,2.5,1,1,1,0,0,0,w/d hookups,attached garage,40.6173,-122.376,CA
 7044628135,Mankato,1250,apartment,1000,3,1,0,0,0,0,0,0,w/d in unit,off-street parking,44.3351,-93.9811,MN
@@ -2289,7 +2289,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7044902884,Milwaukee,605,apartment,550,1,1,0,0,1,0,0,0,laundry on site,off-street parking,43.0249,-87.9862,WI
 7049691884,Phoenix,1175,apartment,815,1,1,1,1,1,0,0,0,w/d in unit,carport,33.4458,-111.927,AZ
 7049888251,Inland Empire,1575,apartment,675,1,1,1,1,1,0,0,0,laundry on site,off-street parking,34.0191,-117.644,CA
-7044743268,"Quad Cities, Ia/Il",800,house,936,2,1,1,1,1,0,0,0,Unknown,Unknown,41.4913,-90.5648,IL
+7044743268,Quad Cities  Ia/Il,800,house,936,2,1,1,1,1,0,0,0,Unknown,Unknown,41.4913,-90.5648,IL
 7051259012,Seattle-Tacoma,1150,apartment,658,1,1,1,1,1,0,0,0,w/d in unit,carport,47.1464,-122.457,WA
 7050720088,Potsdam-Canton-Massena,650,apartment,1032,2,1,1,1,1,0,0,0,w/d hookups,attached garage,44.3375,-75.4525,NY
 7039619249,Birmingham,700,apartment,906,1,1,1,1,1,0,0,0,laundry on site,Unknown,33.3942,-86.8025,AL
@@ -2335,11 +2335,11 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031581607,Pueblo,680,apartment,500,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.2693,-104.634,CO
 7040805172,Space Coast,1343,apartment,827,1,1,1,1,1,1,0,0,w/d in unit,detached garage,28.0673,-80.678,FL
 7034073674,Lincoln,994,apartment,957,2,1,1,1,0,0,0,0,w/d hookups,off-street parking,40.8177,-96.7424,NE
-7045480591,"Quad Cities, Ia/Il",625,apartment,600,1,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
+7045480591,Quad Cities  Ia/Il,625,apartment,600,1,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
 7040992309,Baton Rouge,760,apartment,725,1,1,1,1,0,1,0,0,w/d hookups,off-street parking,30.4554,-91.1064,LA
 7047517371,Hartford,1265,apartment,526,0,1,1,1,1,0,0,0,w/d in unit,Unknown,41.7662,-72.6738,CT
 7024103290,Hanford-Corcoran,1305,apartment,1270,3,2,0,0,1,0,0,0,Unknown,Unknown,36.3597,-119.652,CA
-7048293398,"St Louis, Mo",1320,apartment,872,1,1,1,1,1,0,0,0,w/d in unit,Unknown,38.64,-90.2427,IL
+7048293398,St Louis  Mo,1320,apartment,872,1,1,1,1,1,0,0,0,w/d in unit,Unknown,38.64,-90.2427,IL
 7044506446,Annapolis,1649,apartment,1050,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,39.0466,-76.4703,MD
 7049244466,South Jersey,1675,apartment,652,1,1,1,0,1,0,0,0,laundry in bldg,street parking,39.8874,-75.051,NJ
 7035876092,Stockton,1010,apartment,702,1,1,0,0,1,0,0,0,w/d hookups,carport,38.0024,-121.324,CA
@@ -2347,7 +2347,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7039253243,Houston,2100,house,1976,3,2,0,0,1,0,0,0,Unknown,Unknown,29.6954,-95.3562,TX
 7051146833,Cleveland,1080,apartment,1000,2,1.5,1,1,1,0,0,0,w/d in unit,detached garage,41.4754,-81.9287,OH
 7045197784,Daytona Beach,888,apartment,877,1,1,1,1,0,0,0,0,laundry on site,off-street parking,29.1792,-81.0291,FL
-7040773945,"St Louis, Mo",550,apartment,344,0,1,1,1,0,1,0,0,laundry in bldg,off-street parking,38.5633,-90.2495,IL
+7040773945,St Louis  Mo,550,apartment,344,0,1,1,1,0,1,0,0,laundry in bldg,off-street parking,38.5633,-90.2495,IL
 7043890320,Knoxville,1009,apartment,1132,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.9244,-84.0015,TN
 7019223568,Mohave County,805,apartment,919,2,1.5,0,0,1,0,0,0,w/d in unit,carport,35.1063,-114.578,AZ
 7045404977,Lincoln,800,apartment,933,2,1,1,1,0,0,0,0,laundry in bldg,off-street parking,40.7521,-96.7069,NE
@@ -2387,7 +2387,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7037602388,Ft Myers / Sw Florida,650,apartment,750,2,2,1,0,1,0,0,0,w/d hookups,off-street parking,26.684,-81.8861,FL
 7027115058,Evansville,800,apartment,830,1,1,0,0,1,0,0,0,Unknown,Unknown,37.9863,-87.6257,IN
 7041831291,Lexington,720,apartment,950,2,1,1,1,1,0,0,0,Unknown,off-street parking,37.9767,-84.5104,KY
-7049851551,"Washington, Dc",2621,apartment,665,1,1,0,0,1,0,0,1,Unknown,Unknown,38.8916,-77.0059,DC
+7049851551,Washington  Dc,2621,apartment,665,1,1,0,0,1,0,0,1,Unknown,Unknown,38.8916,-77.0059,DC
 7043876809,Akron / Canton,1073,apartment,972,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,41.1379,-81.5409,OH
 7049259160,San Antonio,795,apartment,750,1,1,1,1,1,0,0,0,laundry on site,off-street parking,,,TX
 7046909995,Wichita Falls,1070,apartment,1325,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,33.8633,-98.534,TX
@@ -2411,23 +2411,23 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043694065,Kenosha-Racine,840,apartment,725,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,42.3769,-87.8693,WI
 7043553802,Reno / Tahoe,1205,house,960,1,1,1,1,1,0,0,0,w/d in unit,carport,39.0218,-119.731,CA
 7049666634,San Marcos,735,apartment,1500,3,3.5,0,0,1,0,0,0,Unknown,Unknown,29.8986,-97.9606,TX
-7051004623,"Kansas City, Mo",739,apartment,701,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9667,-94.6169,KS
+7051004623,Kansas City  Mo,739,apartment,701,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9667,-94.6169,KS
 7011689564,Manhattan,730,apartment,876,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,39.2185,-96.5728,KS
 7048319377,Des Moines,850,apartment,864,2,2,1,0,1,0,0,0,laundry in bldg,Unknown,41.5988,-93.507,IA
 7022418676,Missoula,800,house,600,2,1,0,0,0,0,0,0,w/d in unit,off-street parking,46.8701,-113.941,MT
 7035108276,Billings,879,apartment,804,2,1,0,0,1,0,0,0,Unknown,Unknown,45.7574,-108.616,MT
 7044471484,Vermont,925,manufactured,933,3,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,42.8858,-73.1814,VT
 7025336586,Tallahassee,602,apartment,600,1,1,1,1,1,0,0,0,laundry on site,Unknown,30.4478,-84.3211,FL
-7049612244,"Washington, Dc",1570,apartment,693,1,1,1,0,1,0,0,0,laundry in bldg,Unknown,38.9719,-76.9554,DC
+7049612244,Washington  Dc,1570,apartment,693,1,1,1,0,1,0,0,0,laundry in bldg,Unknown,38.9719,-76.9554,DC
 7044575371,Baton Rouge,719,apartment,660,1,1,0,0,1,0,0,0,Unknown,Unknown,30.4273,-91.0356,LA
 7036666101,Sioux Falls / Se Sd,661,apartment,768,1,1,1,1,0,0,0,0,laundry in bldg,off-street parking,43.5063,-96.7785,SD
 7043373296,Rochester,1310,townhouse,1506,3,1.5,1,1,1,0,0,0,w/d hookups,attached garage,43.2839,-77.6913,NY
-7051166397,"Quad Cities, Ia/Il",935,house,866,2,1,1,1,1,0,0,0,Unknown,detached garage,41.4906,-90.498,IL
+7051166397,Quad Cities  Ia/Il,935,house,866,2,1,1,1,1,0,0,0,Unknown,detached garage,41.4906,-90.498,IL
 7043055388,San Marcos,610,apartment,925,2,1,1,1,1,0,0,0,laundry on site,off-street parking,29.8929,-97.94,TX
 7033687698,Macon / Warner Robins,690,apartment,35,2,1.5,0,0,0,0,0,0,w/d hookups,Unknown,32.7914,-83.679,GA
 7028155194,Wilmington,1000,apartment,950,2,1,1,0,0,0,0,0,laundry on site,off-street parking,33.9222,-78.0187,NC
 7028411881,Hanford-Corcoran,1120,apartment,843,2,1,0,0,1,0,0,0,Unknown,Unknown,36.3597,-119.652,CA
-7045175146,"Washington, Dc",1310,apartment,514,0,1,0,0,1,0,0,0,Unknown,Unknown,38.832,-77.12,DC
+7045175146,Washington  Dc,1310,apartment,514,0,1,0,0,1,0,0,0,Unknown,Unknown,38.832,-77.12,DC
 7032995466,Greensboro,795,apartment,1340,2,0,1,1,1,0,0,0,Unknown,Unknown,36.0318,-79.4889,NC
 7033337046,Space Coast,1662,apartment,1307,3,2,0,0,1,0,0,0,Unknown,Unknown,28.1331,-80.7112,FL
 7046461261,Philadelphia,2160,apartment,494,1,1,1,1,1,0,0,0,Unknown,Unknown,39.9589,-75.1876,PA
@@ -2471,13 +2471,13 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050918607,Kennewick-Pasco-Richland,800,apartment,700,1,1,1,1,0,0,0,0,laundry on site,street parking,46.2109,-119.168,WA
 7045508617,Knoxville,929,apartment,1132,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.9161,-84.0589,TN
 7048981104,Norfolk / Hampton Roads,982,apartment,1000,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,37.0535,-76.3105,VA
-7048931433,"St Louis, Mo",840,apartment,901,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.7229,-90.4474,IL
+7048931433,St Louis  Mo,840,apartment,901,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.7229,-90.4474,IL
 7049366324,Albuquerque,810,apartment,1089,2,2,1,1,1,0,0,0,laundry on site,off-street parking,35.1307,-106.564,NM
 7035203377,Panama City,600,house,1299,3,1.5,1,1,1,0,0,0,w/d in unit,attached garage,30.1653,-85.5763,FL
 7035414013,Mohave County,919,apartment,976,2,2,0,1,1,0,0,0,w/d in unit,attached garage,35.107,-114.569,AZ
 7031072293,Modesto,1400,apartment,950,2,2,1,1,0,0,0,0,laundry on site,carport,37.6717,-120.948,CA
 7044818840,Tulsa,565,apartment,865,1,1,0,0,1,0,0,0,laundry on site,off-street parking,36.1448,-95.8866,OK
-7049650872,"Washington, Dc",1325,apartment,500,1,1,0,0,1,0,0,0,w/d in unit,off-street parking,38.7966,-77.0508,DC
+7049650872,Washington  Dc,1325,apartment,500,1,1,0,0,1,0,0,0,w/d in unit,off-street parking,38.7966,-77.0508,DC
 7040740840,Wichita,395,apartment,400,0,1,1,1,1,0,0,0,laundry on site,off-street parking,37.6597,-97.3172,KS
 7032324606,Amarillo,615,apartment,364,0,1,1,1,0,1,0,1,laundry on site,Unknown,35.1653,-101.884,TX
 7032938413,Galveston,600,duplex,400,0,1,0,0,1,0,0,0,no laundry on site,off-street parking,29.2983,-94.793,TX
@@ -2533,11 +2533,11 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049363346,Sierra Vista,729,apartment,650,2,2,1,1,1,0,0,0,laundry on site,carport,31.5452,-110.254,AZ
 7050016218,Sacramento,1740,apartment,1240,2,2,1,1,0,0,0,0,w/d in unit,carport,38.5981,-121.215,CA
 7051140510,Myrtle Beach,999,apartment,833,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,33.7377,-78.9787,SC
-7049920609,"Washington, Dc",1255,apartment,756,1,1,0,0,1,0,0,0,laundry on site,off-street parking,38.9421,-76.9261,DC
+7049920609,Washington  Dc,1255,apartment,756,1,1,0,0,1,0,0,0,laundry on site,off-street parking,38.9421,-76.9261,DC
 7038098575,Akron / Canton,1190,townhouse,1135,3,2.5,1,0,1,0,0,0,Unknown,Unknown,41.2573,-81.4388,OH
 7048550667,Stockton,2158,apartment,1027,2,2,0,0,1,0,0,0,w/d in unit,carport,37.6988,-121.451,CA
 7050249260,Tulsa,775,house,1300,3,1,1,1,1,0,0,0,w/d hookups,off-street parking,36.1627,-95.9607,OK
-7041169561,"Quad Cities, Ia/Il",1600,house,1700,3,1.5,1,1,1,0,0,0,Unknown,attached garage,41.4913,-90.5648,IL
+7041169561,Quad Cities  Ia/Il,1600,house,1700,3,1.5,1,1,1,0,0,0,Unknown,attached garage,41.4913,-90.5648,IL
 7037328574,Akron / Canton,700,apartment,600,1,1,1,1,1,1,0,0,laundry in bldg,off-street parking,41.1108,-81.4745,OH
 7026727712,Kenosha-Racine,936,apartment,1375,3,2,0,0,1,0,0,0,Unknown,Unknown,42.5709,-88.1287,WI
 7047468299,Delaware,1360,apartment,700,1,1,0,0,1,0,0,0,Unknown,Unknown,39.7394,-75.5578,DE
@@ -2552,7 +2552,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7047238556,Ann Arbor,1100,apartment,950,2,1,1,0,0,0,0,0,laundry in bldg,off-street parking,42.299,-83.781,MI
 7031970980,College Station,939,apartment,953,2,1.5,1,1,1,0,0,0,laundry on site,off-street parking,30.7028,-95.542,TX
 7050789088,Richmond,1126,apartment,900,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,37.5365,-77.571,VA
-7034151305,"Kansas City, Mo",835,apartment,748,1,1,0,0,1,0,0,0,Unknown,Unknown,38.9649,-94.7209,KS
+7034151305,Kansas City  Mo,835,apartment,748,1,1,0,0,1,0,0,0,Unknown,Unknown,38.9649,-94.7209,KS
 7042551350,New Hampshire,2200,apartment,1510,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,42.9937,-71.4727,NH
 7040130667,Palm Springs,1245,apartment,1020,2,2,0,0,1,0,0,0,laundry in bldg,carport,33.7378,-116.304,CA
 7031578741,Stockton,1264,apartment,830,2,1,1,1,1,0,0,0,w/d hookups,carport,38.0228,-121.361,CA
@@ -2661,7 +2661,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7051134317,Austin,1373,apartment,1202,3,2,0,0,1,0,0,0,w/d hookups,Unknown,30.2292,-97.7321,TX
 7038307592,Tallahassee,520,apartment,640,2,2,0,0,1,0,0,0,Unknown,Unknown,30.4286,-84.2593,FL
 7040611859,Sarasota-Bradenton,1499,apartment,1100,2,2,1,1,1,0,0,0,w/d hookups,attached garage,27.3053,-82.4638,FL
-7048625662,"Washington, Dc",2375,apartment,1260,3,2,1,1,1,0,0,0,w/d in unit,Unknown,38.8458,-77.3242,DC
+7048625662,Washington  Dc,2375,apartment,1260,3,2,1,1,1,0,0,0,w/d in unit,Unknown,38.8458,-77.3242,DC
 7022489724,Flagstaff / Sedona,1695,apartment,1000,1,1,0,0,1,0,0,0,Unknown,Unknown,35.1806,-111.67,AZ
 7049679550,Detroit Metro,750,apartment,620,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,42.4919,-82.9365,MI
 7035420121,Reno / Tahoe,1975,apartment,2128,4,3,0,0,0,0,0,0,w/d hookups,attached garage,39.5502,-119.718,CA
@@ -2748,7 +2748,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050897717,New Orleans,1080,apartment,840,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,30.0037,-90.213,LA
 7045478700,Salt Lake City,975,apartment,675,1,1,1,1,1,0,0,0,w/d hookups,carport,40.6818,-111.987,UT
 7046964628,Memphis,610,apartment,950,2,1.5,1,1,1,0,0,0,w/d hookups,street parking,35.2055,-89.9158,TN
-7045521240,"Quad Cities, Ia/Il",975,house,1495,3,1,1,1,1,0,0,0,Unknown,Unknown,41.5385,-90.5613,IL
+7045521240,Quad Cities  Ia/Il,975,house,1495,3,1,1,1,1,0,0,0,Unknown,Unknown,41.5385,-90.5613,IL
 7047321197,Gold Country,1300,apartment,1908,3,2,1,1,1,1,0,0,w/d in unit,attached garage,38.8923,-120.98,CA
 7046971214,Texoma,1215,apartment,875,2,1,1,1,1,0,0,0,w/d in unit,attached garage,33.745,-96.5496,OK
 7036044093,Reno / Tahoe,800,apartment,400,1,1,1,1,1,0,0,0,Unknown,Unknown,39.5204,-119.843,CA
@@ -2760,7 +2760,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031937448,Fayetteville,587,apartment,620,1,1,1,1,1,0,0,0,Unknown,Unknown,35.1294,-78.8982,NC
 7040786685,Los Angeles,2808,apartment,925,2,2,0,0,1,0,0,0,laundry in bldg,off-street parking,34.1037,-118.334,CA
 7040026444,Pensacola,986,apartment,938,1,1,1,1,1,0,0,0,w/d hookups,Unknown,30.48,-87.2668,FL
-7040988818,"Quad Cities, Ia/Il",1125,house,1040,3,1,1,1,1,0,0,0,Unknown,Unknown,41.4885,-90.321,IL
+7040988818,Quad Cities  Ia/Il,1125,house,1040,3,1,1,1,1,0,0,0,Unknown,Unknown,41.4885,-90.321,IL
 7050022703,Los Angeles,2350,apartment,570,0,1,1,1,0,1,1,0,w/d in unit,detached garage,34.0393,-118.264,CA
 7044865332,Des Moines,1100,apartment,750,1,1,1,1,0,1,0,0,w/d in unit,Unknown,41.5695,-93.7994,IA
 7042967570,Greenville / Upstate,1199,apartment,677,1,1,1,1,0,0,0,0,w/d in unit,attached garage,34.8609,-82.3941,SC
@@ -2773,7 +2773,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050299544,New Hampshire,875,apartment,1335,3,2,0,0,1,0,0,0,Unknown,Unknown,43.1888,-70.8868,NH
 7049903289,Phoenix,1050,apartment,800,1,1,1,1,1,0,0,0,w/d hookups,carport,33.6819,-112.1,AZ
 7049647963,Reno / Tahoe,1476,apartment,960,2,2,1,1,1,0,0,0,w/d in unit,carport,39.5583,-119.708,CA
-7043947808,"Washington, Dc",1467,apartment,867,1,1,0,0,1,0,0,0,Unknown,Unknown,38.9647,-76.9649,DC
+7043947808,Washington  Dc,1467,apartment,867,1,1,0,0,1,0,0,0,Unknown,Unknown,38.9647,-76.9649,DC
 7048280958,Champaign Urbana,1500,apartment,906,2,2,0,0,0,0,0,1,w/d in unit,off-street parking,40.111,-88.2407,IL
 7024935015,Tuscaloosa,634,apartment,1395,3,3,0,0,1,0,0,0,Unknown,Unknown,33.1826,-87.4827,AL
 7047084280,Des Moines,824,apartment,850,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,41.6791,-93.78,IA
@@ -2803,7 +2803,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7035438437,Lakeland,866,apartment,672,1,1,1,1,1,0,0,0,w/d in unit,Unknown,28.1097,-81.9696,FL
 7040094352,El Paso,585,apartment,404,1,1,1,1,1,0,0,0,laundry on site,Unknown,31.8552,-106.435,TX
 7049076362,Houston,795,apartment,504,0,1,1,1,1,0,0,0,laundry on site,carport,29.5584,-95.1171,TX
-7049701241,"Washington, Dc",1385,apartment,500,0,1,0,0,1,0,0,0,Unknown,Unknown,38.9996,-76.884,DC
+7049701241,Washington  Dc,1385,apartment,500,0,1,0,0,1,0,0,0,Unknown,Unknown,38.9996,-76.884,DC
 7043339143,Birmingham,1165,apartment,1572,3,2,1,1,1,0,0,0,laundry on site,street parking,33.4226,-86.7065,AL
 7049838139,Detroit Metro,1050,house,1790,5,2.5,1,1,1,0,0,0,Unknown,Unknown,42.2488,-83.1547,MI
 7025305589,Santa Barbara,3165,apartment,700,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,34.4296,-119.861,CA
@@ -2975,7 +2975,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7037147069,Houston,1125,apartment,900,2,2,0,0,1,0,0,0,Unknown,Unknown,29.7286,-95.5392,TX
 7033627965,North Jersey,2195,apartment,756,1,1,0,1,0,1,0,0,w/d in unit,attached garage,40.8098,-74.2091,NJ
 7032078772,Amarillo,615,apartment,364,0,1,1,1,0,1,0,1,laundry on site,Unknown,35.1653,-101.884,TX
-7051067906,"St Louis, Mo",940,apartment,1030,2,2,1,1,1,0,0,0,w/d hookups,Unknown,38.4566,-90.3282,IL
+7051067906,St Louis  Mo,940,apartment,1030,2,2,1,1,1,0,0,0,w/d hookups,Unknown,38.4566,-90.3282,IL
 7033454118,Space Coast,1029,apartment,890,2,2,0,0,1,0,0,0,laundry on site,Unknown,28.0371,-80.6355,FL
 7033023381,Tyler / East Tx,1225,apartment,1044,2,2,1,1,1,0,0,0,w/d hookups,Unknown,31.7346,-95.5332,TX
 7050753287,San Antonio,850,apartment,727,1,1,0,0,1,0,0,0,Unknown,Unknown,29.4597,-98.6555,TX
@@ -3013,7 +3013,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7051155824,Salt Lake City,1005,apartment,890,2,2,1,1,1,0,0,0,w/d hookups,carport,40.6551,-111.834,UT
 7048317219,Indianapolis,785,apartment,710,1,1,1,1,1,0,0,0,laundry in bldg,Unknown,39.9191,-86.0725,IN
 7044885007,Fresno / Madera,950,apartment,708,1,1,1,1,0,0,0,0,laundry on site,carport,36.8149,-119.711,CA
-7049114073,"Kansas City, Mo",1650,apartment,1785,3,1.5,1,1,1,0,0,0,w/d hookups,off-street parking,39.0709,-94.5812,KS
+7049114073,Kansas City  Mo,1650,apartment,1785,3,1.5,1,1,1,0,0,0,w/d hookups,off-street parking,39.0709,-94.5812,KS
 7043429728,Lansing,1180,townhouse,1107,3,1.5,1,1,1,0,0,0,w/d hookups,Unknown,42.7137,-84.3994,MI
 7050934942,Rhode Island,1640,apartment,882,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,41.8648,-71.4668,RI
 7032697931,Champaign Urbana,760,apartment,2300,4,2,1,1,0,0,0,0,Unknown,Unknown,40.3107,-88.1462,IL
@@ -3041,7 +3041,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043975790,Jackson,1100,apartment,1280,3,0,1,1,1,0,0,0,Unknown,Unknown,35.6998,-88.8303,TN
 7042141753,Des Moines,814,apartment,1073,2,2,1,0,1,0,0,0,Unknown,Unknown,41.5487,-93.5827,IA
 7040981890,Baltimore,1380,apartment,1030,2,2,1,1,1,0,0,0,Unknown,Unknown,39.3961,-76.8008,MD
-7049777973,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049777973,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7047088513,Atlanta,1495,apartment,1201,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,33.9756,-84.0937,GA
 7032664649,Duluth / Superior,975,apartment,750,1,1,0,0,1,0,0,0,laundry in bldg,off-street parking,46.8029,-92.119,MN
 7041788759,Baton Rouge,825,apartment,1005,2,2,0,0,1,0,0,0,w/d hookups,Unknown,30.459,-90.9027,LA
@@ -3073,7 +3073,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049685133,Denver,1817,apartment,1100,2,2,1,1,1,0,0,0,w/d in unit,detached garage,39.7077,-105.075,CO
 7051136558,Portland,1245,apartment,618,2,1,1,1,0,0,0,0,w/d in unit,off-street parking,45.6514,-122.66,OR
 7049014782,Minneapolis / St Paul,1500,townhouse,1555,3,2,1,1,0,0,0,0,w/d in unit,attached garage,44.6139,-93.7604,MN
-7045493904,"Quad Cities, Ia/Il",1150,house,1268,4,1.5,1,1,1,0,0,0,Unknown,Unknown,41.5164,-90.6141,IL
+7045493904,Quad Cities  Ia/Il,1150,house,1268,4,1.5,1,1,1,0,0,0,Unknown,Unknown,41.5164,-90.6141,IL
 7037670494,Lexington,795,apartment,750,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.0406,-84.5433,KY
 7046987983,Modesto,1225,apartment,800,2,1,1,1,1,0,0,0,laundry on site,detached garage,37.6782,-121.031,CA
 7049860668,Boulder,1706,apartment,1186,2,2,0,0,1,0,0,0,Unknown,Unknown,39.9271,-105.142,CO
@@ -3083,7 +3083,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7051032387,Salt Lake City,1036,apartment,1005,2,2,0,0,1,0,0,0,Unknown,Unknown,40.6152,-111.885,UT
 7041216312,Frederick,1357,apartment,1000,2,1,0,0,1,0,0,0,Unknown,Unknown,39.4226,-77.4486,MD
 7040040922,College Station,709,apartment,663,1,1,1,1,1,0,0,0,laundry on site,Unknown,30.7377,-95.5886,TX
-7049299150,"St Louis, Mo",1300,condo,1300,1,1,1,0,0,0,0,0,w/d in unit,street parking,38.6141,-90.2164,IL
+7049299150,St Louis  Mo,1300,condo,1300,1,1,1,0,0,0,0,0,w/d in unit,street parking,38.6141,-90.2164,IL
 7039420908,Milwaukee,1495,apartment,913,2,1.5,1,0,1,0,0,0,w/d in unit,attached garage,43.0199,-87.9132,WI
 7020191140,Gulfport / Biloxi,1020,apartment,1100,2,2,1,1,1,1,0,1,w/d in unit,Unknown,30.511,-88.9681,MS
 7041397954,Spokane / Coeur D'Alene,1055,apartment,1092,2,2,1,1,0,0,0,0,w/d in unit,Unknown,47.6428,-117.473,ID
@@ -3121,7 +3121,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7038817402,Houston,1220,condo,720,1,1,1,1,1,1,0,0,w/d in unit,attached garage,29.7446,-95.4683,TX
 7032089268,Jackson,469,apartment,625,1,1,1,1,1,1,0,0,laundry on site,off-street parking,32.3081,-90.2021,MI
 7023691937,San Marcos,896,apartment,640,1,1,1,1,1,0,0,0,w/d in unit,detached garage,29.7082,-98.1131,TX
-7048652059,"Kansas City, Mo",800,apartment,780,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,39.2188,-94.6027,KS
+7048652059,Kansas City  Mo,800,apartment,780,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,39.2188,-94.6027,KS
 7047425485,Little Rock,658,apartment,667,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,34.8135,-92.4963,AR
 7046855063,Little Rock,525,manufactured,800,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,34.9141,-92.198,AR
 7034334050,Fayetteville,695,apartment,700,1,1,1,0,0,0,1,0,w/d in unit,carport,36.0737,-94.1728,AR
@@ -3132,7 +3132,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7039682384,Sarasota-Bradenton,1399,apartment,1101,2,2,1,1,1,0,0,0,w/d in unit,Unknown,28.0179,-82.709,FL
 7027445098,Fredericksburg,1202,apartment,941,2,1,0,0,1,0,0,0,Unknown,Unknown,38.3055,-77.4881,VA
 7026786906,Southeast Ks,550,condo,1600,1,1,0,0,0,0,0,0,w/d hookups,detached garage,37.8327,-94.7071,KS
-7032261641,"St Louis, Mo",795,apartment,1250,2,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
+7032261641,St Louis  Mo,795,apartment,1250,2,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
 7032608580,Hartford,1482,apartment,1150,3,1.5,1,1,1,0,0,0,laundry on site,Unknown,41.9187,-72.5391,CT
 7049956922,Sf Bay Area,2330,apartment,1019,2,2,1,1,0,0,0,0,laundry in bldg,detached garage,37.9575,-122.055,CA
 7036476519,Lincoln,1220,apartment,1400,3,2,1,1,1,0,0,0,laundry in bldg,off-street parking,40.8717,-96.725,NE
@@ -3216,7 +3216,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7047227582,Philadelphia,2015,apartment,1315,1,1,1,1,1,0,0,0,Unknown,Unknown,40.0292,-75.2319,PA
 7043319733,Lynchburg,1060,apartment,1280,3,2,1,1,0,0,0,0,w/d in unit,street parking,37.3646,-79.2057,VA
 7048650941,Milwaukee,724,apartment,700,1,1,1,1,0,0,0,0,laundry on site,off-street parking,43.1692,-87.9665,WI
-7044822930,"St Louis, Mo",595,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,38.6616,-90.2819,IL
+7044822930,St Louis  Mo,595,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,38.6616,-90.2819,IL
 7044756055,Evansville,1140,apartment,1217,2,2,0,0,1,0,0,0,Unknown,Unknown,37.9863,-87.6257,IN
 7046839074,Mobile,900,apartment,800,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,30.678,-88.0824,AL
 7049841891,Cincinnati,925,apartment,925,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.0713,-84.3758,OH
@@ -3288,7 +3288,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040217384,Daytona Beach,1000,apartment,1100,2,2,1,1,0,0,0,0,w/d hookups,off-street parking,29.1838,-81.0323,FL
 7041291731,New Hampshire,1500,apartment,630,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,42.9332,-72.2926,NH
 7037880661,Philadelphia,2200,apartment,950,1,1,1,1,0,0,0,0,w/d in unit,detached garage,39.9542,-75.17,PA
-7049868459,"Washington, Dc",2885,apartment,1146,2,2,1,1,0,0,0,0,w/d in unit,attached garage,38.8738,-77.1142,DC
+7049868459,Washington  Dc,2885,apartment,1146,2,2,1,1,0,0,0,0,w/d in unit,attached garage,38.8738,-77.1142,DC
 7049017709,Fresno / Madera,950,apartment,708,1,1,1,1,0,0,0,0,laundry on site,carport,36.8149,-119.711,CA
 7051061515,Minneapolis / St Paul,1600,apartment,769,1,1,1,1,0,1,0,0,w/d in unit,attached garage,44.8301,-93.6045,MN
 7041634636,Bakersfield,893,apartment,970,3,2,0,0,1,0,0,0,laundry on site,carport,35.3866,-119.017,CA
@@ -3299,7 +3299,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050246525,Knoxville,1000,house,784,2,1,0,1,0,0,0,0,w/d in unit,off-street parking,35.9951,-83.9476,TN
 7041342577,New Hampshire,2650,apartment,1786,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,43.0591,-70.8003,NH
 7044566120,Knoxville,1019,apartment,829,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.9332,-84.0253,TN
-7051071718,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7051071718,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7040604954,Western Massachusetts,1040,apartment,945,2,2,1,0,1,0,0,0,laundry on site,off-street parking,42.1038,-72.5876,MA
 7042902702,South Coast,1720,apartment,980,2,2,0,0,0,0,0,0,laundry in bldg,off-street parking,41.7485,-71.1228,MA
 7027782086,Lincoln,945,apartment,1170,2,2,1,1,1,0,0,0,laundry in bldg,off-street parking,40.7848,-96.6395,NE
@@ -3432,7 +3432,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049919457,Atlanta,1430,apartment,890,1,1,1,1,1,0,0,0,Unknown,Unknown,34.1088,-84.227,GA
 7034156263,Minneapolis / St Paul,1088,apartment,650,1,1,1,1,0,0,0,0,laundry in bldg,street parking,44.948,-93.283,MN
 7046962855,Monroe,1000,house,1800,3,2,0,0,0,0,0,0,w/d hookups,carport,32.5317,-92.176,LA
-7042046960,"Quad Cities, Ia/Il",735,apartment,1124,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,41.5618,-90.5403,IL
+7042046960,Quad Cities  Ia/Il,735,apartment,1124,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,41.5618,-90.5403,IL
 7045138141,Corvallis/Albany,760,apartment,400,1,1,1,1,0,1,0,0,laundry in bldg,off-street parking,44.626,-123.057,OR
 7028291209,Annapolis,1496,apartment,1055,2,2,1,1,1,0,0,0,Unknown,Unknown,38.953,-76.4784,MD
 7030892047,North Dakota,1105,apartment,1365,3,2,0,0,0,0,0,0,w/d in unit,detached garage,48.2111,-101.332,ND
@@ -3443,7 +3443,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049320752,Raleigh / Durham / Ch,938,apartment,1036,2,1.5,1,1,1,0,0,0,w/d in unit,Unknown,35.8887,-78.6393,NC
 7033495136,Hudson Valley,1063,apartment,584,1,1,1,1,1,0,0,0,w/d hookups,Unknown,41.6241,-73.913,NY
 7045832624,Las Vegas,1176,apartment,1056,2,2,1,1,1,0,0,0,w/d in unit,carport,36.247,-115.144,NV
-7039757718,"Quad Cities, Ia/Il",700,apartment,800,2,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
+7039757718,Quad Cities  Ia/Il,700,apartment,800,2,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
 7048517441,Seattle-Tacoma,1329,apartment,400,1,1,1,1,1,0,0,0,laundry in bldg,Unknown,47.6149,-122.351,WA
 7048994852,Nashville,802,apartment,600,1,1,1,1,1,0,0,0,w/d hookups,Unknown,36.0629,-86.6425,TN
 7047116807,Chicago,1620,apartment,855,1,1,1,1,0,0,0,0,w/d in unit,attached garage,42.2288,-87.9719,IL
@@ -3453,14 +3453,14 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043886468,Lakeland,1321,apartment,1250,3,2,0,0,1,0,0,0,Unknown,Unknown,28.0021,-81.9488,FL
 7049026717,Evansville,699,apartment,830,1,1,0,0,1,0,0,0,Unknown,Unknown,37.929,-87.6604,IN
 7038491694,New Haven,1295,apartment,800,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,41.28,-72.8106,CT
-7041917402,"St Louis, Mo",1020,apartment,1595,1,1,1,1,1,1,0,0,w/d in unit,attached garage,38.6326,-90.2022,IL
+7041917402,St Louis  Mo,1020,apartment,1595,1,1,1,1,1,1,0,0,w/d in unit,attached garage,38.6326,-90.2022,IL
 7046889512,Knoxville,749,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,35.9235,-84.0871,TN
 7050806912,New York City,1449,apartment,529,0,1,0,1,0,0,0,0,laundry in bldg,detached garage,41.0888,-73.5435,NY
 7049077460,Cincinnati,800,apartment,925,2,1,1,1,1,0,0,0,laundry in bldg,Unknown,39.03,-84.559,OH
 7038244913,Cleveland,935,house,1350,3,1.5,1,1,1,0,0,0,w/d hookups,detached garage,41.6025,-81.5258,OH
 7049679889,Atlanta,1140,apartment,1054,2,2,1,1,1,0,0,0,Unknown,Unknown,33.6823,-84.161,GA
 7051238587,Reno / Tahoe,1995,apartment,1170,2,2,1,1,0,0,0,0,w/d in unit,attached garage,39.4022,-119.755,NV
-7049906624,"St Louis, Mo",630,apartment,650,1,1,1,1,1,0,0,0,Unknown,Unknown,38.8056,-90.3624,IL
+7049906624,St Louis  Mo,630,apartment,650,1,1,1,1,1,0,0,0,Unknown,Unknown,38.8056,-90.3624,IL
 7039509813,Boise,539,apartment,1064,4,2,0,0,1,0,0,1,laundry on site,off-street parking,43.6068,-116.214,ID
 7049101547,Cleveland,809,apartment,750,2,1.5,0,0,1,0,0,0,Unknown,Unknown,41.3924,-81.5635,OH
 7048913105,Lake Of The Ozarks,750,apartment,850,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,38.2129,-92.6951,MO
@@ -3547,7 +3547,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033340177,Ft Myers / Sw Florida,1500,house,1300,3,2,1,1,1,0,0,0,w/d hookups,attached garage,27.0498,-82.1288,FL
 7047573197,Jacksonville,2000,apartment,942,2,2,0,0,0,0,0,1,w/d in unit,attached garage,30.3311,-81.6621,FL
 7042041962,Lexington,809,apartment,900,2,2,1,1,1,0,0,0,w/d hookups,Unknown,37.9849,-84.4816,KY
-7045984907,"St Louis, Mo",730,apartment,830,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.4883,-90.3509,IL
+7045984907,St Louis  Mo,730,apartment,830,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.4883,-90.3509,IL
 7037927320,Salem,1095,apartment,900,2,2,1,1,1,0,0,0,Unknown,Unknown,44.9734,-122.973,OR
 7032460330,Maine,1100,apartment,650,1,1,0,1,0,0,0,1,laundry on site,Unknown,44.7263,-68.7876,ME
 7035185571,Nashville,1090,apartment,1180,2,2,1,1,1,0,0,0,laundry on site,Unknown,36.2486,-86.7153,TN
@@ -3595,7 +3595,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7036415015,Richmond,1295,apartment,1103,2,2,1,1,1,1,0,0,w/d in unit,detached garage,37.3475,-77.3386,VA
 7047281920,Madison,860,apartment,1142,2,1,1,1,1,1,0,1,Unknown,Unknown,43.0356,-89.4526,WI
 7019867578,Athens,980,apartment,988,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,33.9761,-83.3632,GA
-7049260358,"St Louis, Mo",575,apartment,860,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.8033,-90.2065,IL
+7049260358,St Louis  Mo,575,apartment,860,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.8033,-90.2065,IL
 7048282378,Norfolk / Hampton Roads,1298,apartment,1200,3,2,1,1,0,0,0,0,w/d in unit,Unknown,37.0462,-76.4096,VA
 7040184079,Winchester,1185,apartment,933,2,1.5,1,1,1,0,0,0,Unknown,off-street parking,39.1858,-78.1827,VA
 7037695838,Asheville,1100,apartment,1050,2,1,0,0,0,0,0,0,w/d in unit,carport,35.3061,-82.4784,NC
@@ -3607,7 +3607,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049646891,Cincinnati,795,apartment,670,1,1,1,1,1,0,0,0,laundry in bldg,carport,39.2839,-84.4744,OH
 7024469427,Huntsville / Decatur,1130,apartment,1191,2,2,1,1,1,0,0,0,w/d hookups,Unknown,34.7032,-86.7087,AL
 7043871526,Amarillo,799,apartment,300,1,1,1,1,0,1,0,1,laundry on site,off-street parking,35.1899,-101.934,TX
-7035820920,"Kansas City, Mo",900,condo,850,1,1,1,0,1,0,0,0,laundry in bldg,street parking,39.0495,-94.6025,KS
+7035820920,Kansas City  Mo,900,condo,850,1,1,1,0,1,0,0,0,laundry in bldg,street parking,39.0495,-94.6025,KS
 7047515145,Salt Lake City,1149,apartment,735,1,1,1,1,1,0,0,0,w/d in unit,carport,40.8775,-111.873,UT
 7024465825,Shreveport,641,apartment,634,1,1,1,1,1,0,0,0,w/d hookups,Unknown,32.5096,-93.7417,LA
 7049316266,Orlando,1403,apartment,1165,2,2,1,1,1,1,0,0,Unknown,street parking,28.4724,-81.3016,FL
@@ -3711,7 +3711,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031002846,Palm Springs,1485,apartment,710,1,1,1,1,1,0,0,0,w/d in unit,carport,33.8426,-116.543,CA
 7032880504,Eastern Nc,749,apartment,795,1,1,1,1,0,0,0,0,w/d hookups,carport,35.5657,-77.363,NC
 7049344304,Anchorage / Mat-Su,850,apartment,470,1,1,1,1,1,0,0,0,laundry on site,carport,61.1695,-149.838,AK
-7050828360,"Kansas City, Mo",635,apartment,610,2,1,0,0,1,0,0,0,Unknown,Unknown,38.9778,-94.5757,KS
+7050828360,Kansas City  Mo,635,apartment,610,2,1,0,0,1,0,0,0,Unknown,Unknown,38.9778,-94.5757,KS
 7046708715,Jackson,425,apartment,635,1,1,1,1,1,0,0,0,Unknown,Unknown,35.6102,-88.814,MS
 7038625514,Des Moines,845,condo,888,2,1,1,1,0,0,0,0,w/d in unit,off-street parking,41.5055,-93.4952,IA
 7037128925,Holland,1014,townhouse,1180,3,2.5,1,1,1,0,0,0,w/d in unit,Unknown,42.8135,-86.1426,MI
@@ -3732,7 +3732,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7030791402,Lincoln,996,apartment,957,2,1,1,1,0,0,0,0,w/d hookups,off-street parking,40.8177,-96.7425,NE
 7048299533,Myrtle Beach,1394,apartment,1008,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,33.5507,-79.0528,SC
 7035155574,Savannah / Hinesville,1139,apartment,1080,2,2,1,1,1,0,0,0,w/d in unit,carport,31.9992,-81.1036,GA
-7043643878,"Quad Cities, Ia/Il",895,house,1109,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5164,-90.6141,IL
+7043643878,Quad Cities  Ia/Il,895,house,1109,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5164,-90.6141,IL
 7040702073,San Antonio,1095,apartment,885,2,2,1,1,0,1,0,0,w/d hookups,off-street parking,29.5038,-98.7265,TX
 7047581970,Asheville,750,house,1000,2,1,0,0,0,0,0,0,w/d in unit,off-street parking,36.0286,-82.1711,NC
 7050990058,Rhode Island,1726,apartment,790,1,1,1,1,1,0,0,0,w/d in unit,Unknown,41.4437,-71.5342,RI
@@ -3786,7 +3786,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7042652986,Asheville,1114,apartment,810,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,35.5393,-82.518,NC
 7030772006,Corpus Christi,1087,apartment,1035,2,2,1,1,1,0,0,0,w/d hookups,Unknown,27.6889,-97.3627,TX
 7025187649,Battle Creek,908,townhouse,1200,3,1,1,1,1,0,0,0,w/d hookups,off-street parking,42.3324,-85.2695,MI
-7037842864,"Kansas City, Mo",924,manufactured,1216,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,39.0803,-94.7806,KS
+7037842864,Kansas City  Mo,924,manufactured,1216,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,39.0803,-94.7806,KS
 7047356602,Macon / Warner Robins,540,apartment,600,1,1,1,1,1,0,0,0,laundry on site,Unknown,33.0686,-83.2636,GA
 7036599124,Chattanooga,1308,apartment,1250,3,2,1,1,1,0,0,0,w/d in unit,Unknown,35.0899,-85.2995,TN
 7033505940,Potsdam-Canton-Massena,299,townhouse,912,2,1,0,0,1,0,0,0,laundry on site,Unknown,44.8353,-74.2985,NY
@@ -3812,7 +3812,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049687952,Columbia,840,apartment,1280,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,34.0322,-80.9479,SC
 7025195191,East Idaho,756,apartment,1050,2,1,0,0,1,0,0,0,w/d hookups,off-street parking,43.6715,-111.9,ID
 7048513873,Orange County,1310,apartment,610,1,1,0,0,1,0,0,0,Unknown,Unknown,34.1069,-117.298,CA
-7041843068,"St Louis, Mo",895,apartment,1232,3,2,1,1,1,0,0,0,laundry in bldg,off-street parking,38.4882,-90.3488,IL
+7041843068,St Louis  Mo,895,apartment,1232,3,2,1,1,1,0,0,0,laundry in bldg,off-street parking,38.4882,-90.3488,IL
 7050336758,Richmond,1519,apartment,1340,3,2,1,1,0,1,0,1,w/d in unit,detached garage,37.2732,-76.7324,VA
 7032254913,Salem,1080,apartment,754,2,1,1,0,0,0,0,0,w/d in unit,Unknown,45.3023,-122.786,OR
 7043939433,Delaware,1605,apartment,1127,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,38.7434,-75.1887,DE
@@ -4010,7 +4010,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045739312,San Marcos,1275,apartment,981,2,2,1,1,1,0,0,0,w/d in unit,Unknown,29.8754,-97.9404,TX
 7037313484,Wilmington,1294,apartment,1025,2,2,1,1,1,0,0,0,Unknown,Unknown,34.2377,-77.8982,NC
 7041301080,Clarksville,955,apartment,987,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,36.5839,-87.3153,TN
-7049684227,"Washington, Dc",2498,apartment,842,2,1,1,1,1,1,0,0,w/d in unit,Unknown,38.9266,-77.0431,DC
+7049684227,Washington  Dc,2498,apartment,842,2,1,1,1,1,1,0,0,w/d in unit,Unknown,38.9266,-77.0431,DC
 7051245225,Las Vegas,895,apartment,875,2,1,0,0,1,0,0,0,laundry on site,carport,36.1462,-115.095,NV
 7049877930,San Antonio,2450,house,3127,4,2.5,0,0,0,0,0,0,w/d in unit,attached garage,29.5267,-98.7095,TX
 7038044750,Detroit Metro,755,apartment,755,1,1,0,0,1,0,0,0,Unknown,Unknown,42.4665,-83.0593,MI
@@ -4028,7 +4028,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7022668572,Saginaw-Midland-Baycity,775,duplex,1200,1,1.5,0,0,0,0,0,0,w/d hookups,attached garage,43.4732,-83.9514,MI
 7038057280,Skagit / Island / Sji,1798,apartment,1230,2,2.5,1,1,0,0,0,0,w/d in unit,attached garage,47.2099,-122.228,WA
 7047387936,Corvallis/Albany,870,apartment,720,1,2,1,1,0,1,0,0,laundry in bldg,off-street parking,44.626,-123.057,OR
-7042067568,"Kansas City, Mo",625,apartment,645,1,1,1,1,1,0,0,0,laundry on site,off-street parking,38.9359,-95.2643,KS
+7042067568,Kansas City  Mo,625,apartment,645,1,1,1,1,1,0,0,0,laundry on site,off-street parking,38.9359,-95.2643,KS
 7035987614,Central Nj,1780,apartment,675,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,40.2984,-74.6429,NJ
 7033660004,Yuba-Sutter,1400,apartment,700,1,1,1,1,1,1,0,0,laundry on site,carport,39.1503,-121.644,CA
 7040932492,Space Coast,1399,house,1120,3,1,0,0,1,0,0,0,w/d hookups,Unknown,28.6271,-80.8429,FL
@@ -4051,7 +4051,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048632094,Corpus Christi,995,apartment,817,2,1,1,1,1,0,0,0,w/d hookups,Unknown,27.6758,-97.3475,TX
 7045456773,Omaha / Council Bluffs,742,apartment,850,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.2955,-96.1008,IA
 7048579873,Toledo,759,apartment,900,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.7172,-83.4882,OH
-7047458911,"Washington, Dc",1753,apartment,950,2,2,1,1,1,0,0,0,Unknown,Unknown,38.8458,-77.3242,DC
+7047458911,Washington  Dc,1753,apartment,950,2,2,1,1,1,0,0,0,Unknown,Unknown,38.8458,-77.3242,DC
 7040467300,Boston,2250,apartment,700,1,1,1,1,1,0,0,0,w/d in unit,Unknown,42.3645,-71.0566,MA
 7037216236,Tucson,789,apartment,835,2,2,0,0,1,0,0,0,Unknown,Unknown,32.164,-110.996,AZ
 7049105001,Southern Illinois,515,apartment,416,1,1,0,0,1,0,0,0,laundry on site,off-street parking,37.72,-89.2158,IL
@@ -4133,7 +4133,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033376115,Denver,1925,apartment,783,2,1,1,1,1,0,0,0,laundry on site,street parking,39.7452,-104.994,CO
 7012040955,Florence,570,house,980,2,2,1,0,1,0,0,0,Unknown,Unknown,34.1838,-79.7728,SC
 7049296261,Frederick,1308,apartment,770,1,1,1,1,1,0,0,0,Unknown,Unknown,39.3647,-77.4636,MD
-7044477975,"Quad Cities, Ia/Il",800,house,924,2,1,1,1,1,0,0,0,Unknown,Unknown,41.4906,-90.498,IL
+7044477975,Quad Cities  Ia/Il,800,house,924,2,1,1,1,1,0,0,0,Unknown,Unknown,41.4906,-90.498,IL
 7049950281,Denver,2238,apartment,1000,2,1,1,1,1,0,0,0,w/d in unit,attached garage,39.7835,-104.967,CO
 7011911678,Anchorage / Mat-Su,1300,condo,850,2,1,0,0,0,0,0,0,w/d in unit,detached garage,61.1811,-149.849,AK
 7048373813,Houston,1175,apartment,1176,3,2,0,0,1,0,0,0,Unknown,Unknown,29.7145,-95.5347,TX
@@ -4156,7 +4156,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048551246,Sarasota-Bradenton,1034,apartment,1255,3,2,1,1,1,0,0,0,w/d in unit,Unknown,27.3802,-82.5037,FL
 7040364613,Philadelphia,3014,apartment,1009,2,2,1,1,0,1,0,1,w/d in unit,Unknown,39.955,-75.1971,PA
 7026735239,Fayetteville,769,apartment,1100,2,2,1,1,1,1,0,1,Unknown,off-street parking,35.0583,-79.008,NC
-7046988136,"Quad Cities, Ia/Il",850,house,800,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5118,-90.4321,IL
+7046988136,Quad Cities  Ia/Il,850,house,800,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5118,-90.4321,IL
 7051192825,Seattle-Tacoma,2625,apartment,681,1,1,1,1,0,0,0,0,w/d in unit,no parking,47.6189,-122.322,WA
 7044271070,Eastern Panhandle,900,house,1771,3,2.5,1,1,1,0,0,0,Unknown,Unknown,39.1777,-78.1728,WV
 7036898398,Dallas / Fort Worth,1330,apartment,776,1,1,1,1,1,0,0,0,w/d in unit,Unknown,,,TX
@@ -4187,7 +4187,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033694384,Jackson,905,apartment,1360,3,2.5,1,1,1,0,0,0,w/d hookups,off-street parking,35.7007,-88.848,TN
 7049755237,Bloomington,1205,apartment,890,2,1,1,1,0,0,0,0,w/d in unit,off-street parking,39.1556,-86.5541,IN
 7044823350,Fresno / Madera,1325,apartment,1050,4,2,1,1,1,0,0,0,laundry in bldg,carport,,,CA
-7049657106,"Kansas City, Mo",960,apartment,1160,2,2,1,1,0,0,0,0,laundry on site,Unknown,39.203,-94.5877,KS
+7049657106,Kansas City  Mo,960,apartment,1160,2,2,1,1,0,0,0,0,laundry on site,Unknown,39.203,-94.5877,KS
 7033411612,Annapolis,1780,apartment,1014,2,2,1,1,1,0,0,0,w/d in unit,Unknown,39.0992,-76.716,MD
 7024904026,Athens,620,house,715,3,3,1,1,1,0,0,0,Unknown,Unknown,33.9761,-83.3632,GA
 7031514878,Champaign Urbana,1190,apartment,990,2,2,0,0,0,1,0,1,w/d in unit,attached garage,40.1126,-88.2387,IL
@@ -4279,7 +4279,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7039255943,Monterey Bay,2175,condo,656,1,1,1,1,1,0,0,0,laundry in bldg,carport,36.5802,-121.844,CA
 7032813651,Merced,995,apartment,886,2,1,0,0,0,0,0,0,laundry on site,carport,37.3034,-120.46,CA
 7039518417,Corvallis/Albany,1110,apartment,1037,2,2,1,1,0,0,0,0,w/d in unit,carport,44.4739,-122.988,OR
-7049292334,"St Louis, Mo",1300,loft,2000,0,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.6327,-90.2042,IL
+7049292334,St Louis  Mo,1300,loft,2000,0,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.6327,-90.2042,IL
 7044687787,New Haven,1800,apartment,1600,4,2.5,0,0,0,0,0,1,w/d in unit,carport,41.2175,-73.0549,CT
 7037998902,Odessa / Midland,2005,apartment,1173,2,1,1,1,1,0,0,0,w/d in unit,attached garage,31.9235,-102.292,TX
 7035468214,Winston-Salem,795,apartment,1248,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,36.0036,-80.0036,NC
@@ -4303,11 +4303,11 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7014191352,Port Huron,899,apartment,960,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,42.8506,-82.4769,MI
 7027691114,Toledo,745,apartment,859,2,1,1,1,0,0,0,0,w/d in unit,off-street parking,41.5947,-83.661,OH
 7032348873,Bakersfield,759,apartment,988,2,1,0,0,1,0,0,0,w/d in unit,carport,36.0802,-119.009,CA
-7046974880,"St Louis, Mo",725,apartment,1060,3,1,0,0,1,0,0,0,laundry on site,off-street parking,38.7513,-90.2568,IL
+7046974880,St Louis  Mo,725,apartment,1060,3,1,0,0,1,0,0,0,laundry on site,off-street parking,38.7513,-90.2568,IL
 7049904547,Columbus,2400,apartment,1014,2,2,1,1,1,1,0,1,w/d in unit,attached garage,39.9936,-83.0068,OH
 7032358142,Lakeland,910,apartment,700,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,28.0922,-81.9675,FL
 7028037721,Clarksville,840,apartment,950,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,36.5853,-87.4186,TN
-7050867027,"St Louis, Mo",550,apartment,350,0,1,1,1,0,0,0,0,laundry in bldg,off-street parking,38.5943,-90.2309,IL
+7050867027,St Louis  Mo,550,apartment,350,0,1,1,1,0,0,0,0,laundry in bldg,off-street parking,38.5943,-90.2309,IL
 7047148119,Asheville,1100,apartment,850,2,1,0,0,1,0,0,0,w/d hookups,off-street parking,35.584,-82.6154,NC
 7047521449,Anchorage / Mat-Su,1295,condo,800,2,2,0,0,0,0,0,0,w/d in unit,attached garage,61.1549,-149.887,AK
 7043513043,Sheboygan,1053,townhouse,1495,3,2.5,1,1,1,0,0,0,w/d in unit,attached garage,43.7526,-87.9779,WI
@@ -4316,7 +4316,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043105308,Charleston,970,apartment,685,1,1,0,0,1,0,0,0,Unknown,Unknown,32.8215,-80.0568,SC
 7022662323,New River Valley,1030,apartment,871,2,1,1,1,1,0,0,0,laundry on site,off-street parking,37.2085,-80.3949,VA
 7050594084,Boston,1975,apartment,970,1,1,1,1,1,0,0,0,laundry in bldg,street parking,42.3409,-71.1538,MA
-7047104625,"St Louis, Mo",658,apartment,806,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9087,-90.1568,IL
+7047104625,St Louis  Mo,658,apartment,806,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9087,-90.1568,IL
 7039506505,Shreveport,1149,apartment,1010,2,2,1,1,1,0,0,0,w/d in unit,Unknown,32.5978,-93.7144,LA
 7040769425,Worcester / Central Ma,1800,apartment,1770,3,2,1,0,1,0,0,0,laundry on site,Unknown,42.5875,-71.8137,MA
 7033373135,Madison,1012,apartment,1020,2,1,1,1,1,1,0,0,laundry in bldg,off-street parking,42.9066,-87.8609,WI
@@ -4404,7 +4404,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7044836585,Columbia / Jeff City,658,apartment,752,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.9543,-92.3734,MO
 7049922645,Phoenix,1510,apartment,1213,2,2,1,1,1,0,0,0,w/d in unit,attached garage,33.6053,-112.261,AZ
 7041775318,Ann Arbor,1099,manufactured,1056,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,42.5323,-83.5743,MI
-7043532080,"St Louis, Mo",1430,apartment,1113,2,2,1,1,1,0,0,0,w/d in unit,attached garage,38.6668,-90.4436,IL
+7043532080,St Louis  Mo,1430,apartment,1113,2,2,1,1,1,0,0,0,w/d in unit,attached garage,38.6668,-90.4436,IL
 7049956557,Orange County,2705,apartment,1461,2,1,1,1,0,0,0,0,w/d in unit,carport,33.8359,-117.909,CA
 7048409956,Fresno / Madera,1425,apartment,1136,3,2,1,1,1,1,0,0,w/d hookups,attached garage,36.8165,-119.869,CA
 7039807450,College Station,760,apartment,850,2,2,1,1,1,0,0,0,Unknown,Unknown,30.6189,-96.3154,TX
@@ -4444,7 +4444,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7042537808,Des Moines,1375,apartment,1217,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,41.593,-93.8592,IA
 7048639146,Sacramento,1598,apartment,774,2,1,1,1,1,0,0,0,w/d in unit,carport,38.7877,-121.237,CA
 7035121763,Corpus Christi,1034,apartment,789,1,1,1,1,1,0,0,0,w/d hookups,Unknown,27.6741,-97.3644,TX
-7047075684,"St Louis, Mo",795,apartment,1250,2,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
+7047075684,St Louis  Mo,795,apartment,1250,2,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
 7048653154,Sacramento,1825,apartment,1015,2,2,1,1,1,0,0,0,w/d in unit,carport,38.4081,-121.429,CA
 7047071470,Albany,688,apartment,576,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,31.5686,-84.0889,GA
 7027386473,New Haven,2100,house,1392,3,1.5,0,0,0,0,0,0,w/d in unit,attached garage,41.3511,-72.9869,CT
@@ -4547,7 +4547,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7027425956,Huntsville / Decatur,907,apartment,807,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,34.7716,-86.6766,AL
 7029937039,Redding,775,cottage/cabin,800,1,1,0,0,0,0,0,0,laundry on site,carport,41.1103,-122.316,CA
 7037136745,New Orleans,1300,apartment,900,2,0,0,0,0,0,0,0,laundry in bldg,no parking,29.9537,-90.0673,LA
-7043732086,"Kansas City, Mo",595,apartment,750,2,1,0,0,1,0,0,0,laundry in bldg,Unknown,39.1017,-94.5685,KS
+7043732086,Kansas City  Mo,595,apartment,750,2,1,0,0,1,0,0,0,laundry in bldg,Unknown,39.1017,-94.5685,KS
 7050778736,Houston,1999,house,2518,5,3,1,1,1,0,0,0,w/d in unit,attached garage,29.7404,-95.8304,TX
 7032136455,Lancaster,1150,apartment,1104,2,1,0,0,1,0,0,0,Unknown,Unknown,40.0351,-76.3434,PA
 7045697930,College Station,610,apartment,785,3,2,1,1,1,0,0,0,Unknown,Unknown,30.6045,-96.3123,TX
@@ -4639,7 +4639,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049767076,Fayetteville,895,apartment,827,1,1,1,1,1,0,0,0,w/d hookups,Unknown,35.0257,-78.9705,NC
 7046075847,South Jersey,600,apartment,12,1,1,0,0,1,0,0,0,laundry in bldg,detached garage,-22.1517,-111.334,NJ
 7032106003,Stockton,1175,apartment,852,2,1,0,0,1,0,0,0,Unknown,Unknown,37.9672,-121.324,CA
-7047452810,"St Louis, Mo",605,apartment,750,2,1,1,1,1,0,0,0,Unknown,Unknown,38.7196,-90.27,IL
+7047452810,St Louis  Mo,605,apartment,750,2,1,1,1,1,0,0,0,Unknown,Unknown,38.7196,-90.27,IL
 7051099815,Detroit Metro,780,townhouse,950,2,1.5,1,1,1,0,0,0,laundry on site,off-street parking,42.1953,-83.2987,MI
 7045971274,Charlotte,1125,apartment,785,1,1,0,0,1,0,0,0,Unknown,Unknown,35.0842,-80.8302,NC
 7039689433,St Cloud,985,apartment,755,1,1,1,1,0,1,0,0,w/d in unit,attached garage,45.5521,-94.1284,MN
@@ -4675,7 +4675,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048431643,Portland,1299,apartment,806,2,1,1,0,1,0,0,0,laundry on site,off-street parking,45.491,-122.626,OR
 7017935510,Fredericksburg,901,apartment,810,1,1,0,0,1,0,0,0,Unknown,Unknown,38.2995,-77.4772,VA
 7051141667,Minneapolis / St Paul,1475,apartment,1112,2,2,1,1,1,0,0,0,laundry in bldg,Unknown,44.9083,-93.3593,MN
-7051081997,"Kansas City, Mo",959,apartment,1074,2,2,1,1,0,0,0,0,w/d hookups,carport,39.1667,-94.5603,KS
+7051081997,Kansas City  Mo,959,apartment,1074,2,2,1,1,0,0,0,0,w/d hookups,carport,39.1667,-94.5603,KS
 7046719264,Sarasota-Bradenton,1086,apartment,750,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,27.4459,-82.5876,FL
 7042336532,Athens,1250,house,1834,4,2.5,1,0,1,0,0,0,Unknown,Unknown,34.2646,-83.5635,OH
 7047357491,Fayetteville,959,apartment,1026,2,2,1,1,0,0,0,0,w/d hookups,Unknown,35.0583,-79.008,NC
@@ -4686,7 +4686,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043654407,Birmingham,750,apartment,600,1,1,1,0,1,0,0,0,laundry on site,off-street parking,33.4959,-86.7793,AL
 7049232471,New Orleans,1185,apartment,1300,1,1,1,1,1,0,0,0,w/d in unit,street parking,29.9242,-90.086,LA
 7037843995,New Hampshire,800,apartment,1100,2,1,1,1,0,0,0,0,laundry on site,off-street parking,44.4409,-71.2051,NH
-7037886920,"Washington, Dc",1310,apartment,564,1,1,1,1,1,0,0,0,laundry on site,Unknown,38.7596,-77.1485,DC
+7037886920,Washington  Dc,1310,apartment,564,1,1,1,1,1,0,0,0,laundry on site,Unknown,38.7596,-77.1485,DC
 7049976422,Corvallis/Albany,1030,apartment,728,1,1,1,1,0,0,0,0,w/d in unit,carport,44.5316,-122.882,OR
 7048895052,Louisville,799,apartment,1150,2,2,0,0,1,0,0,0,Unknown,Unknown,38.2051,-85.6787,KY
 7035943301,Tyler / East Tx,660,apartment,760,2,1,1,1,0,0,0,0,laundry on site,street parking,32.5127,-95.408,TX
@@ -4720,7 +4720,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7037122659,Boulder,1526,apartment,767,1,1,0,0,1,0,0,0,Unknown,Unknown,39.8854,-105.114,CO
 7047019056,Odessa / Midland,1165,apartment,755,1,1,1,1,1,0,0,0,laundry on site,off-street parking,32.0351,-102.134,TX
 7046739982,Baltimore,1640,apartment,1143,2,2,1,1,1,0,0,0,w/d in unit,Unknown,39.2085,-76.8094,MD
-7051011750,"Kansas City, Mo",739,apartment,701,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9667,-94.6169,KS
+7051011750,Kansas City  Mo,739,apartment,701,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9667,-94.6169,KS
 7040393504,Portland,1895,house,1329,3,2.5,0,0,0,0,0,0,w/d hookups,attached garage,45.5831,-122.693,OR
 7035869956,Topeka,3000,house,1100,1,1,0,0,0,0,0,1,laundry on site,off-street parking,39.0432,-95.6896,KS
 7035216629,Grand Rapids,800,apartment,690,1,1,1,1,0,1,0,0,w/d in unit,carport,43.1528,-86.1895,MI
@@ -4879,7 +4879,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031932294,Battle Creek,744,apartment,950,2,1,1,1,1,0,0,0,laundry on site,off-street parking,42.2951,-85.1993,MI
 7015117821,Salina,350,duplex,1100,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,39.5686,-97.6582,KS
 7049850934,Dallas / Fort Worth,950,apartment,521,1,1,1,1,1,0,0,0,w/d hookups,carport,33,-96.8572,TX
-7050054873,"Washington, Dc",2271,apartment,752,1,1,1,1,0,1,1,0,Unknown,attached garage,39.0003,-77.1022,DC
+7050054873,Washington  Dc,2271,apartment,752,1,1,1,1,0,1,1,0,Unknown,attached garage,39.0003,-77.1022,DC
 7044827589,Bakersfield,1205,apartment,1254,3,2,0,0,1,0,0,0,w/d hookups,detached garage,35.3595,-119.065,CA
 7045946971,Panama City,1235,apartment,1269,2,2,1,1,0,0,0,0,w/d hookups,Unknown,30.1653,-85.5763,FL
 7037712965,Lawton,830,apartment,992,2,2,1,1,1,0,0,0,w/d in unit,Unknown,34.602,-98.4572,OK
@@ -4949,7 +4949,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045354122,Cincinnati,647,apartment,750,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9941,-84.642,OH
 7036736073,Parkersburg-Marietta,850,apartment,2000,3,1,0,0,0,0,0,0,w/d hookups,attached garage,39.2868,-81.5968,OH
 7039157355,Orange County,2200,apartment,726,1,1,1,1,0,1,1,0,w/d in unit,detached garage,33.8561,-117.923,CA
-7049892578,"Washington, Dc",1620,apartment,626,1,1,1,1,1,0,0,0,w/d in unit,attached garage,38.8604,-77.2649,DC
+7049892578,Washington  Dc,1620,apartment,626,1,1,1,1,1,0,0,0,w/d in unit,attached garage,38.8604,-77.2649,DC
 7033661342,Kennewick-Pasco-Richland,1060,apartment,1020,2,1,1,1,1,0,0,0,w/d in unit,Unknown,46.2196,-119.184,WA
 7035424232,Yuma,815,apartment,675,2,2,1,1,1,0,0,0,laundry on site,carport,32.7015,-114.642,AZ
 7035800431,Boise,1195,apartment,910,2,1,1,1,0,0,0,0,laundry in bldg,Unknown,43.6126,-116.183,ID
@@ -5013,7 +5013,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045761240,Topeka,575,apartment,750,2,2,1,1,0,0,0,0,laundry on site,off-street parking,39.0142,-95.6981,KS
 7034636218,Madison,1310,apartment,1200,3,2,1,1,1,0,0,0,laundry on site,off-street parking,43.0463,-89.4966,WI
 7048934257,Detroit Metro,735,apartment,604,1,1,1,1,1,0,0,0,Unknown,Unknown,42.2317,-83.2673,MI
-7049684758,"Washington, Dc",1275,apartment,921,2,1,1,1,1,0,0,0,laundry in bldg,Unknown,38.8539,-76.8891,DC
+7049684758,Washington  Dc,1275,apartment,921,2,1,1,1,1,0,0,0,laundry in bldg,Unknown,38.8539,-76.8891,DC
 7028311023,Billings,595,manufactured,550,2,1,1,1,0,0,0,0,w/d hookups,off-street parking,45.6078,-108.398,MT
 7032527896,Yakima,845,duplex,1050,2,1,0,0,0,0,0,0,w/d hookups,off-street parking,46.808,-121.161,WA
 7038885287,Cleveland,935,house,1275,3,1.5,1,1,1,0,0,0,w/d hookups,attached garage,41.5882,-81.5468,OH
@@ -5024,7 +5024,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7020471227,Vermont,850,manufactured,840,2,1,0,0,0,0,0,0,w/d in unit,off-street parking,44.5532,-72.2208,VT
 7041928464,Kennewick-Pasco-Richland,1263,apartment,1236,4,2,0,0,1,0,0,0,w/d hookups,off-street parking,46.225,-119.266,WA
 7011652523,New Haven,1995,house,1700,3,2,0,0,0,0,0,0,w/d hookups,attached garage,41.4411,-73.0023,CT
-7049809878,"Washington, Dc",1399,apartment,906,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.793,-77.5266,DC
+7049809878,Washington  Dc,1399,apartment,906,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.793,-77.5266,DC
 7043368472,Lakeland,999,apartment,809,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,28.1092,-81.9474,FL
 7043370920,Texoma,755,apartment,890,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,33.6704,-96.5991,OK
 7047645183,Sacramento,1375,duplex,950,2,1,0,0,0,0,0,0,w/d hookups,attached garage,38.6088,-121.373,CA
@@ -5073,7 +5073,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049296546,Odessa / Midland,1530,apartment,1129,1,1.5,1,1,1,0,0,0,w/d hookups,carport,32.0199,-102.148,TX
 7049017421,Salem,1370,apartment,607,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,45.2635,-122.693,OR
 7046017993,Orlando,1603,apartment,1390,3,2,1,1,1,1,0,0,Unknown,street parking,28.4724,-81.3016,FL
-7047682795,"Quad Cities, Ia/Il",900,house,1241,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5164,-90.6141,IL
+7047682795,Quad Cities  Ia/Il,900,house,1241,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5164,-90.6141,IL
 7042055729,New Orleans,892,apartment,625,1,1,1,0,0,0,0,0,w/d in unit,off-street parking,29.9939,-90.1779,LA
 7038152984,Milwaukee,850,apartment,800,2,1,0,0,1,0,0,0,laundry on site,off-street parking,43.0661,-87.9032,WI
 7042595557,South Jersey,1625,apartment,1167,2,2,0,0,1,0,0,0,Unknown,Unknown,39.7539,-74.996,NJ
@@ -5108,7 +5108,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7028000520,Amarillo,799,apartment,300,1,1,1,1,0,1,0,1,laundry on site,off-street parking,35.1898,-101.934,TX
 7041860330,Wichita Falls,610,apartment,700,1,1,1,1,1,0,0,0,laundry on site,Unknown,33.8543,-98.5591,TX
 7034290369,Monterey Bay,1785,apartment,750,1,1,1,1,0,0,0,0,w/d in unit,carport,36.6855,-121.655,CA
-7041365647,"Quad Cities, Ia/Il",1100,condo,1850,2,2,0,0,0,0,0,0,laundry on site,attached garage,41.4768,-90.4754,IL
+7041365647,Quad Cities  Ia/Il,1100,condo,1850,2,2,0,0,0,0,0,0,laundry on site,attached garage,41.4768,-90.4754,IL
 7049764594,Greensboro,865,apartment,802,1,1,1,1,1,0,0,0,Unknown,Unknown,36.1032,-79.8794,NC
 7043459592,Wichita,410,apartment,363,0,1,0,0,1,0,0,0,laundry on site,off-street parking,37.677,-97.3368,KS
 7049951480,Los Angeles,2609,apartment,864,1,1,1,0,1,0,0,0,w/d in unit,Unknown,34.143,-118.391,CA
@@ -5178,7 +5178,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045301291,Milwaukee,823,apartment,678,1,1,1,1,1,0,0,0,laundry in bldg,attached garage,43.1624,-87.9898,WI
 7044638067,Eugene,1620,apartment,1161,2,2,1,1,0,0,0,0,w/d in unit,street parking,44.0786,-123.108,OR
 7049763100,Tucson,1010,apartment,796,1,1,1,1,1,0,0,0,w/d in unit,carport,32.2901,-110.949,AZ
-7049887655,"Washington, Dc",1600,apartment,497,0,1,1,1,0,0,0,0,laundry in bldg,Unknown,38.9327,-77.0322,DC
+7049887655,Washington  Dc,1600,apartment,497,0,1,1,1,0,0,0,0,laundry in bldg,Unknown,38.9327,-77.0322,DC
 7047002943,Charlottesville,1074,apartment,816,2,1,1,1,1,0,0,0,laundry on site,Unknown,38.0936,-78.5611,VA
 7027690503,Toledo,700,apartment,940,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.7172,-83.4882,OH
 7030709191,Rochester,1392,apartment,1315,2,2,1,1,0,0,0,0,w/d in unit,attached garage,44.0032,-92.4835,MN
@@ -5189,7 +5189,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7041028707,High Rockies,1400,condo,820,1,1,0,0,0,0,0,0,w/d hookups,off-street parking,39.6576,-106.823,CO
 7013545364,Charlottesville,2249,apartment,1610,2,2,1,1,0,0,0,0,w/d in unit,attached garage,38.0384,-78.4462,VA
 7010000477,Charlottesville,1257,apartment,1048,3,2,1,1,1,0,0,0,laundry on site,Unknown,38.0936,-78.5611,VA
-7047582356,"St Louis, Mo",990,apartment,986,2,2,1,1,1,0,0,0,w/d hookups,carport,38.8014,-90.5065,IL
+7047582356,St Louis  Mo,990,apartment,986,2,2,1,1,1,0,0,0,w/d hookups,carport,38.8014,-90.5065,IL
 7025367642,Anchorage / Mat-Su,820,apartment,470,1,1,1,1,0,0,0,0,laundry on site,Unknown,61.1695,-149.838,AK
 7030215419,Salem,1610,townhouse,1399,3,2.5,1,1,0,0,0,0,w/d hookups,attached garage,44.8715,-123.017,OR
 7046739734,Charleston,1495,townhouse,1491,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,33.0401,-80.0736,SC
@@ -5329,7 +5329,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032801024,Dayton / Springfield,650,apartment,660,1,1,1,0,1,0,0,0,laundry in bldg,off-street parking,39.7658,-84.2045,OH
 7036990927,Western Slope,1650,townhouse,1711,2,2.5,1,1,0,0,0,0,w/d in unit,attached garage,37.2242,-107.861,CO
 7026767044,Frederick,1228,apartment,840,1,1,0,0,1,0,0,0,Unknown,Unknown,39.4226,-77.4486,MD
-7049612210,"Washington, Dc",3000,apartment,750,1,1,0,0,0,0,0,0,w/d in unit,attached garage,38.9059,-77.047,DC
+7049612210,Washington  Dc,3000,apartment,750,1,1,0,0,0,0,0,0,w/d in unit,attached garage,38.9059,-77.047,DC
 7051062446,Ithaca,2350,duplex,1110,2,2,1,1,0,1,0,0,w/d in unit,no parking,42.4384,-76.499,NY
 7049839182,Anchorage / Mat-Su,925,condo,800,2,1,0,0,0,0,0,0,laundry in bldg,off-street parking,61.2098,-149.875,AK
 7032971921,Merced,1595,apartment,1200,3,2,1,1,1,0,0,0,w/d in unit,Unknown,37.3302,-120.508,CA
@@ -5366,7 +5366,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7034158946,Evansville,939,apartment,1048,3,1.5,0,0,1,0,0,0,Unknown,Unknown,37.929,-87.6604,IN
 7047409579,Tulsa,750,apartment,950,2,1.5,0,0,1,0,0,0,laundry on site,off-street parking,36.1448,-95.8866,OK
 7050439449,Charlotte,1037,apartment,864,1,1,1,1,1,0,0,0,w/d hookups,Unknown,35.1485,-80.8832,NC
-7049856997,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049856997,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7046058559,Reno / Tahoe,1566,apartment,1142,2,2,0,0,1,0,0,0,Unknown,Unknown,39.6269,-119.708,CA
 7043932929,Gainesville,964,apartment,650,1,1,1,1,1,0,0,0,Unknown,Unknown,29.6132,-82.3873,FL
 7035050506,Evansville,625,apartment,810,1,1,1,1,1,0,0,0,laundry on site,Unknown,37.9582,-87.487,IN
@@ -5402,11 +5402,11 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7035943952,Jackson,775,apartment,1150,2,2,0,0,1,0,0,0,Unknown,Unknown,35.6319,-88.7858,TN
 7035671330,Hudson Valley,1350,apartment,1250,2,1.5,0,0,1,0,0,0,w/d in unit,off-street parking,41.6134,-74.5872,NY
 7046202437,New Hampshire,1795,apartment,1400,2,1.5,1,1,0,0,0,0,laundry in bldg,detached garage,42.9909,-71.4441,NH
-7034554062,"Quad Cities, Ia/Il",1950,house,1686,3,3,0,0,0,0,0,0,w/d hookups,attached garage,41.6517,-90.5722,IL
+7034554062,Quad Cities  Ia/Il,1950,house,1686,3,3,0,0,0,0,0,0,w/d hookups,attached garage,41.6517,-90.5722,IL
 7033627269,Hilton Head,1553,apartment,1240,2,2,1,1,1,0,0,0,w/d in unit,Unknown,32.2702,-80.9209,SC
 7033284127,Rockford,605,apartment,550,1,1,1,0,1,0,0,0,laundry in bldg,off-street parking,42.2413,-89.026,IL
 7046319748,Monterey Bay,1850,apartment,450,1,1,1,0,1,0,0,0,laundry on site,off-street parking,36.4576,-121.844,CA
-7023326836,"Quad Cities, Ia/Il",920,apartment,960,2,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,41.5806,-90.5411,IL
+7023326836,Quad Cities  Ia/Il,920,apartment,960,2,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,41.5806,-90.5411,IL
 7050983527,Richmond,963,apartment,830,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,37.4638,-77.398,VA
 7048616620,Corpus Christi,795,apartment,652,1,1,1,1,1,0,0,0,w/d hookups,Unknown,27.6758,-97.3475,TX
 7031939812,Eastern Shore,695,apartment,745,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.5651,-76.0624,MD
@@ -5443,7 +5443,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7036048971,Reno / Tahoe,1900,house,1800,3,2,0,0,0,0,0,0,w/d in unit,attached garage,39.4035,-119.732,CA
 7035063519,Toledo,809,townhouse,1156,3,1.5,1,1,1,0,0,0,w/d hookups,Unknown,41.6163,-83.6834,OH
 7043372816,Des Moines,665,apartment,850,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.5553,-93.5988,IA
-7049967854,"Kansas City, Mo",1435,apartment,1149,2,2,1,1,0,0,0,0,w/d in unit,Unknown,38.9239,-94.3895,KS
+7049967854,Kansas City  Mo,1435,apartment,1149,2,2,1,1,0,0,0,0,w/d in unit,Unknown,38.9239,-94.3895,KS
 7033012898,Galveston,914,apartment,757,1,1,1,1,1,0,0,0,w/d in unit,carport,29.5298,-95.0334,TX
 7036400362,Galveston,865,apartment,960,2,2,1,1,1,0,0,0,laundry on site,Unknown,29.2657,-94.8356,TX
 7029658896,Topeka,650,apartment,822,2,1,1,1,0,1,0,0,laundry on site,off-street parking,39.0043,-95.7451,KS
@@ -5476,7 +5476,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040004714,Roanoke,650,apartment,990,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,36.9961,-79.8818,VA
 7041790704,Lakeland,989,manufactured,1216,3,2,1,1,1,0,0,0,w/d hookups,carport,27.7917,-81.9941,FL
 7050979203,Cleveland,660,apartment,800,2,1,1,1,1,0,0,0,Unknown,Unknown,41.3988,-81.511,OH
-7047533434,"Washington, Dc",1689,apartment,648,1,1,1,1,1,0,0,0,laundry in bldg,street parking,38.8926,-77.0753,DC
+7047533434,Washington  Dc,1689,apartment,648,1,1,1,1,1,0,0,0,laundry in bldg,street parking,38.8926,-77.0753,DC
 7049021412,Albuquerque,816,apartment,816,2,1,1,1,1,0,0,0,laundry on site,off-street parking,35.079,-106.617,NM
 7043860323,Wichita,518,apartment,635,1,1,1,1,0,0,0,0,laundry in bldg,carport,37.6915,-97.3452,KS
 7040056813,Baton Rouge,1192,apartment,933,1,0,1,1,1,0,0,0,Unknown,Unknown,30.6561,-91.1358,LA
@@ -5537,7 +5537,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7044493349,Jacksonville,730,apartment,800,3,1,1,1,0,0,0,0,Unknown,Unknown,30.3894,-81.7219,FL
 7035159144,Columbia,905,townhouse,1196,3,2.5,1,1,1,0,0,0,w/d hookups,street parking,34.045,-81.1168,SC
 7048910632,Greenville / Upstate,795,apartment,504,0,1,0,0,1,0,0,0,Unknown,Unknown,34.8556,-82.3318,SC
-7049710420,"St Louis, Mo",1618,townhouse,1257,2,2.5,1,1,1,0,0,0,w/d in unit,off-street parking,38.7033,-90.4618,IL
+7049710420,St Louis  Mo,1618,townhouse,1257,2,2.5,1,1,1,0,0,0,w/d in unit,off-street parking,38.7033,-90.4618,IL
 7048325345,Okaloosa / Walton,2100,condo,616,0,1,0,0,0,0,0,0,w/d in unit,carport,30.3949,-86.4692,FL
 7029328858,Akron / Canton,795,townhouse,1100,2,1.5,1,0,1,0,0,0,w/d in unit,off-street parking,40.8956,-81.5934,OH
 7040212070,Manhattan,720,apartment,750,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.1937,-96.5747,KS
@@ -5549,7 +5549,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7046422309,Albuquerque,1290,apartment,1196,3,2,0,0,1,0,0,0,Unknown,Unknown,35.1868,-106.665,NM
 7040950347,Jackson,950,apartment,1200,3,2,1,1,1,0,0,0,w/d hookups,off-street parking,32.3888,-90.1415,MS
 7034598706,Manhattan,789,apartment,793,1,1,0,0,1,0,0,0,Unknown,Unknown,39.011,-96.8583,KS
-7049248250,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049248250,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7031021517,Humboldt County,1750,house,1586,3,2,0,0,0,0,0,0,w/d hookups,attached garage,40.5877,-124.141,CA
 7045068531,South Jersey,1380,apartment,875,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,39.3741,-74.6118,NJ
 7032800544,St Cloud,890,apartment,1000,2,1.5,1,1,1,0,0,0,Unknown,Unknown,45.5457,-94.2229,MN
@@ -5673,8 +5673,8 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7047349913,Fort Smith,550,apartment,750,2,1,1,1,0,0,0,0,w/d in unit,off-street parking,35.4689,-94.3568,AR
 7047099752,Florida Keys,2465,apartment,768,2,1,1,1,1,0,0,0,laundry on site,off-street parking,24.5586,-81.7508,FL
 7030669694,Fredericksburg,2545,apartment,1398,3,2,1,1,1,0,0,0,Unknown,no parking,38.3796,-77.5349,VA
-7049777362,"Washington, Dc",1034,apartment,570,0,1,1,0,1,0,0,0,laundry in bldg,off-street parking,,,DC
-7045067941,"Quad Cities, Ia/Il",1200,house,1716,4,1.5,1,1,1,0,0,0,Unknown,detached garage,41.4913,-90.5648,IL
+7049777362,Washington  Dc,1034,apartment,570,0,1,1,0,1,0,0,0,laundry in bldg,off-street parking,,,DC
+7045067941,Quad Cities  Ia/Il,1200,house,1716,4,1.5,1,1,1,0,0,0,Unknown,detached garage,41.4913,-90.5648,IL
 7042086255,Dayton / Springfield,650,apartment,660,1,1,1,0,1,0,0,0,laundry in bldg,off-street parking,39.7658,-84.2045,OH
 7049629662,Sacramento,1579,apartment,675,1,1,1,1,1,0,0,0,laundry on site,Unknown,38.5433,-121.714,CA
 7051270408,Seattle-Tacoma,1950,house,1800,3,2.5,1,1,1,0,0,0,w/d in unit,attached garage,47.2545,-122.44,WA
@@ -5704,7 +5704,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049858360,Dallas / Fort Worth,1170,apartment,632,1,1,0,0,1,0,0,0,Unknown,Unknown,32.8595,-96.9762,TX
 7051188069,Seattle-Tacoma,1470,apartment,425,0,1,1,1,0,0,0,0,w/d in unit,carport,47.7157,-122.172,WA
 7044642140,Ventura County,1650,apartment,700,2,1,0,0,0,0,0,0,no laundry on site,carport,34.156,-119.181,CA
-7047631107,"Quad Cities, Ia/Il",850,house,880,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5118,-90.4321,IL
+7047631107,Quad Cities  Ia/Il,850,house,880,2,1,1,1,1,0,0,0,Unknown,detached garage,41.5118,-90.4321,IL
 7043423949,Seattle-Tacoma,999,apartment,550,1,1,0,0,1,0,0,0,w/d in unit,carport,47.0159,-124.164,WA
 7048518187,Stockton,1888,apartment,693,1,1,1,1,1,0,0,0,w/d in unit,carport,37.6988,-121.451,CA
 7027731781,Salt Lake City,1140,apartment,890,2,1,0,0,1,0,0,0,Unknown,Unknown,40.5466,-111.891,UT
@@ -5791,8 +5791,8 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7034268226,Waterloo / Cedar Falls,600,apartment,1450,4,1,1,1,1,0,0,0,w/d hookups,attached garage,42.5782,-92.7875,IA
 7036449848,El Paso,585,apartment,404,1,1,1,1,1,0,0,0,laundry on site,Unknown,31.8552,-106.435,TX
 7049189568,Hawaii,1950,apartment,650,2,1,1,1,0,0,0,0,laundry on site,off-street parking,21.2746,-157.819,HI
-7042420316,"St Louis, Mo",750,house,920,1,1,0,0,0,0,0,0,Unknown,Unknown,38.7828,-90.4866,IL
-7049658619,"St Louis, Mo",1006,apartment,1025,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,38.4566,-90.3282,IL
+7042420316,St Louis  Mo,750,house,920,1,1,0,0,0,0,0,0,Unknown,Unknown,38.7828,-90.4866,IL
+7049658619,St Louis  Mo,1006,apartment,1025,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,38.4566,-90.3282,IL
 7049294607,New Orleans,785,apartment,744,2,1,0,0,0,0,0,0,laundry in bldg,off-street parking,29.9146,-90.0569,LA
 7040347856,Hartford,935,apartment,740,1,1,1,1,1,0,0,1,laundry in bldg,attached garage,41.751,-72.6178,CT
 7032740758,Toledo,779,townhouse,607,1,0,1,1,1,0,0,0,w/d in unit,Unknown,41.2239,-83.8964,OH
@@ -5849,7 +5849,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040093361,Bloomington-Normal,750,apartment,1180,2,1.5,1,1,1,0,0,0,laundry on site,off-street parking,40.4783,-88.9489,IL
 7043381319,Tulsa,450,apartment,503,1,1,1,1,1,0,0,0,laundry on site,off-street parking,36.1462,-95.8863,OK
 7049716035,Central Nj,700,house,1200,3,2,0,0,1,0,0,0,Unknown,Unknown,40.5826,-74.2785,NJ
-7043658579,"Quad Cities, Ia/Il",800,house,716,2,1,1,1,1,0,0,0,Unknown,Unknown,41.5386,-90.6115,IL
+7043658579,Quad Cities  Ia/Il,800,house,716,2,1,1,1,1,0,0,0,Unknown,Unknown,41.5386,-90.6115,IL
 7049325374,Atlanta,919,apartment,933,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,34.1993,-84.4199,GA
 7047118478,Reno / Tahoe,2106,apartment,1944,3,2.5,1,1,1,0,0,0,w/d in unit,attached garage,39.6269,-119.708,CA
 7046732789,Cincinnati,1085,apartment,1361,2,2.5,1,1,0,0,0,0,w/d hookups,Unknown,39.3191,-84.5039,OH
@@ -5874,7 +5874,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7041870008,Rhode Island,1470,apartment,1055,1,1,1,1,1,1,0,0,w/d in unit,street parking,41.8814,-71.356,RI
 7046944971,Cumberland Valley,1009,apartment,880,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.6573,-77.6921,MD
 7048316046,Greenville / Upstate,1395,apartment,864,1,1,1,1,0,0,0,0,w/d in unit,attached garage,34.8472,-82.406,SC
-7047831506,"St Louis, Mo",850,apartment,1200,2,1,0,0,0,0,0,0,w/d hookups,attached garage,38.5397,-90.3436,IL
+7047831506,St Louis  Mo,850,apartment,1200,2,1,0,0,0,0,0,0,w/d hookups,attached garage,38.5397,-90.3436,IL
 7044078015,Fresno / Madera,1350,apartment,1140,2,2,1,1,1,0,0,0,w/d hookups,detached garage,36.8466,-119.775,CA
 7045346908,Huntsville / Decatur,660,apartment,1150,3,1,1,1,0,0,0,0,laundry on site,off-street parking,34.7376,-86.6356,AL
 7040728914,Santa Fe / Taos,2100,house,3000,3,2,0,0,0,0,0,1,w/d in unit,off-street parking,35.6782,-105.94,NM
@@ -5908,7 +5908,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043651889,Oklahoma City,729,apartment,950,2,2,1,1,1,0,0,0,laundry on site,Unknown,35.5102,-97.6106,OK
 7047380439,Louisville,765,apartment,750,1,1,1,1,1,0,0,0,laundry on site,off-street parking,38.2578,-85.6051,KY
 7046798337,Louisville,759,apartment,451,0,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.2553,-85.6104,KY
-7032722929,"Quad Cities, Ia/Il",1375,house,1808,4,2,0,0,1,0,0,0,w/d hookups,attached garage,41.5756,-90.6145,IL
+7032722929,Quad Cities  Ia/Il,1375,house,1808,4,2,0,0,1,0,0,0,w/d hookups,attached garage,41.5756,-90.6145,IL
 7049132492,Central Nj,1620,apartment,925,2,1.5,1,0,1,0,0,0,laundry on site,off-street parking,40.5106,-74.3156,NJ
 7037100744,Killeen / Temple / Ft Hood,695,apartment,650,1,1,1,1,1,0,0,0,laundry on site,off-street parking,31.1281,-97.7356,TX
 7024931581,Treasure Coast,2200,house,1505,2,2,0,0,1,0,0,0,Unknown,Unknown,27.2655,-80.3389,FL
@@ -5935,13 +5935,13 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049401571,Inland Empire,1450,apartment,763,1,1,1,0,1,0,0,0,w/d in unit,carport,33.569,-117.178,CA
 7043456721,Ventura County,1913,apartment,772,1,1,1,1,1,0,0,0,w/d in unit,carport,34.2133,-118.826,CA
 7046727300,Myrtle Beach,1140,apartment,1350,3,2,1,1,1,0,0,0,w/d hookups,Unknown,33.7377,-78.9787,SC
-7049848416,"Washington, Dc",2048,apartment,762,1,1,1,1,1,0,0,0,w/d in unit,Unknown,38.9264,-77.0427,DC
+7049848416,Washington  Dc,2048,apartment,762,1,1,1,1,1,0,0,0,w/d in unit,Unknown,38.9264,-77.0427,DC
 7035247422,Memphis,670,apartment,715,1,1,0,0,1,0,0,0,Unknown,Unknown,35.1556,-89.7762,TN
 7013993489,Bismarck,1325,apartment,1413,3,2,1,1,0,1,0,0,w/d in unit,Unknown,46.8524,-100.744,ND
 7049404148,Sacramento,1400,house,1010,2,1,1,1,1,1,0,0,w/d in unit,attached garage,38.5683,-121.437,CA
 7040595830,Fayetteville,880,apartment,1026,2,2,1,1,0,0,0,0,w/d hookups,Unknown,35.0553,-78.9769,NC
-7048981356,"St Louis, Mo",1048,apartment,809,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.6735,-90.4189,IL
-7032037296,"Quad Cities, Ia/Il",575,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
+7048981356,St Louis  Mo,1048,apartment,809,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.6735,-90.4189,IL
+7032037296,Quad Cities  Ia/Il,575,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
 7047474546,Sf Bay Area,2570,apartment,520,1,1,0,0,1,0,0,0,Unknown,Unknown,37.3914,-122.072,CA
 7049888180,Tucson,729,apartment,830,2,1,1,1,1,0,0,0,laundry on site,carport,32.2352,-110.808,AZ
 7049973802,El Paso,670,apartment,565,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,31.7411,-106.302,TX
@@ -5985,7 +5985,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7047056660,Lexington,729,apartment,600,1,1,1,1,1,0,0,0,Unknown,Unknown,37.9849,-84.4816,KY
 7047685728,Minneapolis / St Paul,1209,apartment,725,1,1,0,0,1,0,0,0,Unknown,Unknown,44.8651,-93.3087,MN
 7050863641,New York City,2500,apartment,975,2,1,0,0,1,0,0,0,Unknown,attached garage,40.6251,-74.0303,NY
-7043910447,"St Louis, Mo",740,apartment,700,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.5495,-90.3811,IL
+7043910447,St Louis  Mo,740,apartment,700,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.5495,-90.3811,IL
 7050730553,Rochester,775,apartment,1000,2,1,1,1,0,0,0,0,laundry in bldg,off-street parking,42.903,-77.7274,NY
 7048676153,College Station,619,apartment,900,2,1,1,1,1,0,0,0,w/d hookups,Unknown,30.6251,-96.379,TX
 7047312250,Augusta,799,apartment,820,1,1,1,1,1,0,0,0,w/d in unit,Unknown,33.4701,-82.0901,GA
@@ -5996,13 +5996,13 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049314246,Fairbanks,800,apartment,700,1,1,1,1,0,0,0,0,laundry on site,Unknown,64.7805,-147.369,AK
 7048520296,Portland,1195,apartment,835,2,1.5,1,1,0,0,0,0,laundry on site,off-street parking,45.4887,-122.509,OR
 7046760936,Topeka,665,apartment,925,2,2,1,1,1,0,0,0,laundry on site,carport,39.0137,-95.7269,KS
-7049693518,"Kansas City, Mo",1116,apartment,725,1,1,1,1,1,0,0,0,w/d in unit,attached garage,39.2627,-94.697,KS
+7049693518,Kansas City  Mo,1116,apartment,725,1,1,1,1,1,0,0,0,w/d in unit,attached garage,39.2627,-94.697,KS
 7037888022,Champaign Urbana,800,condo,860,2,1,1,1,0,0,0,0,laundry on site,off-street parking,40.095,-88.2493,IL
 7041528107,Ft Myers / Sw Florida,1107,apartment,718,1,1,1,1,1,0,0,0,w/d in unit,street parking,26.6693,-81.7605,FL
 7048567727,Spokane / Coeur D'Alene,1555,apartment,2189,3,3.5,1,1,0,0,0,0,w/d in unit,detached garage,47.6427,-117.472,ID
 7014869690,Tyler / East Tx,945,apartment,868,2,1.5,1,1,0,0,0,0,laundry on site,Unknown,32.3025,-95.2788,TX
 7048552684,Memphis,866,apartment,827,1,1,0,0,1,0,0,0,Unknown,Unknown,35.1602,-89.7816,TN
-7025323726,"Quad Cities, Ia/Il",825,townhouse,966,3,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,41.5627,-90.6248,IL
+7025323726,Quad Cities  Ia/Il,825,townhouse,966,3,1.5,1,1,0,0,0,0,w/d hookups,off-street parking,41.5627,-90.6248,IL
 7051106530,Ann Arbor,425,house,1835,3,2,0,0,1,0,0,0,w/d hookups,attached garage,42.3042,-83.7068,MI
 7045984049,Omaha / Council Bluffs,1155,apartment,1150,2,2,0,0,1,0,0,0,Unknown,Unknown,41.1762,-96.0159,IA
 7046895393,Kennewick-Pasco-Richland,899,apartment,860,2,1,1,1,0,0,0,0,w/d in unit,Unknown,46.2522,-119.288,WA
@@ -6072,7 +6072,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033481046,Birmingham,999,house,1601,3,2,1,1,1,0,0,0,w/d hookups,attached garage,33.7108,-86.3749,AL
 7041448105,Topeka,490,apartment,270,0,1,0,0,1,0,0,0,Unknown,Unknown,39.0119,-95.7151,KS
 7042101762,Eastern Nc,725,apartment,700,1,1,1,1,0,0,0,0,w/d hookups,carport,35.5866,-77.3485,NC
-7049914948,"St Louis, Mo",1140,apartment,1189,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.5976,-90.5399,IL
+7049914948,St Louis  Mo,1140,apartment,1189,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.5976,-90.5399,IL
 7049867009,Denver,1390,apartment,900,2,2,1,1,1,0,0,0,w/d in unit,Unknown,39.9108,-105.011,CO
 7050762540,Memphis,949,apartment,835,1,1,1,1,1,0,0,0,w/d in unit,Unknown,35.1556,-89.7762,TN
 7044566372,Baltimore,1534,apartment,964,2,1.5,0,0,1,0,0,0,w/d in unit,Unknown,39.1989,-76.6225,MD
@@ -6113,7 +6113,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7044553975,Odessa / Midland,2799,apartment,1318,3,2,1,1,1,0,0,0,w/d in unit,detached garage,32.0617,-102.074,TX
 7039401884,Baton Rouge,1411,apartment,1264,3,0,1,1,1,0,0,0,Unknown,Unknown,30.6561,-91.1358,LA
 7043844824,Fayetteville,750,apartment,695,0,1,0,0,0,0,0,1,Unknown,Unknown,35.0897,-79.0106,NC
-7049639782,"Washington, Dc",2510,apartment,1593,3,2,1,1,1,0,0,0,w/d in unit,Unknown,39.0533,-77.1195,DC
+7049639782,Washington  Dc,2510,apartment,1593,3,2,1,1,1,0,0,0,w/d in unit,Unknown,39.0533,-77.1195,DC
 7041871378,Waterloo / Cedar Falls,925,townhouse,1000,2,1.5,0,0,1,0,0,0,w/d hookups,off-street parking,42.7748,-92.404,IA
 7050449199,Raleigh / Durham / Ch,855,apartment,540,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,35.9062,-79.0785,NC
 7037155131,Salem,1095,apartment,1100,2,2,0,1,0,0,0,0,w/d in unit,carport,44.9093,-122.971,OR
@@ -6243,7 +6243,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7037410097,Rochester,844,apartment,900,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,44.0472,-92.4925,MN
 7031322983,Grand Forks,876,apartment,1040,2,2,1,1,1,0,0,0,Unknown,Unknown,47.8934,-97.077,ND
 7023968361,Sierra Vista,850,house,913,3,1,1,1,0,0,0,0,w/d in unit,off-street parking,31.4086,-109.912,AZ
-7047291838,"Quad Cities, Ia/Il",1145,house,1130,2,2,1,1,1,0,0,0,Unknown,attached garage,41.5385,-90.5613,IL
+7047291838,Quad Cities  Ia/Il,1145,house,1130,2,2,1,1,1,0,0,0,Unknown,attached garage,41.5385,-90.5613,IL
 7046924972,Fayetteville,810,apartment,1220,3,2,1,1,1,0,0,0,w/d hookups,Unknown,35.1276,-78.8726,NC
 7040323169,Jacksonville,984,apartment,780,1,1,1,1,1,0,0,0,w/d in unit,Unknown,30.2065,-81.5559,FL
 7051019677,San Marcos,630,apartment,1985,5,5.5,1,1,1,0,0,0,w/d in unit,Unknown,29.8754,-97.9404,TX
@@ -6267,7 +6267,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050963728,Baltimore,1440,apartment,1040,2,2,1,1,1,0,0,0,Unknown,Unknown,39.3961,-76.8008,MD
 7029343633,Ft Myers / Sw Florida,1600,house,1800,2,2,1,1,1,0,0,0,w/d in unit,attached garage,26.1124,-81.7442,FL
 7031379866,Abilene,800,apartment,856,2,1,0,0,1,0,0,0,Unknown,Unknown,32.4366,-99.79,TX
-7038252531,"Washington, Dc",1575,apartment,1076,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,39.1355,-77.2822,DC
+7038252531,Washington  Dc,1575,apartment,1076,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,39.1355,-77.2822,DC
 7049831213,Atlanta,847,apartment,800,1,1,0,0,1,0,0,0,Unknown,Unknown,33.8255,-84.3313,GA
 7038008545,Billings,580,house,896,2,1,1,1,1,1,0,0,w/d in unit,attached garage,45.614,-108.387,MT
 7048903413,Tampa Bay Area,934,apartment,1058,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,28.2888,-82.6776,FL
@@ -6490,8 +6490,8 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040913389,Kenai Peninsula,895,apartment,850,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,60.5651,-151.209,AK
 7040068180,Little Rock,1000,house,1363,3,2,0,0,0,0,0,0,w/d hookups,attached garage,34.9541,-92.0348,AR
 7045781648,Daytona Beach,1159,apartment,1146,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,29.1994,-81.0376,FL
-7040882510,"Quad Cities, Ia/Il",925,house,866,2,1,1,1,1,0,0,0,Unknown,detached garage,41.4906,-90.498,IL
-7050142337,"St Louis, Mo",595,apartment,825,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.4305,-90.387,IL
+7040882510,Quad Cities  Ia/Il,925,house,866,2,1,1,1,1,0,0,0,Unknown,detached garage,41.4906,-90.498,IL
+7050142337,St Louis  Mo,595,apartment,825,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.4305,-90.387,IL
 7049020206,Tuscaloosa,675,apartment,1191,3,3,1,1,1,0,0,0,w/d in unit,off-street parking,33.2034,-87.5095,AL
 7041813767,Lexington,899,apartment,1125,2,0,1,1,1,0,0,0,Unknown,Unknown,38.001,-84.5282,KY
 7018140448,Mcallen / Edinburg,630,apartment,700,1,1,0,0,1,0,0,0,w/d hookups,carport,26.1923,-98.2657,TX
@@ -6507,7 +6507,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040093150,Baton Rouge,990,apartment,1050,3,2,1,1,1,0,0,0,Unknown,Unknown,30.4576,-91.1792,LA
 7035744418,Augusta,945,apartment,812,2,2,1,1,1,0,0,0,w/d hookups,Unknown,33.4723,-82.0829,GA
 7045707261,Palm Springs,2200,house,1617,3,2,1,1,0,1,0,1,w/d in unit,attached garage,33.6685,-116.308,CA
-7048321777,"Washington, Dc",1750,apartment,785,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.9996,-76.884,DC
+7048321777,Washington  Dc,1750,apartment,785,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.9996,-76.884,DC
 7033542374,Ogden-Clearfield,1295,apartment,1100,2,2,1,1,0,0,0,0,w/d in unit,carport,41.1802,-112.064,UT
 7049068825,Sacramento,1825,apartment,997,2,2,1,1,1,0,0,1,w/d in unit,detached garage,38.685,-121.068,CA
 7042485900,Iowa City,1165,apartment,960,2,1.5,1,1,1,0,0,0,w/d in unit,off-street parking,41.6881,-91.598,IA
@@ -6597,7 +6597,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032647147,Manhattan,1085,apartment,950,3,1.5,1,1,1,0,0,0,w/d hookups,off-street parking,39.1937,-96.5747,KS
 7047350010,Atlanta,932,apartment,980,2,1,1,1,0,1,0,0,w/d hookups,street parking,33.8255,-84.3313,GA
 7048902866,Gainesville,1664,apartment,1165,2,2,1,1,1,0,0,0,w/d in unit,Unknown,29.6243,-82.3926,FL
-7042731551,"Quad Cities, Ia/Il",650,house,606,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,41.428,-91.0585,IL
+7042731551,Quad Cities  Ia/Il,650,house,606,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,41.428,-91.0585,IL
 7036543165,Annapolis,1467,apartment,838,1,1,1,1,1,1,0,0,w/d in unit,detached garage,39.0762,-76.6996,MD
 7046277793,Asheville,1550,house,1100,3,1.5,1,1,0,0,0,0,w/d in unit,off-street parking,35.5938,-82.615,NC
 7033565630,Minneapolis / St Paul,885,apartment,600,1,0,1,0,0,0,0,0,Unknown,off-street parking,44.9619,-93.2903,MN
@@ -6698,7 +6698,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049419468,San Diego,2026,apartment,952,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,32.6279,-117.037,CA
 7048310473,Greenville / Upstate,905,apartment,724,1,1,0,0,1,0,0,0,Unknown,Unknown,35.0465,-81.9818,SC
 7043894935,Richmond,1578,apartment,1326,3,2,1,1,1,0,0,0,Unknown,Unknown,37.5109,-77.6429,VA
-7049896891,"Washington, Dc",2022,apartment,982,2,2,1,1,0,1,1,0,w/d in unit,attached garage,38.9615,-77.3418,DC
+7049896891,Washington  Dc,2022,apartment,982,2,2,1,1,0,1,1,0,w/d in unit,attached garage,38.9615,-77.3418,DC
 7047813302,Tampa Bay Area,1810,house,1428,3,2,1,1,1,0,0,0,w/d hookups,carport,27.8201,-82.7308,FL
 7035502832,Columbia / Jeff City,495,apartment,650,1,1,0,0,0,0,0,0,laundry on site,off-street parking,38.9446,-92.3202,MO
 7040978638,Gulfport / Biloxi,1116,apartment,1500,3,2,0,0,1,0,0,0,Unknown,Unknown,30.4431,-88.854,MS
@@ -6710,7 +6710,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033591502,South Jersey,1165,apartment,850,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,39.7986,-75.0398,NJ
 7043451014,North Platte,950,house,1472,3,1.5,0,0,0,0,0,0,w/d hookups,off-street parking,41.1482,-100.792,NE
 7043960008,Indianapolis,984,apartment,545,1,1,1,1,1,0,0,0,w/d in unit,Unknown,39.743,-86.1179,IN
-7049908329,"Kansas City, Mo",919,apartment,1145,2,2,1,1,0,0,0,0,w/d hookups,carport,39.1705,-94.5644,KS
+7049908329,Kansas City  Mo,919,apartment,1145,2,2,1,1,0,0,0,0,w/d hookups,carport,39.1705,-94.5644,KS
 7036587689,North Dakota,325,apartment,300,1,1,0,0,1,0,0,1,laundry in bldg,off-street parking,48.2602,-101.297,ND
 7043624374,Jacksonville,1445,apartment,1322,3,2,0,0,1,0,0,0,Unknown,Unknown,30.2043,-81.7507,FL
 7043970689,Space Coast,1675,apartment,1184,2,2,1,1,0,0,0,0,w/d in unit,street parking,28.0415,-80.6676,FL
@@ -6725,12 +6725,12 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050962029,Long Island,1845,apartment,525,1,1,1,1,1,0,0,0,laundry on site,off-street parking,40.8571,-73.2,NY
 7030704075,Athens,949,apartment,972,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,33.9761,-83.3632,GA
 7033622642,Sf Bay Area,2275,townhouse,988,2,1,1,1,1,0,0,0,laundry on site,carport,37.8859,-122.052,CA
-7037714011,"Kansas City, Mo",862,apartment,900,2,1.5,1,1,1,0,0,0,Unknown,Unknown,39.1479,-94.568,KS
+7037714011,Kansas City  Mo,862,apartment,900,2,1.5,1,1,1,0,0,0,Unknown,Unknown,39.1479,-94.568,KS
 7020625016,Wichita Falls,450,house,1560,2,2,0,0,1,0,0,0,laundry on site,off-street parking,34.4727,-99.646,TX
 7026257650,Space Coast,1904,apartment,1409,3,2,0,0,1,0,0,0,Unknown,Unknown,28.1331,-80.7112,FL
 7042534802,Dayton / Springfield,679,apartment,650,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.6804,-84.1225,OH
 7035908286,Kenosha-Racine,1014,apartment,962,2,1,1,1,1,1,0,0,laundry in bldg,attached garage,42.726,-87.7826,WI
-7042407399,"Washington, Dc",2800,apartment,821,2,1,1,1,0,1,0,0,w/d in unit,attached garage,38.9038,-77.0122,DC
+7042407399,Washington  Dc,2800,apartment,821,2,1,1,1,0,1,0,0,w/d in unit,attached garage,38.9038,-77.0122,DC
 7035234143,Olympic Peninsula,1400,cottage/cabin,800,1,1,0,0,1,0,0,0,w/d hookups,attached garage,48.0693,-123.678,WA
 7045347966,Southern Maryland,1295,apartment,784,1,1,1,1,0,1,0,0,laundry on site,off-street parking,38.7961,-76.9765,MD
 7037347039,Jackson,1100,apartment,1280,3,0,1,1,1,0,0,0,Unknown,Unknown,35.6829,-88.8281,TN
@@ -6744,7 +6744,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7024293791,Central Michigan,799,apartment,992,2,1,1,1,1,0,0,0,w/d in unit,Unknown,43.5781,-84.7436,MI
 7045332532,Des Moines,1080,apartment,1262,3,2,0,0,1,0,0,0,Unknown,Unknown,41.5695,-93.7994,IA
 7050317812,New Hampshire,1400,condo,960,2,1,0,0,0,0,0,0,w/d hookups,off-street parking,42.769,-71.4121,NH
-7050344584,"Kansas City, Mo",630,apartment,320,1,1,0,0,0,0,0,1,laundry in bldg,off-street parking,39.3707,-94.5793,KS
+7050344584,Kansas City  Mo,630,apartment,320,1,1,0,0,0,0,0,1,laundry in bldg,off-street parking,39.3707,-94.5793,KS
 7042571314,Boulder,1389,apartment,611,1,1,0,0,1,0,0,0,Unknown,Unknown,39.9271,-105.142,CO
 7030190340,Memphis,833,apartment,845,1,1,0,0,1,0,0,0,Unknown,Unknown,35.1602,-89.7816,TN
 7050807222,Oklahoma City,805,apartment,817,1,1,1,1,0,0,0,0,w/d hookups,Unknown,35.6089,-97.6148,OK
@@ -6778,7 +6778,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7023160656,Sierra Vista,545,apartment,440,0,1,1,1,1,0,0,0,laundry on site,carport,31.5395,-110.299,AZ
 7044631163,Knoxville,900,apartment,912,2,2,1,1,0,0,0,0,w/d hookups,Unknown,35.9499,-83.9726,TN
 7050708195,North Jersey,621,apartment,758,1,1,0,0,1,0,0,0,w/d in unit,Unknown,40.1918,-74.0167,NJ
-7049692695,"Washington, Dc",1975,apartment,850,1,1,0,0,1,0,0,0,laundry in bldg,attached garage,38.9202,-77.0375,DC
+7049692695,Washington  Dc,1975,apartment,850,1,1,0,0,1,0,0,0,laundry in bldg,attached garage,38.9202,-77.0375,DC
 7035452089,Champaign Urbana,685,apartment,1780,3,1,1,1,0,0,0,0,Unknown,Unknown,40.3107,-88.1462,IL
 7035908149,Cleveland,851,apartment,824,2,1.5,1,0,1,0,0,0,laundry in bldg,off-street parking,41.4425,-81.7441,OH
 7050727895,Dayton / Springfield,788,townhouse,1000,2,1.5,1,1,1,0,0,0,laundry on site,off-street parking,39.6426,-84.2516,OH
@@ -6843,7 +6843,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7038395902,Asheville,1065,apartment,802,1,1,0,0,1,0,0,0,Unknown,Unknown,35.5808,-82.6078,NC
 7050916162,Cleveland,785,apartment,882,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.5926,-81.4943,OH
 7047177052,Colorado Springs,1437,apartment,1198,2,2,1,1,1,0,0,0,Unknown,Unknown,38.9189,-104.704,CO
-7049250780,"Kansas City, Mo",1675,townhouse,1781,3,2.5,0,0,1,0,0,0,w/d in unit,attached garage,39.2758,-94.5704,KS
+7049250780,Kansas City  Mo,1675,townhouse,1781,3,2.5,0,0,1,0,0,0,w/d in unit,attached garage,39.2758,-94.5704,KS
 7041908777,Lexington,276,house,1320,2,1,1,1,1,0,0,1,Unknown,Unknown,38.0102,-84.4274,KY
 7032881033,Sioux Falls / Se Sd,775,apartment,875,2,1,1,1,0,0,0,0,laundry in bldg,off-street parking,43.5064,-96.777,SD
 7040331913,Harrisonburg,879,apartment,879,2,1,0,0,1,0,0,0,Unknown,Unknown,38.4206,-78.8734,VA
@@ -6878,7 +6878,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032039586,Mohave County,712,apartment,642,1,1,1,1,1,0,0,0,w/d in unit,carport,35.1563,-114.615,AZ
 7024379576,Huntsville / Decatur,749,apartment,800,1,1,1,1,0,1,0,0,w/d in unit,off-street parking,34.6583,-86.7295,AL
 7040820910,Lakeland,949,house,1136,3,1,1,1,0,0,0,0,w/d hookups,carport,28.039,-81.7281,FL
-7037982910,"St Louis, Mo",790,apartment,425,0,1,1,0,1,0,0,0,laundry in bldg,attached garage,38.64,-90.3336,IL
+7037982910,St Louis  Mo,790,apartment,425,0,1,1,0,1,0,0,0,laundry in bldg,attached garage,38.64,-90.3336,IL
 7047066901,Rochester,775,apartment,700,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,43.1257,-77.7037,NY
 7040222645,Anchorage / Mat-Su,785,apartment,550,1,1,1,1,0,0,0,0,laundry on site,Unknown,61.1823,-149.868,AK
 7043916713,Medford-Ashland,1750,townhouse,1706,3,2.5,0,0,0,0,0,0,w/d in unit,attached garage,,,OR
@@ -6964,7 +6964,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049330354,Madison,825,apartment,720,1,1,1,1,0,0,0,0,laundry in bldg,off-street parking,43.0277,-89.4657,WI
 7015657614,Gainesville,1700,apartment,899,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,29.6042,-82.4243,FL
 7049063565,Raleigh / Durham / Ch,1350,apartment,1280,2,2,1,1,1,0,0,0,w/d in unit,Unknown,35.8937,-78.8466,NC
-7048339359,"St Louis, Mo",595,apartment,720,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
+7048339359,St Louis  Mo,595,apartment,720,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.7435,-90.341,IL
 7039411726,Atlanta,1387,apartment,1377,3,2,0,0,1,0,0,0,Unknown,Unknown,34.0842,-84.4845,GA
 7037676576,Rochester,1269,townhouse,1248,2,1.5,1,1,0,1,0,0,w/d in unit,attached garage,44.0496,-92.4896,MN
 7040023429,Boston,2200,apartment,1200,2,1,1,1,1,0,0,0,laundry on site,detached garage,42.3529,-71.1778,MA
@@ -7045,7 +7045,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7030738953,Savannah / Hinesville,999,apartment,1080,2,2,1,1,1,0,0,0,w/d in unit,carport,31.9992,-81.1036,GA
 7044820378,Topeka,665,apartment,925,2,2,1,1,1,0,0,0,laundry on site,carport,39.0137,-95.7269,KS
 7051188715,Provo / Orem,1120,apartment,1041,2,2,1,1,0,0,0,0,w/d in unit,carport,40.372,-111.733,UT
-7050862077,"Kansas City, Mo",635,apartment,610,2,1,0,0,1,0,0,0,Unknown,Unknown,38.9778,-94.5757,KS
+7050862077,Kansas City  Mo,635,apartment,610,2,1,0,0,1,0,0,0,Unknown,Unknown,38.9778,-94.5757,KS
 7049072971,Tulsa,565,apartment,700,1,1,0,0,1,0,0,0,laundry on site,off-street parking,36.0896,-95.9483,OK
 7051092547,Columbus,1098,apartment,1135,2,2,0,0,1,0,0,0,Unknown,Unknown,40.0661,-83.0804,OH
 7044548045,Norfolk / Hampton Roads,955,apartment,940,2,1,1,1,1,0,0,0,w/d hookups,Unknown,36.8828,-76.3757,VA
@@ -7150,7 +7150,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7033450820,Huntsville / Decatur,799,apartment,900,2,2,1,1,0,1,0,0,w/d in unit,off-street parking,34.6472,-86.7239,AL
 7039669445,Jackson,520,apartment,675,2,1,1,1,1,1,0,0,laundry on site,off-street parking,32.3081,-90.2021,MI
 7041315728,Columbia,1325,apartment,1048,2,2,1,1,0,1,0,0,w/d in unit,Unknown,34.1388,-80.8892,SC
-7043946718,"Washington, Dc",1570,apartment,693,1,1,1,0,1,0,0,0,Unknown,Unknown,38.9647,-76.9649,DC
+7043946718,Washington  Dc,1570,apartment,693,1,1,1,0,1,0,0,0,Unknown,Unknown,38.9647,-76.9649,DC
 7029280193,Kennewick-Pasco-Richland,1247,apartment,958,2,1,1,1,1,0,0,0,w/d in unit,carport,46.2669,-119.303,WA
 7036007239,Lawrence,899,manufactured,1216,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,38.9503,-95.2071,KS
 7037914096,Augusta,867,townhouse,1042,2,1.5,1,1,1,0,0,0,w/d hookups,Unknown,33.3433,-82.0887,GA
@@ -7200,7 +7200,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7046862136,Gulfport / Biloxi,599,apartment,752,1,1,1,1,1,1,0,0,laundry on site,off-street parking,30.3629,-88.5307,MS
 7039555811,Champaign Urbana,690,apartment,2000,4,1,1,1,0,0,0,0,Unknown,Unknown,40.3107,-88.1462,IL
 7036979130,Athens,1300,townhouse,1332,2,2.5,0,0,0,0,0,1,w/d in unit,Unknown,33.9172,-83.3696,GA
-7043971441,"St Louis, Mo",690,apartment,810,1,1,0,0,1,0,0,0,Unknown,Unknown,38.5814,-90.2625,IL
+7043971441,St Louis  Mo,690,apartment,810,1,1,0,0,1,0,0,0,Unknown,Unknown,38.5814,-90.2625,IL
 7044742994,Hilton Head,1579,apartment,1240,2,2,1,1,1,0,0,0,w/d in unit,Unknown,32.2732,-80.9169,SC
 7050984493,Baltimore,2250,townhouse,2100,3,2.5,0,0,1,0,0,0,Unknown,Unknown,39.4269,-76.7769,MD
 7040706903,Space Coast,1290,apartment,1160,3,2,1,1,0,1,0,0,w/d in unit,Unknown,27.9973,-80.6871,FL
@@ -7242,7 +7242,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045807646,Austin,1900,house,2500,3,3,1,0,1,0,0,0,w/d hookups,attached garage,30.7177,-97.7543,TX
 7050690853,Cincinnati,615,apartment,700,1,1,0,0,0,0,1,0,laundry in bldg,attached garage,39.1769,-84.4386,OH
 7049097420,Birmingham,845,apartment,1100,2,2,1,1,1,0,0,0,w/d hookups,Unknown,33.4653,-86.8082,AL
-7048695049,"St Louis, Mo",620,house,1300,2,1,0,0,1,0,0,0,Unknown,Unknown,38.5633,-90.2495,IL
+7048695049,St Louis  Mo,620,house,1300,2,1,0,0,1,0,0,0,Unknown,Unknown,38.5633,-90.2495,IL
 7046799885,Fort Smith,1250,apartment,1350,3,2,0,0,1,0,0,0,w/d hookups,attached garage,35.3859,-94.3985,AR
 7036758884,Boise,1350,apartment,1118,2,2,1,1,0,0,0,0,w/d hookups,carport,43.6271,-116.352,ID
 7045063366,Columbus,1029,apartment,850,1,1,0,0,1,0,0,0,Unknown,Unknown,40.0661,-83.0804,OH
@@ -7287,8 +7287,8 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7037353564,Bismarck,920,apartment,960,2,2,0,0,0,0,0,0,w/d in unit,detached garage,46.8394,-100.784,ND
 7047609784,Eastern Panhandle,1250,apartment,1650,3,2.5,1,1,1,0,0,0,w/d in unit,Unknown,39.4734,-77.946,WV
 7041637165,Skagit / Island / Sji,1190,apartment,546,1,1,1,1,0,1,0,0,w/d in unit,no parking,48.1522,-122.199,WA
-7049712784,"St Louis, Mo",1065,apartment,1114,3,2,1,1,1,0,0,0,laundry on site,off-street parking,38.713,-90.4513,IL
-7049152304,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049712784,St Louis  Mo,1065,apartment,1114,3,2,1,1,1,0,0,0,laundry on site,off-street parking,38.713,-90.4513,IL
+7049152304,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7050837282,Minneapolis / St Paul,975,apartment,671,1,1,1,0,1,0,0,0,laundry in bldg,off-street parking,44.786,-93.2202,MN
 7023932272,Anchorage / Mat-Su,1040,apartment,800,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,61.2234,-149.748,AK
 7036256844,Denver,1480,apartment,823,1,1,1,1,0,0,0,0,w/d in unit,attached garage,39.7143,-104.949,CO
@@ -7302,20 +7302,20 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032648908,Grand Forks,1205,apartment,1479,3,2,1,1,1,0,0,0,Unknown,Unknown,47.8934,-97.077,ND
 7041554798,Santa Barbara,1850,apartment,650,1,1,0,0,1,0,0,0,laundry on site,carport,34.4884,-119.766,CA
 7049687728,Dayton / Springfield,769,apartment,620,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.3402,-84.3998,OH
-7040772035,"Quad Cities, Ia/Il",765,apartment,968,2,1.5,1,1,0,0,0,0,laundry in bldg,off-street parking,41.5613,-90.5494,IL
+7040772035,Quad Cities  Ia/Il,765,apartment,968,2,1.5,1,1,0,0,0,0,laundry in bldg,off-street parking,41.5613,-90.5494,IL
 7041190874,Sarasota-Bradenton,2160,apartment,1385,3,2,1,1,1,0,0,1,w/d in unit,off-street parking,27.3879,-82.5056,FL
 7043854454,Indianapolis,1400,duplex,1400,3,1.5,1,1,0,0,0,0,w/d in unit,street parking,39.7992,-86.1612,IN
 7040158963,Amarillo,615,apartment,364,0,1,1,1,0,1,0,1,laundry on site,Unknown,35.1653,-101.884,TX
 7042571602,Corpus Christi,845,apartment,703,1,1,1,1,0,0,0,0,laundry on site,off-street parking,27.7103,-97.4092,TX
 7051257307,Seattle-Tacoma,1686,apartment,727,1,1,1,1,0,0,0,0,w/d in unit,carport,47.7188,-122.197,WA
 7046843609,Panama City,1349,apartment,1096,2,2,1,1,0,1,0,1,w/d in unit,off-street parking,30.1904,-85.7904,FL
-7048446378,"Washington, Dc",2910,apartment,995,2,2,1,1,0,1,0,0,w/d in unit,attached garage,38.8028,-77.0602,DC
+7048446378,Washington  Dc,2910,apartment,995,2,2,1,1,0,1,0,0,w/d in unit,attached garage,38.8028,-77.0602,DC
 7042663046,Lincoln,1090,apartment,1145,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,40.8282,-96.7876,NE
 7041486938,Frederick,1343,apartment,805,2,1.5,1,1,1,0,0,0,w/d in unit,Unknown,39.4242,-77.4597,MD
 7048377552,Bloomington-Normal,499,apartment,335,0,1,1,1,1,0,0,1,laundry in bldg,detached garage,40.542,-88.9836,IL
 7035223744,Houston,1022,townhouse,996,2,2,1,1,1,0,0,0,laundry in bldg,carport,29.9766,-95.6358,TX
 7031343182,Columbus,635,apartment,770,1,1,0,0,1,0,0,0,Unknown,Unknown,32.4245,-84.9481,GA
-7041018208,"Washington, Dc",1543,apartment,539,0,1,1,1,0,1,0,0,w/d in unit,attached garage,38.9982,-77.0338,DC
+7041018208,Washington  Dc,1543,apartment,539,0,1,1,1,0,1,0,0,w/d in unit,attached garage,38.9982,-77.0338,DC
 7048903527,Madison,800,apartment,900,2,1,0,0,1,0,0,0,laundry in bldg,off-street parking,43.1241,-89.3685,WI
 7049884260,San Antonio,739,apartment,575,1,1,1,1,1,0,0,0,w/d hookups,Unknown,29.5244,-98.5801,TX
 7049269773,Houma,1149,apartment,1491,3,3,1,1,1,0,0,0,w/d in unit,Unknown,29.6252,-90.7623,LA
@@ -7423,7 +7423,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7037006754,Ft Myers / Sw Florida,1525,apartment,1344,4,2,1,1,1,0,0,0,w/d hookups,off-street parking,26.5025,-81.9276,FL
 7044806360,Delaware,1092,apartment,838,2,1,0,0,1,0,0,0,Unknown,Unknown,39.7557,-75.5975,DE
 7036632566,Tallahassee,1070,apartment,825,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,30.5043,-84.246,FL
-7049666060,"Washington, Dc",2390,apartment,1335,3,2,1,1,1,0,0,0,w/d in unit,Unknown,39.0458,-77.4232,DC
+7049666060,Washington  Dc,2390,apartment,1335,3,2,1,1,1,0,0,0,w/d in unit,Unknown,39.0458,-77.4232,DC
 7031329105,Fayetteville,680,apartment,1050,2,2,1,1,1,0,0,0,laundry on site,off-street parking,35.0742,-78.965,NC
 7047350867,Beaumont / Port Arthur,730,apartment,750,1,1,0,0,1,0,0,0,Unknown,Unknown,30.1175,-94.1903,TX
 7031549007,Pensacola,1250,house,1514,4,2,1,1,0,0,0,0,w/d hookups,off-street parking,30.3778,-87.303,FL
@@ -7436,7 +7436,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7038480565,Lubbock,600,apartment,621,1,1,1,1,1,0,0,0,w/d hookups,off-street parking,33.5494,-101.935,TX
 7042138056,Sioux Falls / Se Sd,700,apartment,854,1,1,1,1,0,0,0,0,w/d in unit,detached garage,43.5179,-96.7924,SD
 7042032563,Lakeland,1081,apartment,876,2,2,1,1,1,0,0,0,w/d in unit,Unknown,28.0013,-82.1428,FL
-7036895895,"St Louis, Mo",368,apartment,754,2,1,0,0,0,1,0,0,laundry on site,off-street parking,37.9231,-90.5554,IL
+7036895895,St Louis  Mo,368,apartment,754,2,1,0,0,0,1,0,0,laundry on site,off-street parking,37.9231,-90.5554,IL
 7029213477,Treasure Coast,1345,apartment,1214,3,2,0,0,1,0,0,0,Unknown,Unknown,27.2889,-80.298,FL
 7048397714,Tucson,860,apartment,604,1,1,1,1,1,0,0,0,laundry on site,Unknown,32.2722,-110.944,AZ
 7032326109,Corvallis/Albany,1340,apartment,963,2,2,1,1,0,1,0,0,w/d in unit,off-street parking,44.6094,-123.09,OR
@@ -7452,7 +7452,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7041291328,St Augustine,160,condo,950,1,1,0,0,0,0,0,1,w/d in unit,off-street parking,30.1223,-81.3627,FL
 7019952820,Topeka,725,apartment,1488,2,1.5,0,0,1,0,0,0,Unknown,Unknown,39.0119,-95.7151,KS
 7049860223,South Florida,1453,apartment,764,1,1,1,1,1,0,0,0,w/d in unit,Unknown,26.2674,-80.2092,FL
-7049804455,"Washington, Dc",1335,apartment,700,1,1,1,1,1,0,0,0,laundry in bldg,Unknown,38.9963,-76.9299,DC
+7049804455,Washington  Dc,1335,apartment,700,1,1,1,1,1,0,0,0,laundry in bldg,Unknown,38.9963,-76.9299,DC
 7045479833,Detroit Metro,755,apartment,755,1,1,0,0,1,0,0,0,Unknown,Unknown,42.4665,-83.0593,MI
 7033244884,Southwest Michigan,725,apartment,922,2,1,1,1,1,0,0,0,w/d hookups,Unknown,43.4047,-83.9156,MI
 7045401736,Eastern Ct,1090,apartment,820,2,1,1,1,1,0,0,0,laundry on site,off-street parking,41.3579,-72.1275,CT
@@ -7480,7 +7480,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7035471588,Fayetteville,1269,apartment,923,1,1,1,1,0,1,0,1,w/d in unit,attached garage,36.1151,-94.0489,AR
 7047008859,Spokane / Coeur D'Alene,1250,apartment,1180,3,2,1,1,1,0,0,0,w/d in unit,carport,47.6634,-117.219,ID
 7047981319,Reno / Tahoe,260,apartment,190,1,1,0,0,0,0,0,0,laundry on site,off-street parking,39.5473,-119.756,CA
-7047053112,"Washington, Dc",2550,apartment,1080,1,1,1,1,0,0,0,0,w/d in unit,attached garage,38.8024,-77.0599,DC
+7047053112,Washington  Dc,2550,apartment,1080,1,1,1,1,0,0,0,0,w/d in unit,attached garage,38.8024,-77.0599,DC
 7026974141,Clarksville,980,apartment,987,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,36.5839,-87.3153,TN
 7048435228,Indianapolis,745,apartment,930,2,2,1,1,1,1,0,0,w/d hookups,off-street parking,39.8326,-86.0836,IN
 7040111702,Little Rock,855,townhouse,1350,3,2.5,0,0,1,0,0,0,w/d hookups,off-street parking,34.7757,-92.3724,AR
@@ -7496,7 +7496,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040393446,Southern Illinois,1190,house,1643,3,2.5,1,1,1,0,0,0,Unknown,Unknown,37.8369,-88.9248,IL
 7036001709,Lexington,800,apartment,900,2,1,1,1,1,0,0,0,laundry in bldg,street parking,38.0406,-84.5433,KY
 7048649985,Boulder,2000,apartment,1190,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,39.9709,-105.163,CO
-7050846582,"St Louis, Mo",1449,apartment,1196,3,2,1,1,1,0,0,0,w/d in unit,attached garage,38.7802,-90.6228,IL
+7050846582,St Louis  Mo,1449,apartment,1196,3,2,1,1,1,0,0,0,w/d in unit,attached garage,38.7802,-90.6228,IL
 7043339323,Birmingham,1025,apartment,1548,2,1.5,1,1,1,0,0,0,laundry on site,street parking,33.4226,-86.7065,AL
 7047642716,Spokane / Coeur D'Alene,335,manufactured,980,2,1,1,1,1,0,0,0,w/d hookups,off-street parking,47.9192,-117.292,ID
 7040616138,Macon / Warner Robins,700,apartment,950,3,1,1,1,1,0,0,0,laundry on site,Unknown,33.0686,-83.2636,GA
@@ -7587,7 +7587,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049554956,Western Massachusetts,590,house,850,2,2,1,1,1,0,0,0,Unknown,Unknown,42.4531,-73.2471,MA
 7041819735,Charleston,1279,apartment,1213,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,32.8137,-80.077,SC
 7046162107,Southeast Ia,1500,house,1100,3,2,0,0,1,0,0,0,w/d in unit,attached garage,40.8321,-91.1799,IA
-7049719644,"Washington, Dc",2191,apartment,540,0,1,1,1,1,0,0,0,w/d in unit,attached garage,38.9014,-77.0504,DC
+7049719644,Washington  Dc,2191,apartment,540,0,1,1,1,1,0,0,0,w/d in unit,attached garage,38.9014,-77.0504,DC
 7043849078,Buffalo,910,apartment,675,2,1,1,0,1,0,0,0,laundry in bldg,off-street parking,42.9348,-78.8439,NY
 7034478515,Shreveport,499,apartment,663,1,1,0,0,1,0,0,0,Unknown,Unknown,32.415,-93.8825,LA
 7047807299,Dallas / Fort Worth,2348,apartment,1227,2,2,0,0,1,0,0,0,w/d hookups,Unknown,32.7904,-96.8044,TX
@@ -7604,9 +7604,9 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7014277162,Lubbock,650,apartment,856,1,1,1,1,1,0,0,0,w/d hookups,carport,33.5478,-101.924,TX
 7049965543,Sf Bay Area,3189,apartment,1000,2,2,1,1,0,0,0,0,w/d in unit,carport,37.3415,-121.983,CA
 7039654855,Frederick,1380,apartment,966,2,2,0,0,1,0,0,0,Unknown,Unknown,39.4219,-77.4331,MD
-7047303030,"St Louis, Mo",700,house,1200,3,2,0,0,1,0,0,0,Unknown,Unknown,38.6352,-90.1864,IL
+7047303030,St Louis  Mo,700,house,1200,3,2,0,0,1,0,0,0,Unknown,Unknown,38.6352,-90.1864,IL
 7019340740,Annapolis,1285,townhouse,1700,3,2.5,0,1,1,0,0,0,Unknown,Unknown,38.9898,-76.5501,MD
-7032700179,"St Louis, Mo",605,apartment,750,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.7196,-90.27,IL
+7032700179,St Louis  Mo,605,apartment,750,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.7196,-90.27,IL
 7037901053,Holland,885,apartment,834,2,1.5,1,1,1,0,0,0,laundry in bldg,detached garage,42.7543,-86.1186,MI
 7032214249,Modesto,1190,apartment,625,1,1,0,0,1,0,0,0,laundry on site,carport,37.689,-120.991,CA
 7044472923,Harrisburg,560,house,990,2,1,0,0,1,0,0,0,Unknown,Unknown,40.2618,-76.8831,PA
@@ -7659,7 +7659,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7035450054,Houston,875,apartment,525,0,1,1,1,1,0,0,0,laundry on site,off-street parking,29.7387,-95.3828,TX
 7051099758,Minneapolis / St Paul,1199,apartment,900,2,1,0,0,1,0,0,0,laundry on site,off-street parking,44.9483,-93.3849,MN
 7048750050,Athens,500,apartment,625,1,1,0,0,0,0,0,1,laundry in bldg,attached garage,39.3659,-82.1247,OH
-7040934029,"Quad Cities, Ia/Il",575,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
+7040934029,Quad Cities  Ia/Il,575,apartment,550,1,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
 7040086415,Fort Wayne,824,apartment,960,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,41.4533,-85.2957,IN
 7033002607,Treasure Coast,2100,house,1500,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,27.1929,-80.2164,FL
 7027679191,Bowling Green,1027,apartment,1200,2,2,1,1,1,0,0,0,Unknown,Unknown,36.9745,-86.4199,KY
@@ -7671,7 +7671,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7041530114,Lansing,800,apartment,1100,2,1.5,1,1,1,0,0,0,laundry in bldg,off-street parking,42.7551,-84.4211,MI
 7036466602,Savannah / Hinesville,905,apartment,1132,2,2,1,1,1,0,0,0,w/d hookups,detached garage,32.1149,-81.252,GA
 7027734071,Okaloosa / Walton,1425,apartment,1129,2,2,1,1,1,0,0,0,w/d hookups,Unknown,30.3659,-86.2458,FL
-7046953241,"Kansas City, Mo",825,apartment,637,1,1,0,0,1,0,0,0,Unknown,Unknown,39.0905,-94.5645,KS
+7046953241,Kansas City  Mo,825,apartment,637,1,1,0,0,1,0,0,0,Unknown,Unknown,39.0905,-94.5645,KS
 7049057708,Jacksonville,1100,apartment,1210,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,30.2185,-81.5519,FL
 7047125122,Fort Collins / North Co,1604,apartment,1096,2,2,0,0,1,0,0,0,Unknown,Unknown,40.4062,-105.03,CO
 7028271004,Fayetteville,1059,apartment,1488,3,3,1,1,1,0,0,0,w/d in unit,off-street parking,35.0829,-79.0094,NC
@@ -7680,7 +7680,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045708478,Raleigh / Durham / Ch,795,apartment,1200,2,1.5,1,1,1,0,0,0,w/d hookups,off-street parking,36.0318,-79.4889,NC
 7037220017,Frederick,1425,apartment,800,1,1,1,1,1,0,0,0,Unknown,Unknown,39.3647,-77.4636,MD
 7050032188,Louisville,1000,house,1025,3,1,0,1,0,0,0,0,w/d hookups,carport,38.3273,-85.4387,KY
-7049247249,"Kansas City, Mo",1895,apartment,1501,2,2,1,1,0,1,0,0,w/d in unit,street parking,39.0837,-94.5868,KS
+7049247249,Kansas City  Mo,1895,apartment,1501,2,2,1,1,0,1,0,0,w/d in unit,street parking,39.0837,-94.5868,KS
 7028050640,Wyoming,825,loft,900,2,1,0,0,0,0,0,0,Unknown,street parking,41.1437,-104.796,WY
 7037871589,Reading,1715,apartment,1270,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,40.3016,-75.8799,PA
 7038384470,Buffalo,862,apartment,825,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,43.0145,-78.8482,NY
@@ -7844,7 +7844,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7048724105,Portland,1475,apartment,1000,2,2,1,1,0,0,0,0,w/d in unit,Unknown,45.4403,-122.779,OR
 7046040717,Fort Collins / North Co,1939,apartment,1357,3,2.5,1,1,0,1,0,0,w/d in unit,detached garage,40.3793,-105.067,CO
 7050848454,Norfolk / Hampton Roads,791,apartment,850,2,1,0,0,1,0,0,0,Unknown,Unknown,36.8362,-76.344,VA
-7051059137,"Quad Cities, Ia/Il",1300,house,1566,4,2,1,1,1,0,0,0,Unknown,detached garage,41.4906,-90.498,IL
+7051059137,Quad Cities  Ia/Il,1300,house,1566,4,2,1,1,1,0,0,0,Unknown,detached garage,41.4906,-90.498,IL
 7050935972,College Station,1250,house,1309,3,2.5,1,1,0,0,0,0,w/d in unit,attached garage,30.6913,-96.3714,TX
 7039509128,Madison,1125,apartment,600,1,1,1,1,0,0,0,0,laundry in bldg,street parking,43.0769,-89.3814,WI
 7030800366,Eastern Nc,1135,apartment,1340,2,2,1,1,0,0,0,0,w/d in unit,Unknown,35.5742,-77.3559,NC
@@ -7929,17 +7929,17 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043360729,Greenville / Upstate,910,apartment,685,1,1,1,1,1,0,0,0,w/d hookups,Unknown,34.8366,-82.3204,SC
 7040841634,Rochester,1195,apartment,760,1,1,1,1,1,0,0,0,w/d in unit,attached garage,44.0224,-92.5078,MN
 7048598486,Indianapolis,669,apartment,1000,2,1.5,1,1,1,0,0,0,no laundry on site,street parking,39.8471,-85.9741,IN
-7037144344,"St Louis, Mo",1020,apartment,1200,1,2,1,1,1,1,0,0,w/d in unit,attached garage,38.6326,-90.2022,IL
+7037144344,St Louis  Mo,1020,apartment,1200,1,2,1,1,1,1,0,0,w/d in unit,attached garage,38.6326,-90.2022,IL
 7046798654,Rhode Island,1254,apartment,856,2,1,1,1,1,0,0,0,Unknown,Unknown,41.7877,-71.3569,RI
 7042103902,Little Rock,834,apartment,681,1,1,1,1,1,1,0,0,w/d in unit,off-street parking,34.7902,-92.5044,AR
 7044478692,Baltimore,1295,apartment,790,1,1,1,1,1,0,0,0,w/d in unit,attached garage,39.2898,-76.6124,MD
-7048658862,"Kansas City, Mo",860,apartment,740,1,1,1,1,0,0,0,0,w/d hookups,carport,38.9928,-94.6771,KS
-7032228938,"St Louis, Mo",910,apartment,820,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.6366,-90.2286,IL
+7048658862,Kansas City  Mo,860,apartment,740,1,1,1,1,0,0,0,0,w/d hookups,carport,38.9928,-94.6771,KS
+7032228938,St Louis  Mo,910,apartment,820,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.6366,-90.2286,IL
 7045860371,Killeen / Temple / Ft Hood,1250,apartment,1425,4,4,1,1,1,0,0,0,Unknown,no parking,31.1107,-97.7794,TX
 7021106684,Albany,1800,apartment,1350,4,1,0,0,0,0,1,1,no laundry on site,off-street parking,42.7003,-73.8575,NY
 7024901984,Myrtle Beach,2100,house,2665,4,2,1,1,0,0,0,0,w/d in unit,attached garage,33.7377,-78.9787,SC
 7030188770,Lincoln,800,duplex,1800,2,1.5,0,0,0,0,0,0,w/d hookups,detached garage,40.8413,-96.6424,NE
-7050961643,"St Louis, Mo",595,apartment,550,1,1,1,1,1,1,0,0,laundry in bldg,street parking,38.6535,-90.2782,IL
+7050961643,St Louis  Mo,595,apartment,550,1,1,1,1,1,1,0,0,laundry in bldg,street parking,38.6535,-90.2782,IL
 7040908510,Delaware,1265,apartment,599,1,1,0,0,1,0,0,0,Unknown,Unknown,39.7449,-75.5491,DE
 7030766634,St Cloud,1554,apartment,1281,3,2,1,1,1,0,0,0,Unknown,Unknown,45.2889,-93.7613,MN
 7038325142,Lincoln,1199,apartment,1123,2,2,0,0,1,0,0,0,Unknown,Unknown,40.7568,-96.6523,NE
@@ -7962,7 +7962,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7009702472,Western Slope,1800,house,2700,6,2,1,1,1,0,0,0,w/d in unit,off-street parking,37.4449,-107.852,CO
 7051139942,Columbus,1395,apartment,684,1,1,0,0,1,0,0,0,w/d in unit,attached garage,39.9825,-83.0046,OH
 7047650910,Reno / Tahoe,1102,apartment,680,1,1,1,1,1,0,0,0,w/d in unit,carport,39.4824,-119.791,CA
-7050842520,"St Louis, Mo",665,apartment,968,2,1,1,0,1,0,0,0,laundry in bldg,off-street parking,38.7196,-90.27,IL
+7050842520,St Louis  Mo,665,apartment,968,2,1,1,0,1,0,0,0,laundry in bldg,off-street parking,38.7196,-90.27,IL
 7040021892,Rapid City / West Sd,900,apartment,1000,2,1,0,0,0,0,0,0,w/d hookups,off-street parking,44.0929,-103.235,SD
 7036787269,Abilene,885,apartment,912,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,32.4001,-99.7691,TX
 7022567287,Eastern Nc,1045,townhouse,1540,3,2.5,1,1,1,0,0,0,w/d hookups,carport,36.2791,-76.2163,NC
@@ -8007,7 +8007,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049716820,Lexington,729,apartment,600,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.026,-84.5429,KY
 7047477047,Colorado Springs,950,apartment,725,1,1,0,0,0,0,0,0,laundry on site,attached garage,39.1117,-104.844,CO
 7050734979,Baltimore,1650,house,1600,3,3,0,0,1,0,0,0,w/d in unit,off-street parking,39.2645,-76.6224,MD
-7049802492,"Washington, Dc",2183,apartment,696,1,1,1,1,0,1,0,0,w/d in unit,attached garage,38.9277,-76.9762,DC
+7049802492,Washington  Dc,2183,apartment,696,1,1,1,1,0,1,0,0,w/d in unit,attached garage,38.9277,-76.9762,DC
 7049259960,Madison,810,apartment,550,1,1,1,0,1,0,0,0,laundry in bldg,off-street parking,43.0333,-89.4955,WI
 7020537158,Mobile,500,house,755,3,3,0,0,1,0,0,0,Unknown,Unknown,30.6944,-88.0431,AL
 7049120865,Fresno / Madera,715,apartment,500,2,2,1,1,1,1,0,0,w/d in unit,carport,36.7976,-119.808,CA
@@ -8111,7 +8111,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050931135,Houston,916,apartment,810,1,1,1,1,0,0,0,0,w/d hookups,Unknown,29.681,-95.1279,TX
 7035178466,Delaware,1265,apartment,599,1,1,0,0,1,0,0,0,Unknown,Unknown,39.7449,-75.5491,DE
 7041550021,Fort Collins / North Co,1330,apartment,870,2,1,1,1,0,0,0,0,w/d in unit,Unknown,40.5525,-105.068,CO
-7049945418,"Washington, Dc",1833,apartment,653,1,1,1,1,1,0,0,0,w/d in unit,Unknown,38.9231,-76.9944,DC
+7049945418,Washington  Dc,1833,apartment,653,1,1,1,1,1,0,0,0,w/d in unit,Unknown,38.9231,-76.9944,DC
 7050801693,Nashville,1787,apartment,1518,3,2,1,1,0,0,0,0,w/d hookups,off-street parking,36.3417,-86.7212,TN
 7047535903,Raleigh / Durham / Ch,1114,apartment,765,1,1,1,1,0,0,0,0,w/d in unit,detached garage,35.963,-78.9768,NC
 7051078121,Houston,1229,apartment,927,2,2,0,0,1,0,0,0,Unknown,Unknown,29.6852,-95.4017,TX
@@ -8143,7 +8143,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032710849,Columbia,985,apartment,1035,2,2,0,0,1,0,0,0,Unknown,Unknown,33.9764,-81.2256,SC
 7036121641,Augusta,761,apartment,605,1,1,1,1,0,0,0,0,laundry on site,Unknown,33.4547,-82.1982,GA
 7050799641,Champaign Urbana,1050,apartment,543,1,1,0,0,0,0,0,1,w/d in unit,off-street parking,40.111,-88.2407,IL
-7037364157,"St Louis, Mo",790,apartment,425,0,1,1,0,1,0,0,0,laundry in bldg,attached garage,38.64,-90.3336,IL
+7037364157,St Louis  Mo,790,apartment,425,0,1,1,0,1,0,0,0,laundry in bldg,attached garage,38.64,-90.3336,IL
 7033381751,Grand Rapids,891,apartment,1045,2,2,1,1,1,0,0,0,w/d in unit,detached garage,43.0407,-86.2125,MI
 7040870006,Lafayette,750,condo,1313,2,2.5,1,1,0,0,0,0,w/d hookups,off-street parking,30.2224,-91.99,LA
 7049396720,Boulder,2200,condo,940,2,2,0,0,0,0,0,0,w/d hookups,off-street parking,40.0141,-105.238,CO
@@ -8197,7 +8197,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7051183217,Austin,1868,apartment,879,1,1,1,1,1,0,0,0,w/d in unit,Unknown,30.2893,-97.715,TX
 7046477120,Topeka,1140,apartment,1161,3,3,0,1,1,0,0,0,w/d in unit,off-street parking,39.0405,-95.7178,KS
 7047440145,Kennewick-Pasco-Richland,1425,apartment,1289,3,2,1,1,0,0,0,0,w/d in unit,off-street parking,46.0614,-118.331,WA
-7040928823,"Quad Cities, Ia/Il",850,house,708,2,1,1,1,1,0,0,0,Unknown,attached garage,41.5118,-90.4321,IL
+7040928823,Quad Cities  Ia/Il,850,house,708,2,1,1,1,1,0,0,0,Unknown,attached garage,41.5118,-90.4321,IL
 7046850594,Greensboro,1080,apartment,1218,2,2,0,0,1,0,0,0,Unknown,Unknown,36.0601,-79.9538,NC
 7035785925,San Marcos,1099,apartment,965,2,2,1,1,1,0,0,0,w/d hookups,detached garage,29.7229,-98.0742,TX
 7050407273,Greensboro,1325,apartment,1500,3,2.5,0,0,1,0,0,0,Unknown,Unknown,36.1401,-79.9274,NC
@@ -8207,7 +8207,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7027433937,Pensacola,1575,house,1783,4,2,1,1,0,0,0,0,w/d hookups,attached garage,30.4426,-87.3221,FL
 7038426961,Killeen / Temple / Ft Hood,823,apartment,679,1,1,1,1,1,0,0,0,w/d hookups,no parking,31.071,-97.3898,TX
 7051068904,Greenville / Upstate,795,duplex,900,2,1,0,0,0,0,0,0,w/d hookups,off-street parking,34.8792,-82.4443,SC
-7050834593,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7050834593,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7047413344,Colorado Springs,1315,apartment,900,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,38.8217,-104.752,CO
 7012099561,New River Valley,640,house,895,3,3,1,1,1,0,0,0,Unknown,Unknown,37.2563,-80.4347,VA
 7033049279,Myrtle Beach,1000,apartment,1100,2,2,1,1,0,0,0,0,w/d hookups,off-street parking,33.6994,-78.9137,SC
@@ -8312,7 +8312,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7040426210,Madison,847,apartment,620,1,1,1,0,0,0,0,0,w/d in unit,off-street parking,43.0347,-89.4259,WI
 7041466012,Seattle-Tacoma,1535,apartment,334,0,1,0,0,1,0,0,0,Unknown,Unknown,47.636,-122.324,WA
 7049794048,South Florida,2500,condo,750,1,1,1,1,0,0,0,1,w/d in unit,attached garage,25.7707,-80.1389,FL
-7049869214,"Washington, Dc",1595,apartment,797,1,1,0,0,1,0,0,0,Unknown,Unknown,39.0618,-77.1326,DC
+7049869214,Washington  Dc,1595,apartment,797,1,1,0,0,1,0,0,0,Unknown,Unknown,39.0618,-77.1326,DC
 7037711120,Albany,1405,apartment,1092,2,1,1,1,0,0,0,0,w/d hookups,off-street parking,42.7375,-73.6908,NY
 7043371509,Salem,995,apartment,832,2,1,1,1,1,0,0,0,Unknown,Unknown,44.9961,-122.912,OR
 7043689014,Salem,1320,apartment,1029,2,2,1,1,0,0,0,0,w/d in unit,street parking,44.871,-123.017,OR
@@ -8359,7 +8359,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050782271,Central Nj,2143,apartment,695,1,1,1,1,1,1,0,0,w/d in unit,attached garage,40.8094,-74.1245,NJ
 7046664930,Montgomery,800,house,788,3,2,1,1,1,0,0,1,Unknown,Unknown,32.3804,-86.2799,AL
 7047626078,Eastern Co,1400,house,1274,4,2,0,1,0,0,0,0,w/d hookups,detached garage,40.2707,-103.834,CO
-7048681363,"Kansas City, Mo",755,apartment,629,1,1,1,1,1,0,0,0,laundry on site,off-street parking,39.027,-94.3003,KS
+7048681363,Kansas City  Mo,755,apartment,629,1,1,1,1,1,0,0,0,laundry on site,off-street parking,39.027,-94.3003,KS
 7044676834,Evansville,759,apartment,720,1,1,1,1,1,0,0,1,laundry on site,Unknown,37.9744,-87.4742,IN
 7032806491,San Marcos,1085,apartment,700,1,1,0,0,1,0,0,0,Unknown,Unknown,30.1204,-97.7433,TX
 7047473937,Oklahoma City,695,apartment,900,2,1.5,1,1,1,0,0,0,no laundry on site,off-street parking,35.4205,-97.4551,OK
@@ -8437,7 +8437,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7047048808,College Station,1315,apartment,1007,2,2,1,1,1,0,0,0,w/d in unit,Unknown,30.638,-96.294,TX
 7043890591,Kenosha-Racine,725,apartment,465,1,1,1,0,1,0,0,0,laundry in bldg,off-street parking,42.7142,-87.8049,WI
 7049691172,Denver,899,apartment,650,1,1,1,1,1,0,0,0,laundry on site,off-street parking,39.7378,-104.815,CO
-7049856174,"Kansas City, Mo",600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
+7049856174,Kansas City  Mo,600,apartment,480,0,1,1,1,1,0,0,0,laundry on site,off-street parking,39.2133,-94.5743,KS
 7048509821,Treasure Coast,1720,house,2093,4,2,0,0,1,0,0,0,Unknown,attached garage,27.2906,-80.4131,FL
 7041492123,South Jersey,1480,apartment,967,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,39.3741,-74.6118,NJ
 7046479161,Wichita,425,apartment,450,0,1,0,0,1,0,0,0,Unknown,Unknown,37.7048,-97.3638,KS
@@ -8682,12 +8682,12 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032260695,Worcester / Central Ma,2619,apartment,1067,2,2,1,1,0,1,0,0,w/d in unit,detached garage,42.4321,-71.455,MA
 7050641986,Central Nj,2500,house,1365,3,2,0,0,0,0,0,0,w/d in unit,detached garage,40.1773,-74.0345,NJ
 7038820349,Champaign Urbana,675,apartment,1000,2,1,0,0,0,0,0,0,w/d in unit,street parking,39.9667,-88.3443,IL
-7048723037,"Kansas City, Mo",739,apartment,701,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9928,-94.6771,KS
+7048723037,Kansas City  Mo,739,apartment,701,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9928,-94.6771,KS
 7048310295,Brownsville,1275,apartment,1240,2,2,0,0,1,0,0,0,w/d in unit,no parking,25.9504,-97.3217,TX
 7029701611,Gainesville,1394,apartment,1076,2,2,1,1,1,0,0,0,w/d in unit,carport,29.6954,-82.4023,FL
 7044747697,Buffalo,1325,apartment,1150,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,42.9164,-78.8763,NY
 7027747549,San Luis Obispo,1500,manufactured,400,1,1,0,0,1,0,0,0,w/d hookups,detached garage,35.2901,-120.682,CA
-7049873224,"St Louis, Mo",944,apartment,1020,2,2,1,1,1,0,0,0,laundry on site,off-street parking,38.671,-90.4557,IL
+7049873224,St Louis  Mo,944,apartment,1020,2,2,1,1,1,0,0,0,laundry on site,off-street parking,38.671,-90.4557,IL
 7028945162,Western Massachusetts,1550,apartment,880,2,1,1,1,1,0,0,0,w/d in unit,Unknown,42.099,-72.7634,MA
 7047379544,Houston,881,apartment,866,2,2,0,0,1,0,0,0,Unknown,Unknown,29.9336,-95.5772,TX
 7049690725,Nashville,1275,apartment,773,1,1,1,1,0,1,0,0,w/d in unit,Unknown,35.9796,-86.9106,TN
@@ -8738,7 +8738,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7041782221,Raleigh / Durham / Ch,815,apartment,600,1,1,0,0,1,0,0,0,Unknown,Unknown,35.7113,-78.6343,NC
 7044491155,Delaware,1340,apartment,800,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,39.7011,-75.7375,DE
 7051113390,Seattle-Tacoma,1620,apartment,950,2,2,1,1,0,0,0,0,laundry on site,Unknown,47.4376,-122.216,WA
-7037885502,"Quad Cities, Ia/Il",655,apartment,486,1,1,1,1,1,0,0,0,laundry on site,attached garage,41.5757,-90.536,IL
+7037885502,Quad Cities  Ia/Il,655,apartment,486,1,1,1,1,1,0,0,0,laundry on site,attached garage,41.5757,-90.536,IL
 7050464939,Topeka,530,apartment,566,1,1,1,1,1,0,0,0,laundry on site,off-street parking,39.0405,-95.7178,KS
 7024278287,Saginaw-Midland-Baycity,855,apartment,937,2,1,1,1,1,0,0,0,laundry in bldg,carport,43.6451,-84.2877,MI
 7033981486,Jersey Shore,1800,apartment,748,1,1,1,1,0,1,0,0,w/d in unit,street parking,40.2507,-74.0486,NJ
@@ -8770,9 +8770,9 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7037026144,Lansing,915,townhouse,1233,2,1.5,1,1,1,0,0,0,w/d hookups,Unknown,42.6592,-84.5371,MI
 7045086683,Grand Rapids,840,apartment,650,1,1,1,1,0,0,0,0,laundry in bldg,off-street parking,42.9176,-85.5756,MI
 7046811559,Tucson,475,duplex,60,0,1,0,0,1,0,0,0,laundry on site,off-street parking,32.25,-110.887,AZ
-7043605404,"Washington, Dc",1325,apartment,1042,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.8425,-76.9222,DC
+7043605404,Washington  Dc,1325,apartment,1042,2,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.8425,-76.9222,DC
 7033475284,College Station,589,apartment,480,0,1,1,1,1,0,0,0,Unknown,Unknown,30.619,-96.3185,TX
-7037067441,"Quad Cities, Ia/Il",565,apartment,450,0,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
+7037067441,Quad Cities  Ia/Il,565,apartment,450,0,1,0,0,1,0,0,0,Unknown,Unknown,41.5745,-90.5809,IL
 7048423112,Minneapolis / St Paul,1565,apartment,1100,2,2,1,1,1,0,0,0,w/d in unit,attached garage,44.884,-93.4152,MN
 7042869735,Lehigh Valley,1500,apartment,870,1,1,0,0,0,0,0,0,w/d in unit,off-street parking,40.689,-75.1554,PA
 7048953580,Kenosha-Racine,916,apartment,925,2,1,0,0,0,0,0,0,laundry in bldg,attached garage,42.5608,-87.9222,WI
@@ -8783,7 +8783,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7045691879,Lakeland,775,apartment,800,2,1,0,0,1,0,0,0,w/d hookups,Unknown,28.0446,-81.9966,FL
 7045848591,Memphis,789,apartment,1018,2,2,1,1,1,1,0,0,Unknown,Unknown,34.8093,-90.3052,TN
 7050794775,San Antonio,877,apartment,837,2,0,1,1,1,0,0,0,laundry on site,Unknown,29.3309,-98.5054,TX
-7050827680,"St Louis, Mo",725,house,808,2,1,1,1,0,0,0,0,w/d hookups,off-street parking,38.5943,-90.2309,IL
+7050827680,St Louis  Mo,725,house,808,2,1,1,1,0,0,0,0,w/d hookups,off-street parking,38.5943,-90.2309,IL
 7049165909,Grand Forks,795,apartment,1090,3,1,1,1,1,0,0,0,laundry in bldg,off-street parking,47.8982,-97.0774,ND
 7018892376,Waco,725,apartment,711,1,1,1,1,0,0,0,0,laundry on site,Unknown,31.5292,-97.191,TX
 7041379072,Grand Rapids,1220,apartment,975,2,1,1,1,0,0,0,0,laundry in bldg,carport,42.9246,-85.5713,MI
@@ -8826,7 +8826,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7051180887,Austin,1125,apartment,630,1,1,1,1,0,0,0,0,laundry on site,off-street parking,30.2312,-97.7781,TX
 7025241468,Odessa / Midland,2445,apartment,1069,2,2,1,1,1,0,0,0,w/d in unit,no parking,32.0277,-102.158,TX
 7033714780,South Coast,1351,apartment,750,1,1,1,1,1,0,0,0,laundry on site,Unknown,41.7338,-71.1274,MA
-7035081091,"Washington, Dc",1820,apartment,986,2,1.5,0,0,1,0,0,0,Unknown,Unknown,38.9223,-76.8755,DC
+7035081091,Washington  Dc,1820,apartment,986,2,1.5,0,0,1,0,0,0,Unknown,Unknown,38.9223,-76.8755,DC
 7045067525,Cleveland,1060,apartment,1042,2,2,1,0,1,0,0,0,laundry in bldg,carport,41.5201,-81.4331,OH
 7049393001,Provo / Orem,1249,apartment,1057,2,2,1,1,0,0,0,0,w/d in unit,carport,40.2972,-111.721,UT
 7043482441,Eugene,1327,apartment,1060,2,2,1,1,0,0,0,0,w/d in unit,carport,44.0823,-123.111,OR
@@ -8859,7 +8859,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031674338,Rockford,850,apartment,750,2,1,0,0,1,0,0,0,laundry on site,Unknown,42.2468,-88.6181,IL
 7048127234,New Hampshire,1600,duplex,1200,3,1.5,0,0,1,0,0,0,w/d in unit,off-street parking,42.7663,-71.4634,NH
 7039360438,Little Rock,699,apartment,1150,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,34.7363,-92.2741,AR
-7045188889,"St Louis, Mo",1010,apartment,966,2,1.5,0,0,1,0,0,0,Unknown,Unknown,38.6442,-90.2082,IL
+7045188889,St Louis  Mo,1010,apartment,966,2,1.5,0,0,1,0,0,0,Unknown,Unknown,38.6442,-90.2082,IL
 7045314340,Raleigh / Durham / Ch,1175,apartment,1063,2,2,0,0,1,0,0,0,Unknown,Unknown,35.8812,-78.6957,NC
 7042108348,Atlanta,1200,apartment,1205,2,2,0,0,1,0,0,0,Unknown,Unknown,33.8879,-84.2905,GA
 7030742031,Lakeland,995,apartment,750,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,27.981,-81.6736,FL
@@ -8878,7 +8878,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7035987161,Gulfport / Biloxi,490,apartment,800,2,1,0,0,1,0,0,0,laundry on site,Unknown,30.4911,-89.112,MS
 7026354587,Bowling Green,779,apartment,900,2,1,1,1,1,0,0,0,laundry on site,off-street parking,36.9916,-86.423,KY
 7033138427,Monterey Bay,2025,apartment,625,1,1,1,1,1,0,0,0,laundry on site,carport,36.594,-121.849,CA
-7046956070,"St Louis, Mo",600,apartment,800,3,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.7544,-90.2469,IL
+7046956070,St Louis  Mo,600,apartment,800,3,1,1,1,1,0,0,0,w/d hookups,off-street parking,38.7544,-90.2469,IL
 7032311917,Treasure Coast,1109,apartment,897,1,1,1,1,1,0,0,0,w/d hookups,Unknown,27.2889,-80.298,FL
 7035951428,Oklahoma City,525,apartment,650,1,1,1,1,1,0,0,0,laundry on site,off-street parking,35.433,-97.4307,OK
 7048506372,Lawrence,1195,house,1252,3,2,1,1,0,0,0,0,w/d hookups,attached garage,38.9344,-95.2542,KS
@@ -8888,7 +8888,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031352364,Rochester,1345,apartment,760,1,1,1,1,1,0,0,0,w/d in unit,attached garage,44.0224,-92.5078,MN
 7050886879,Charleston,1780,apartment,675,1,1,1,1,0,1,0,0,w/d in unit,off-street parking,32.8473,-79.8206,SC
 7048733179,Hawaii,1595,apartment,550,2,1,1,1,0,0,0,0,laundry on site,off-street parking,21.2902,-157.821,HI
-7049915715,"Washington, Dc",1554,apartment,992,2,1,0,0,1,0,0,0,laundry on site,off-street parking,38.9421,-76.9261,DC
+7049915715,Washington  Dc,1554,apartment,992,2,1,0,0,1,0,0,0,laundry on site,off-street parking,38.9421,-76.9261,DC
 7049501063,San Diego,1395,apartment,300,0,1,1,0,0,0,0,0,laundry on site,off-street parking,32.7348,-117.17,CA
 7037285810,Birmingham,1390,apartment,1120,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,33.463,-86.7799,AL
 7049461572,Phoenix,950,apartment,950,2,2,0,0,0,0,0,0,w/d in unit,off-street parking,33.4484,-112.074,AZ
@@ -8915,7 +8915,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7050413312,Akron / Canton,893,apartment,972,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,41.1379,-81.5409,OH
 7039730793,Stillwater,640,apartment,900,2,1,1,1,1,0,0,0,laundry on site,off-street parking,36.1014,-97.1064,OK
 7035073321,Akron / Canton,700,manufactured,900,3,1,0,0,1,0,0,0,w/d hookups,off-street parking,41.2219,-81.1486,OH
-7045948483,"St Louis, Mo",1400,apartment,845,1,1,1,1,1,1,0,0,w/d in unit,attached garage,38.6185,-90.2564,IL
+7045948483,St Louis  Mo,1400,apartment,845,1,1,1,1,1,1,0,0,w/d in unit,attached garage,38.6185,-90.2564,IL
 7048537940,Knoxville,824,apartment,700,1,1,1,1,1,0,0,0,laundry on site,off-street parking,35.9211,-84.0312,TN
 7037278375,St Cloud,1055,apartment,803,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,45.6318,-94.2136,MN
 7041841897,New Haven,1200,apartment,1100,2,1,1,0,0,0,0,0,w/d hookups,off-street parking,41.322,-72.9535,CT
@@ -9002,7 +9002,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031347411,Wilmington,1169,apartment,934,2,2,1,1,1,0,0,0,w/d in unit,no parking,34.1572,-77.9141,NC
 7051107595,Richmond,1463,apartment,1153,2,2,1,1,0,0,0,0,w/d in unit,off-street parking,37.6861,-77.5361,VA
 7033387944,North Dakota,510,apartment,300,1,1,0,0,1,0,0,1,laundry in bldg,off-street parking,48.2602,-101.297,ND
-7049792895,"St Louis, Mo",1430,apartment,1055,2,2,1,1,1,0,0,0,w/d in unit,carport,38.6577,-90.5531,IL
+7049792895,St Louis  Mo,1430,apartment,1055,2,2,1,1,1,0,0,0,w/d in unit,carport,38.6577,-90.5531,IL
 7023230133,Lima / Findlay,1200,cottage/cabin,1000,2,1,0,0,1,0,0,1,w/d in unit,off-street parking,40.5166,-83.8719,OH
 7031425154,Kennewick-Pasco-Richland,1368,apartment,1225,3,2,1,1,1,0,0,0,w/d in unit,off-street parking,46.2724,-119.224,WA
 7033649338,Madison,1625,apartment,1460,2,1,0,0,1,0,0,0,laundry on site,detached garage,43.0722,-89.4199,WI
@@ -9027,7 +9027,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049072754,Charlotte,1479,apartment,852,1,1,1,1,0,0,0,0,w/d in unit,attached garage,35.229,-80.8419,NC
 7039401917,Greensboro,819,apartment,811,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,36.051,-79.8647,NC
 7050768397,Minneapolis / St Paul,1359,apartment,750,1,1,0,1,0,1,0,0,laundry in bldg,attached garage,44.9512,-93.0902,MN
-7048635306,"St Louis, Mo",985,apartment,841,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.8008,-90.6587,IL
+7048635306,St Louis  Mo,985,apartment,841,1,1,1,1,1,0,0,0,w/d in unit,off-street parking,38.8008,-90.6587,IL
 7048502189,Abilene,799,apartment,912,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,32.4001,-99.7691,TX
 7035416474,Wichita Falls,675,apartment,650,1,1,1,1,0,0,0,0,laundry on site,off-street parking,33.9519,-98.5145,TX
 7045735561,Norfolk / Hampton Roads,1166,apartment,900,1,1,0,0,1,0,0,0,Unknown,Unknown,36.8376,-76.1201,VA
@@ -9042,7 +9042,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049144168,Cincinnati,970,townhouse,1120,2,1.5,1,1,1,0,0,0,w/d hookups,off-street parking,39.3385,-84.5371,OH
 7030681230,Gainesville,870,apartment,580,1,1,1,1,1,0,0,0,laundry on site,off-street parking,29.6503,-82.3569,FL
 7046725058,Pittsburgh,1075,apartment,640,1,1,1,1,0,1,0,0,laundry in bldg,off-street parking,40.3323,-80.081,PA
-7042382058,"Washington, Dc",1400,apartment,768,1,1,1,1,1,1,0,0,Unknown,Unknown,39.1419,-77.189,DC
+7042382058,Washington  Dc,1400,apartment,768,1,1,1,1,1,1,0,0,Unknown,Unknown,39.1419,-77.189,DC
 7032725013,Huntsville / Decatur,700,house,1160,3,1,1,1,1,0,0,0,w/d hookups,off-street parking,34.7389,-86.6249,AL
 7046418484,Birmingham,965,apartment,1350,2,2,1,1,1,0,0,0,laundry on site,street parking,33.4226,-86.7065,AL
 7042559708,Corvallis/Albany,1400,duplex,1051,3,1,1,1,0,0,0,0,w/d hookups,attached garage,44.626,-123.057,OR
@@ -9058,7 +9058,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7042965761,Rhode Island,1700,apartment,780,2,1,1,1,1,0,0,0,w/d in unit,street parking,41.5227,-71.3003,RI
 7027097526,Hilton Head,926,apartment,960,2,2,1,1,1,0,0,0,w/d hookups,off-street parking,32.4316,-80.6698,SC
 7038907977,Annapolis,1875,apartment,834,1,1,0,0,1,0,0,0,Unknown,Unknown,38.9799,-76.5235,MD
-7049627432,"Washington, Dc",1575,apartment,690,1,1,1,1,0,1,0,0,w/d in unit,attached garage,39.1419,-77.189,DC
+7049627432,Washington  Dc,1575,apartment,690,1,1,1,1,0,1,0,0,w/d in unit,attached garage,39.1419,-77.189,DC
 7041945117,Kennewick-Pasco-Richland,1192,apartment,954,2,2,1,1,0,0,0,0,w/d in unit,attached garage,46.3257,-119.307,WA
 7047319086,Rochester,1545,apartment,1247,3,2,1,1,1,0,0,0,w/d in unit,attached garage,44.0224,-92.5078,MN
 7039036807,Lincoln,1085,apartment,1596,3,2,1,1,0,0,0,0,w/d hookups,off-street parking,40.8177,-96.7424,NE
@@ -9093,7 +9093,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049410447,Sacramento,1450,apartment,986,2,2,0,0,1,0,0,0,w/d in unit,carport,38.6148,-121.272,CA
 7012795858,Brownsville,1265,house,1331,4,1.5,1,1,1,0,0,0,Unknown,Unknown,26.203,-97.5443,TX
 7050584557,Yakima,1200,duplex,1173,2,2,0,0,0,0,0,0,w/d in unit,attached garage,46.5989,-120.627,WA
-7048218259,"Washington, Dc",2500,townhouse,900,2,1,1,1,0,0,0,0,w/d in unit,street parking,38.9013,-76.9995,DC
+7048218259,Washington  Dc,2500,townhouse,900,2,1,1,1,0,0,0,0,w/d in unit,street parking,38.9013,-76.9995,DC
 7048402262,Seattle-Tacoma,1609,house,1843,4,2.5,1,1,1,0,0,0,w/d hookups,attached garage,47.8589,-121.737,WA
 7047429727,Eugene,999,apartment,409,2,2,0,0,1,0,0,0,Unknown,Unknown,44.0452,-123.084,OR
 7032989857,Gulfport / Biloxi,799,house,1177,3,2,0,0,1,0,0,0,Unknown,Unknown,30.3781,-89.0888,MS
@@ -9110,7 +9110,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7043449401,Columbia,1141,apartment,1154,2,2,1,1,1,0,0,0,Unknown,Unknown,34.0726,-81.1796,SC
 7040650953,Richmond,1199,townhouse,949,2,1.5,1,1,1,0,0,0,w/d hookups,off-street parking,37.5952,-77.6078,VA
 7033693488,Hattiesburg,1081,apartment,1200,3,0,1,1,1,0,0,0,Unknown,Unknown,31.3098,-89.3775,MS
-7050216557,"St Louis, Mo",1475,apartment,950,2,1,1,1,0,0,0,1,laundry in bldg,street parking,38.6185,-90.2564,IL
+7050216557,St Louis  Mo,1475,apartment,950,2,1,1,1,0,0,0,1,laundry in bldg,street parking,38.6185,-90.2564,IL
 7043891232,Wichita Falls,690,apartment,540,1,1,0,0,1,0,0,0,laundry on site,Unknown,33.8561,-98.5642,TX
 7040265518,Charlottesville,1529,apartment,1002,3,1.5,0,0,1,0,0,0,Unknown,Unknown,38.0728,-78.4929,VA
 7049959598,Los Angeles,1645,apartment,687,1,1,0,0,1,0,0,0,Unknown,Unknown,34.2174,-118.536,CA
@@ -9148,7 +9148,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7042439516,South Florida,1595,apartment,1000,2,2,1,1,1,0,0,0,w/d in unit,attached garage,25.6385,-80.3901,FL
 7041799923,Delaware,1012,apartment,740,1,1,1,1,1,0,0,0,Unknown,Unknown,39.796,-75.4852,DE
 7040070091,Tyler / East Tx,945,apartment,700,1,1,1,1,1,0,0,0,w/d hookups,Unknown,31.7346,-95.5332,TX
-7049693940,"Washington, Dc",1395,apartment,722,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,38.7675,-77.4417,DC
+7049693940,Washington  Dc,1395,apartment,722,1,1,1,1,0,0,0,0,w/d in unit,off-street parking,38.7675,-77.4417,DC
 7045594810,Kennewick-Pasco-Richland,1500,apartment,500,2,1,1,1,0,1,0,1,laundry in bldg,Unknown,46.2123,-119.197,WA
 7014813045,Port Huron,767,apartment,576,1,1,1,1,1,0,0,0,w/d hookups,Unknown,42.9135,-82.4813,MI
 7031126718,Lubbock,899,apartment,1095,2,2,1,1,0,0,0,0,w/d hookups,carport,33.5924,-101.937,TX
@@ -9176,14 +9176,14 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049265354,York,900,apartment,1600,2,1,0,0,1,0,0,0,w/d hookups,off-street parking,39.8994,-76.6429,PA
 7033429724,Columbus,349,apartment,1157,3,2,0,0,1,0,0,0,Unknown,Unknown,32.4779,-84.898,GA
 7036981372,Pensacola,1900,house,2200,4,3,0,0,0,0,0,0,w/d hookups,off-street parking,30.4756,-87.3179,FL
-7041252072,"Quad Cities, Ia/Il",1125,apartment,1040,3,1,1,0,1,0,0,0,Unknown,attached garage,41.4885,-90.321,IL
+7041252072,Quad Cities  Ia/Il,1125,apartment,1040,3,1,1,0,1,0,0,0,Unknown,attached garage,41.4885,-90.321,IL
 7024423348,Mcallen / Edinburg,1050,apartment,1055,3,2,1,1,1,0,0,0,w/d in unit,carport,26.2792,-98.1832,TX
-7049376060,"Quad Cities, Ia/Il",1100,house,1334,3,1,1,1,1,0,0,0,Unknown,Unknown,41.5385,-90.5613,IL
+7049376060,Quad Cities  Ia/Il,1100,house,1334,3,1,1,1,1,0,0,0,Unknown,Unknown,41.5385,-90.5613,IL
 7047584408,Nashville,1100,apartment,870,2,1.5,1,1,1,0,0,0,laundry on site,Unknown,36.064,-86.6914,TN
 7038403872,Boulder,1566,apartment,767,1,1,0,0,1,0,0,0,Unknown,Unknown,39.8854,-105.114,CO
 7038408264,Topeka,635,apartment,716,1,1,0,0,1,0,0,0,Unknown,Unknown,39.0119,-95.7151,KS
 7050095492,Modesto,1300,house,1300,3,2,0,0,0,0,0,0,w/d hookups,detached garage,37.6192,-120.957,CA
-7034640226,"Washington, Dc",1860,apartment,671,1,1,0,0,1,0,0,0,Unknown,Unknown,38.8856,-77.1802,DC
+7034640226,Washington  Dc,1860,apartment,671,1,1,0,0,1,0,0,0,Unknown,Unknown,38.8856,-77.1802,DC
 7036382919,Flint,1235,apartment,1125,2,2,1,1,1,0,0,0,w/d in unit,carport,42.8009,-83.734,MI
 7044776997,Tuscaloosa,850,townhouse,1156,2,1.5,1,1,0,0,0,0,w/d hookups,street parking,33.1563,-87.5607,AL
 7046011871,Reno / Tahoe,1392,apartment,987,2,2,1,1,1,0,0,0,Unknown,carport,39.5362,-119.736,CA
@@ -9192,7 +9192,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7030888911,Shreveport,900,house,1107,3,1.5,0,1,0,0,0,0,w/d hookups,carport,32.4614,-93.8676,LA
 7030863803,Monterey Bay,3095,apartment,1281,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,36.6122,-121.85,CA
 7037700438,Toledo,809,townhouse,935,2,1.5,1,1,1,0,0,0,w/d in unit,Unknown,41.2239,-83.8964,OH
-7050745552,"St Louis, Mo",840,apartment,901,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.7229,-90.4474,IL
+7050745552,St Louis  Mo,840,apartment,901,2,1,1,1,1,0,0,0,laundry on site,off-street parking,38.7229,-90.4474,IL
 7050014154,San Diego,2149,apartment,1250,3,1.5,1,1,1,0,0,0,w/d in unit,off-street parking,32.7455,-117.023,CA
 7035142980,Hilton Head,2500,apartment,1536,2,2.5,1,1,1,0,0,0,w/d in unit,attached garage,32.1872,-80.7193,SC
 7040709384,Delaware,1072,apartment,899,2,2,1,1,1,0,0,0,w/d in unit,Unknown,39.1534,-75.5648,DE
@@ -9209,7 +9209,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7031335402,Topeka,775,apartment,1200,2,2,1,1,1,0,0,0,w/d hookups,carport,39.0652,-95.7298,KS
 7048195123,Hawaii,3200,duplex,1350,2,2,0,0,0,0,0,0,w/d in unit,street parking,21.6312,-158.069,HI
 7016321427,Auburn,534,apartment,1523,4,2,1,1,1,0,0,0,w/d in unit,Unknown,32.6149,-85.508,AL
-7049919551,"Washington, Dc",1550,apartment,700,0,1,0,0,1,0,0,0,Unknown,Unknown,38.8682,-76.8156,DC
+7049919551,Washington  Dc,1550,apartment,700,0,1,0,0,1,0,0,0,Unknown,Unknown,38.8682,-76.8156,DC
 7049197538,Rockford,625,apartment,900,2,1,0,0,1,0,0,0,laundry on site,off-street parking,42.2871,-89.6703,IL
 7035708019,Battle Creek,744,apartment,950,2,1,1,1,1,0,0,0,laundry on site,off-street parking,42.2951,-85.1993,MI
 7014024398,Galveston,1060,apartment,924,2,2,1,1,0,0,0,0,w/d in unit,Unknown,29.4402,-95.098,TX
@@ -9229,7 +9229,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032841106,Kennewick-Pasco-Richland,995,apartment,710,2,1,1,1,0,0,0,0,w/d in unit,carport,46.2522,-119.288,WA
 7019221810,Topeka,625,apartment,792,1,1,1,1,1,0,0,0,laundry in bldg,off-street parking,39.0237,-95.7558,KS
 7047128513,Nashville,1129,apartment,972,2,2,0,0,1,0,0,0,Unknown,Unknown,36.0947,-86.9242,TN
-7041174254,"Washington, Dc",2890,apartment,430,1,1,0,0,0,0,0,1,laundry in bldg,Unknown,38.9146,-77.0396,DC
+7041174254,Washington  Dc,2890,apartment,430,1,1,0,0,0,0,0,1,laundry in bldg,Unknown,38.9146,-77.0396,DC
 7049689194,Greenville / Upstate,1513,apartment,770,1,1,0,0,1,0,0,0,Unknown,Unknown,34.8463,-82.3961,SC
 7035790326,Lincoln,1255,apartment,1690,3,2,1,1,0,0,0,0,w/d in unit,off-street parking,40.75,-96.6644,NE
 7041208855,Pensacola,1312,apartment,1127,2,2,1,1,1,0,0,0,w/d hookups,street parking,30.5241,-87.2167,FL
@@ -9249,13 +9249,13 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7032221845,Flint,1235,apartment,1125,2,2,1,1,1,0,0,0,w/d in unit,carport,42.8009,-83.734,MI
 7022712443,Florida Keys,2448,apartment,768,2,1,1,1,1,0,0,0,laundry on site,off-street parking,24.5587,-81.7506,FL
 7047456457,Huntsville / Decatur,847,apartment,1402,2,2,1,1,1,0,0,0,w/d in unit,off-street parking,34.6911,-86.575,AL
-7041334438,"Quad Cities, Ia/Il",990,house,1426,2,1.5,1,1,1,0,0,0,Unknown,detached garage,41.5385,-90.5613,IL
+7041334438,Quad Cities  Ia/Il,990,house,1426,2,1.5,1,1,1,0,0,0,Unknown,detached garage,41.5385,-90.5613,IL
 7044809926,Charlotte,1730,apartment,745,1,1,1,1,1,0,0,0,Unknown,Unknown,35.2091,-80.8387,NC
 7045694814,Rhode Island,1650,apartment,780,2,1,1,1,1,0,0,0,w/d in unit,street parking,41.5227,-71.301,RI
-7049628590,"Washington, Dc",3000,apartment,994,1,1.5,1,1,0,1,0,0,w/d in unit,attached garage,38.953,-77.2295,DC
+7049628590,Washington  Dc,3000,apartment,994,1,1.5,1,1,0,1,0,0,w/d in unit,attached garage,38.953,-77.2295,DC
 7036297925,Palm Springs,650,house,3100,4,4.5,0,0,1,0,0,1,Unknown,Unknown,33.6685,-116.308,CA
 7035285061,San Antonio,885,apartment,660,1,1,1,1,1,0,0,0,laundry on site,Unknown,32.8958,-96.9744,TX
-7051223453,"Kansas City, Mo",839,apartment,903,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9928,-94.6771,KS
+7051223453,Kansas City  Mo,839,apartment,903,2,1,1,1,1,0,0,0,laundry in bldg,off-street parking,38.9928,-94.6771,KS
 7039391818,Eastern Nc,589,apartment,1447,4,4,1,1,1,0,0,1,w/d in unit,Unknown,35.602,-77.3702,NC
 7040614999,Space Coast,1395,apartment,1418,2,2,0,0,1,0,0,0,Unknown,Unknown,28.0363,-80.6326,FL
 7041893072,Charleston,2145,apartment,1641,3,3,1,1,1,0,0,0,w/d in unit,Unknown,33.0557,-80.1502,SC
@@ -9319,7 +9319,7 @@ id,region,price,type,sqfeet,beds,baths,cats_allowed,dogs_allowed,smoking_allowed
 7049875440,Atlanta,1280,apartment,1326,3,2,1,1,1,0,0,0,w/d hookups,street parking,34.2505,-84.4909,GA
 7023005498,Champaign Urbana,2425,apartment,1364,3,3,0,0,0,0,0,1,w/d in unit,carport,40.111,-88.2407,IL
 7050295710,Reno / Tahoe,1449,apartment,712,1,1,1,1,0,1,0,0,w/d in unit,carport,39.5356,-119.727,NV
-7050062056,"Washington, Dc",1483,apartment,850,1,1,1,1,1,0,0,1,laundry in bldg,Unknown,38.8127,-77.1292,DC
+7050062056,Washington  Dc,1483,apartment,850,1,1,1,1,1,0,0,1,laundry in bldg,Unknown,38.8127,-77.1292,DC
 7045146852,South Jersey,1460,apartment,800,2,1,1,1,1,0,0,0,w/d in unit,Unknown,40.0086,-74.7896,NJ
 7037017922,Cincinnati,845,apartment,795,2,1,1,1,1,0,0,0,Unknown,Unknown,39.1432,-84.5217,OH
 7049266909,Rochester,1450,duplex,1250,3,1,1,1,0,0,0,0,w/d in unit,off-street parking,43.1395,-77.6138,NY
