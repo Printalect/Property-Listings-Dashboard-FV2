@@ -76,7 +76,3 @@ def update_figure(column):
 
 if __name__ == '__main__':
     app.run_server()
-
-
-if __name__ == '__main__':
-    app.run_server()
