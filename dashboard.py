@@ -1,4 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug 10 18:22:54 2020
+
+@author: MasterDK-Laptop
+"""
 # import main libs
+import os
 import pandas as pd
 import plotly.express as px
 
@@ -8,18 +15,20 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output# Load Data
 
-#from jupyter_dash import JupyterDash
-# app = JupyterDash(__name__, external_stylesheets=external_stylesheets1)
-app =  dash.Dash(__name__, external_stylesheets=external_stylesheets1)
-server = app.server
+#fileurl = 'https://github.com/Printalect/Property-Listings-Dashboard/blob/master/property-listings-downsampled.csv'
+fileurlraw = 'https://raw.githubusercontent.com/Printalect/Property-Listings-Dashboard/master/property-listings-downsampled.csv'
+rawdata = pd.read_csv(fileurlraw)
 
-rawdata = pd.read_csv('property-listings-downsampled.csv')
 # Dashboard one
 plotdata = rawdata.groupby(['state', 'type'])['price'].mean().reset_index()
 #plotdata.rename(columns={'id':'price'}, inplace=True)
 typesconsidered = ['house', 'townhouse', 'apartment']
 
 external_stylesheets1 = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+#from jupyter_dash import JupyterDash
+# app = JupyterDash(__name__, external_stylesheets=external_stylesheets1)
+app =  dash.Dash(__name__, external_stylesheets=external_stylesheets1)
+server = app.server
 
 # Build App
 #app = JupyterDash(__name__) #!!!!!
