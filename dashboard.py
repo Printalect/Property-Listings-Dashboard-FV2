@@ -7,7 +7,7 @@ import dash
 import dash_table
 import dash_core_components as dcc
 import dash_html_components as html
-from dash.dependencies import Input, Output# Load Data
+from dash.dependencies import Input, Output  # Load Data
 
 fileurlraw = 'https://raw.githubusercontent.com/Printalect/Property-Listings-Dashboard/master/property-listings-downsampled.csv'
 rawdata = pd.read_csv(fileurlraw)
@@ -21,7 +21,7 @@ plotdata = plotdata.groupby('state').filter(
 statesconsidered = sorted(list(set(plotdata['state'])))
 
 external_stylesheets1 = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app =  dash.Dash(__name__, external_stylesheets=external_stylesheets1)
+app = dash.Dash(__name__, external_stylesheets=external_stylesheets1)
 server = app.server
 
 # Build App
@@ -50,14 +50,17 @@ app.layout = html.Div([
     ]),
 ])
 
+
 # Define callback to update graph
 @app.callback(Output('graph', 'figure'), [
     Input("column-dropdown-type", "value"),
-    Input("column-dropdown-state", "value")
+    Input("column-dropdown-state", "value"),
+    Input("column-dropdown-type", "label"),
+    Input("column-dropdown-state", "label")
 ])
 
-def update_figure(plottype, plotstate):
-    fig = px.scatter_mapbox(
+def update_figure(plottype, plotstate, typelabel, statelabel):
+    return px.scatter_mapbox(
         plotdata[(plotdata['type'] == plottype)
                  & (plotdata['state'] == plotstate)],
         lat="lat",
@@ -67,11 +70,9 @@ def update_figure(plottype, plotstate):
         mapbox_style="carto-positron",
         hover_name='type',
         hover_data=['type', 'price', 'sqfeet', 'baths', 'beds'],
-        #color_discrete_sequence=px.colors.qualitative.Set3,
-        #title = 'Listing Selection by State: {} & Type: {}'.format(plotstate, plotype),
+        title = ('Listing Selection by State: {} & Type: {}'.format(str(plottype).title(), str(plotstate))),
         size_max=15,
         zoom=4.5)
-    return fig
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=False, port=8052)
