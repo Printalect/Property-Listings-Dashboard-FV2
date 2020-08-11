@@ -23,7 +23,6 @@ pandas==1.0.5
 plotly==4.9.0
 plotly-geo==1.0.0
 ply==3.11
-py4j==0.10.9
 pyarrow==0.15.1
 pycosat==0.6.3
 pycparser==2.2
