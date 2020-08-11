@@ -42,7 +42,7 @@ app.layout = html.Div([
         "State Selection",
         dcc.Dropdown(id='column-dropdown-state',
                      clearable=False,
-                     value=statesconsidered[0],
+                     value='CA',
                      options=[{
                          'label': c,
                          'value': c
@@ -68,11 +68,13 @@ def update_figure(plottype, plotstate, typelabel, statelabel):
         color="price",
         size="price",
         mapbox_style="carto-positron",
+        text='state',
         hover_name='type',
         hover_data=['type', 'price', 'sqfeet', 'baths', 'beds'],
-        title = ('Listing Selection by State: {} & Type: {}'.format(str(plottype).title(), str(plotstate))),
+        title = ('Listing Data by Price For: {}\'s in {}'.format(str(plottype).title(), str(plotstate))),
         size_max=15,
-        zoom=4.5)
+        zoom=4,
+        height=500)
 
 if __name__ == '__main__':
     app.run_server(debug=False, port=8052)
