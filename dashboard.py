@@ -6,18 +6,18 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output# Load Data
 
-rawdata = pd.read_csv('property-listings-downsampled.csv')
+#from jupyter_dash import JupyterDash
+# app = JupyterDash(__name__, external_stylesheets=external_stylesheets1)
+app =  dash.Dash(__name__, external_stylesheets=external_stylesheets1)
+server = app.server
 
+rawdata = pd.read_csv('property-listings-downsampled.csv')
 # Dashboard one
 plotdata = rawdata.groupby(['state', 'type'])['price'].mean().reset_index()
 #plotdata.rename(columns={'id':'price'}, inplace=True)
 typesconsidered = ['house', 'townhouse', 'apartment']
 
 external_stylesheets1 = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-#from jupyter_dash import JupyterDash
-# app = JupyterDash(__name__, external_stylesheets=external_stylesheets1)
-app =  dash.Dash(__name__, external_stylesheets=external_stylesheets1)
-server = app.server
 
 # Build App
 #app = JupyterDash(__name__) #!!!!!
@@ -57,4 +57,4 @@ def update_figure(column):
 
 
 if __name__ == '__main__':
-    app.run_server()
+    app.run_server(debug=True)
