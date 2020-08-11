@@ -1,63 +1,62 @@
-import dash
+# import main libs
+import pandas as pd
+import plotly.express as px
+
 import dash_core_components as dcc
 import dash_html_components as html
-import plotly.graph_objs as go
+from dash.dependencies import Input, Output# Load Data
 
-########### Define your variables
-beers=['Chesapeake Stout', 'Snake Dog IPA', 'Imperial Porter', 'Double Dog IPA']
-ibu_values=[35, 60, 85, 75]
-abv_values=[5.4, 7.1, 9.2, 4.3]
-color1='lightblue'
-color2='darkgreen'
-mytitle='Beer Comparison'
-tabtitle='beer!'
-myheading='Flying Dog Beers'
-label1='IBU'
-label2='ABV'
-githublink='https://github.com/austinlasseter/flying-dog-beers'
-sourceurl='https://www.flyingdog.com/beers/'
+#fileurl = 'https://github.com/Printalect/Property-Listings-Dashboard/blob/master/property-listings-downsampled.csv'
+fileurlraw = 'https://raw.githubusercontent.com/Printalect/Property-Listings-Dashboard/master/property-listings-downsampled.csv'
+rawdata = pd.read_csv(fileurlraw)
 
-########### Set up the chart
-bitterness = go.Bar(
-    x=beers,
-    y=ibu_values,
-    name=label1,
-    marker={'color':color1}
-)
-alcohol = go.Bar(
-    x=beers,
-    y=abv_values,
-    name=label2,
-    marker={'color':color2}
-)
+# Dashboard one
+plotdata = rawdata.groupby(['state', 'type'])['price'].mean().reset_index()
+#plotdata.rename(columns={'id':'price'}, inplace=True)
+typesconsidered = ['house', 'townhouse', 'apartment']
 
-beer_data = [bitterness, alcohol]
-beer_layout = go.Layout(
-    barmode='group',
-    title = mytitle
-)
-
-beer_fig = go.Figure(data=beer_data, layout=beer_layout)
-
-
-########### Initiate the app
-external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
-app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+external_stylesheets1 = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
+#from jupyter_dash import JupyterDash
+# app = JupyterDash(__name__, external_stylesheets=external_stylesheets1)
+app =  dash.Dash(__name__, external_stylesheets=external_stylesheets1)
 server = app.server
-app.title=tabtitle
 
-########### Set up the layout
-app.layout = html.Div(children=[
-    html.H1(myheading),
-    dcc.Graph(
-        id='flyingdog',
-        figure=beer_fig
-    ),
-    html.A('Code on Github', href=githublink),
-    html.Br(),
-    html.A('Data Source', href=sourceurl),
-    ]
-)
+# Build App
+#app = JupyterDash(__name__) #!!!!!
+app.layout = html.Div([
+    html.H2("Dashboard: Housing"),
+    dcc.Graph(id='graph'),
+    html.Label([
+        "Type Selection",
+        dcc.Dropdown(
+            id='column-dropdown',
+            clearable=False,
+            value=typesconsidered[2],
+            options=[{
+                'label': c.title(),
+                'value': c
+            } for c in typesconsidered])
+    ]),
+])
+
+# Define callback to update graph
+@app.callback(Output('graph', 'figure'), [Input("column-dropdown", "value")])
+def update_figure(column):
+    return px.choropleth(plotdata[plotdata['type'] == column],
+                            locations='state',
+                            color='price',
+                            locationmode='USA-states',
+                            #hover_name='state'.title(),
+                            #hover_data=['']
+                            labels = {'price': 'Price'},
+                            title='Mean Price: {}'.format(column.title())
+                        )\
+            .update_layout(
+                geo_scope='usa',  # Plot only the USA instead of globe
+            )
+
+# app.run_server(debug=True, mode='inline', port=8058)
+
 
 if __name__ == '__main__':
     app.run_server()
