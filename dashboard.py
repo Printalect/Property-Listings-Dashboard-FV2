@@ -6,9 +6,7 @@ import dash_core_components as dcc
 import dash_html_components as html
 from dash.dependencies import Input, Output# Load Data
 
-#fileurl = 'https://github.com/Printalect/Property-Listings-Dashboard/blob/master/property-listings-downsampled.csv'
-fileurlraw = 'https://raw.githubusercontent.com/Printalect/Property-Listings-Dashboard/master/property-listings-downsampled.csv'
-rawdata = pd.read_csv(fileurlraw)
+rawdata = pd.read_csv('property-listings-downsampled.csv')
 
 # Dashboard one
 plotdata = rawdata.groupby(['state', 'type'])['price'].mean().reset_index()
