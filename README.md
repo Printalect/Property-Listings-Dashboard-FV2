@@ -4,6 +4,10 @@
 * Source: original help with setup was through [Github User--> austinlasseter](https://github.com/austinlasseter/plotly_dash_tutorial)
 * Source: Dataset is through [USA Listings](https://www.kaggle.com/austinreese/usa-housing-listings)
 
+![Dashboard](/assets/propertylistingsdashboar_illustration.png)
+Format: ![Alt Text](https://listingsdashboarddv2.herokuapp.com/)
+
+
 * Take a moment to read my [Medium post about deploying Dash apps](https://medium.com/@austinlasseter/how-to-deploy-a-simple-plotly-dash-app-to-heroku-622a2216eb73).
 * I also have a gallery of simple Dash apps for learning [here](https://github.com/austinlasseter/plotly_dash_tutorial/blob/master/06%20Heroku%20examples/list%20of%20resources.md).
 
