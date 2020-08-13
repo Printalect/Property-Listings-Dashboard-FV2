@@ -11,9 +11,8 @@ import dash_bootstrap_components as dbc
 from dash.dependencies import Input, Output  # Load Data
 
 sourcelink = 'https://www.kaggle.com/austinreese/usa-housing-listings'
-fileurlraw ='https://raw.githubusercontent.com/Printalect/Property-Listings-Dashboard/master/assets/property-listings-100000-d2.csv'
+fileurlraw = 'https://raw.githubusercontent.com/Printalect/Property-Listings-Dashboard-FV2/master/assets/property-listings-100000-d2.csv'
 rawdata    = pd.read_csv(fileurlraw)
-#plotdata = rawdata.copy()
 
 type_options = ['house', 'townhouse', 'apartment']
 category_options = [
