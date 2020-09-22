@@ -1,0 +1,61 @@
+# -*- coding: utf-8 -*-
+"""
+Spyder Editor
+
+This is a temporary script file.
+"""
+from selenium.webdriver.firefox.options import Options as FirefoxOptions
+from apscheduler.schedulers.blocking import BlockingScheduler
+from selenium import webdriver
+from bs4 import BeautifulSoup
+
+import requests
+import os
+import os.path
+import time
+from numpy import random
+from datetime import datetime
+
+url_property = 'https://property-rentals-usa-fv2.herokuapp.com/'
+url_ev       = 'https://electric-vehicle-models-fv1.herokuapp.com/'
+soup='Out of range'
+
+def ping_app():
+    now = datetime.now()
+    print("Time :", now.strftime("%H:%M:%S"))
+    #------------------------------
+    options = FirefoxOptions()
+    options.add_argument("--headless")
+    browser = webdriver.Firefox(options=options)
+    #--------------- Property Dashboard
+    browser.get(url_property)
+    soup='Waiting...'
+    soup=BeautifulSoup(browser.page_source, "lxml").title.text
+    print('Property: ', soup)
+    #--------------- EV Dashboard
+    browser.get(url_ev)
+    soup='Waiting...'
+    soup=BeautifulSoup(browser.page_source,"lxml").title.text
+    print('Vehicle : ', soup)
+    print('\n')
+    #--------------- Sleep timer
+    time.sleep(120)
+    browser.quit()
+    
+
+def run_job():
+    print('Executing...')
+    sched = BlockingScheduler()
+    sched.add_job(
+        ping_app,
+        'cron',
+        day_of_week='mon-sat',
+        hour='6-19',
+        minute='0-59/20',
+        timezone='America/Los_Angeles',
+        end_date='2020-12-30',
+        id='my_job_id')
+    sched.start()
+
+if __name__ == '__main__':
+    run_job()
